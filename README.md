@@ -46,7 +46,7 @@
 </details>
 
 <h2 id="b">📔 上游列表</h2>
-<details>
+<details open>
 <summary>点击查看</summary>
 <ul>
 
