@@ -10,6 +10,9 @@
   <a href="https://github.com/skywrt/Merger-rule">
     <img src="https://img.shields.io/github/stars/skywrt/Merger-rule?style=flat-square" alt="stars" />
   </a>
+  <a href="https://github.com/skywrt/Merger-rule/issues/">
+    <img src="https://img.shields.io/github/issues/skywrt/Merger-rule?style=flat-square" alt="open issues" />
+  </a>
   <a href="https://github.com/skywrt/Merger-rule">
     <img src="https://img.shields.io/github/license/skywrt/Merger-rule?style=flat-square" alt="license" />
   </a>
