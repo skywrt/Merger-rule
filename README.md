@@ -21,8 +21,6 @@
     <a href="#b">上游列表</a>
   <span> · </span>
     <a href="#c">拦截效果</a>
-  <span> · </span>
-    <a href="#d">完善项目</a>
   </h4>
 
 </div>
