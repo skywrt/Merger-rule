@@ -1,4 +1,4 @@
 [Adblock Plus 2.0]
-! Title: GOODBYEADS
-! Homepage: https://github.com/8680/GOODBYEADS
+! Title: Merger-rule
+! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
