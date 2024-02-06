@@ -10,9 +10,6 @@
   <a href="https://github.com/skywrt/Merger-rule">
     <img src="https://img.shields.io/github/stars/skywrt/Merger-rule?style=flat-square" alt="stars" />
   </a>
-  <a href="https://github.com/skywrt/Merger-rule/issues/">
-    <img src="https://img.shields.io/github/issues/skywrt/Merger-rule?style=flat-square" alt="open issues" />
-  </a>
   <a href="https://github.com/skywrt/Merger-rule">
     <img src="https://img.shields.io/github/license/skywrt/Merger-rule?style=flat-square" alt="license" />
   </a>
@@ -74,12 +71,3 @@
 [Block Ads! Adblock test](https://blockads.fivefilters.org/)
 
 [Ad Blocker Test](https://d3ward.github.io/toolz/adblock.html)
-
-<h2 id="d">💬 完善项目</h2>
-
-希望大家可以提交 Issue 或者 Request 来帮助我完善规则 我审核之后会加入到规则，如果规则有误杀我会尽快处理
-
-**提交范围**
-
-- 漏拦截的广告
-- 误杀的网站
