@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-02-07 09:57:05（北京时间） 
-! Total count: 6845
+! Version: 2024-02-07 20:47:19（北京时间） 
+! Total count: 6848
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -263,7 +263,6 @@
 @@qlogo.cn^
 @@weather.gov/xml/$document
 @@ws://localhost^$stealth,domain=play.afreecatv.com
-@@www.any.gs$urlblock
 @@|http$script,~third-party,domain=mylink.*|my1ink.*|myl1nk.*|myli3k.*
 @@|http*://*.*/*.$image,third-party,domain=a2zupload.com
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
@@ -681,6 +680,7 @@
 @@||ajax.googleapis.com/ajax/libs/$script,domain=shink.me|shon.xyz
 @@||ajax.googleapis.com/ajax/libs/jquery/
 @@||ajax.googleapis.com^$script,domain=imgbox.com
+@@||ajax.googleapis.com^$script,domain=rule34hentai.net
 @@||ajio.com/static/assets/vendors~static/chunk/common/libraries/fingerprintjs2.$script,~third-party
 @@||ak.sail-horizon.com/onsite/personalize.v0.0.4.min.js$domain=standard.co.uk
 @@||ak.sail-horizon.com/spm/spm.v*.min.js$domain=usnews.com
@@ -943,7 +943,6 @@
 @@||api.taboola.com^$domain=samsung.com|thestartmagazine.com|taboolanews.com
 @@||api.touchnote.io^$xmlhttprequest,domain=app.touchnote.com
 @@||api.us1.exponea.com^$script,xmlhttprequest,domain=walmartpetrx.com
-@@||api.viddler.com/api/v*/viddler.videos.getPlaybackDetails.json$stealth
 @@||api.youla.io^$stealth
 @@||api2.branch.io/v1/open$domain=flickplay.co
 @@||api2.branch.io^$app=com.reddit.frontpage|com.spotify.music
@@ -967,6 +966,7 @@
 @@||app.sendgrid.com$document
 @@||app.sendgrid.com^$elemhide,jsinject
 @@||app.tirelocator.ca/static/scripts/google-analytics.js
+@@||app.veggly.net/plugins/cordova-plugin-admobpro/www/AdMob.js$script,~third-party
 @@||appapi.inspsearchapi.com^$domain=search.pch.com
 @@||appboycdn.com/web-sdk/$script,domain=magicseaweed.com
 @@||appcdn01.xyz/vast.js
@@ -1770,6 +1770,7 @@
 @@||cloudfront.net/libs/amplitude-$script,domain=elconfidencial.com
 @@||cloudfront.net/libs/amplitude-*-min.gz.js$domain=elconfidencial.com
 @@||cloudfront.net/opentag*.js$domain=telegraph.co.uk
+@@||cloudfront.net^$stealth=referrer,domain=routexl.de
 @@||cloudfront.net^*/jquery.google-analytics.js$domain=homepath.com
 @@||cloudinary.com/perimeterx/$image,domain=perimeterx.com
 @@||club.tgfcer.com^$generichide
@@ -2170,6 +2171,7 @@
 @@||dropgalaxy.com^$generichide
 @@||drtuber.com^$stealth
 @@||ds2play.com^$stealth=ip
+@@||dsharer.com/-ads-banner.js
 @@||dtdc.com/tracking/
 @@||dtdc.in/tracking^
 @@||duckduckgo.com/?q=$generichide
@@ -2471,7 +2473,6 @@
 @@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp|tv-tokyo.co.jp|voici.fr
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=koigaku.machicon.jp
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=soranews24.com
-@@||g.doubleclick.net/gampad/ads?*&url=https%3A%2F%2Fgames.poki.com$xmlhttprequest,domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?*&url=https%3A%2F%2Frepuls.io$xmlhttprequest,domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?*.crunchyroll.com$xmlhttprequest,domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?*superbanner_3$xmlhttprequest,domain=spiegel.de
@@ -3174,6 +3175,7 @@
 @@||googletagmanager.com/gtm.js$domain=immobilier.lefigaro.fr
 @@||googletagmanager.com/gtm.js$domain=incehesap.com
 @@||googletagmanager.com/gtm.js$domain=independent.co.uk
+@@||googletagmanager.com/gtm.js$domain=inea.pl
 @@||googletagmanager.com/gtm.js$domain=info.lifecell.ua
 @@||googletagmanager.com/gtm.js$domain=infoq.com
 @@||googletagmanager.com/gtm.js$domain=iphoneitalia.com
@@ -3528,6 +3530,7 @@
 @@||heise.de/news^
 @@||helios.pl/*/*/*?ajax=$xmlhttprequest,content,elemhide,jsinject,extension
 @@||helix.videotron.com/js/api/fingerprint.js$domain=helix.videotron.com
+@@||helix.videotron.com/js/api/fingerprint.js$~third-party
 @@||hello.myfonts.net/count/$stylesheet,domain=cfr.org
 @@||hello.myfonts.net/count/$stylesheet,domain=cfr.org|condor.com|furniturevillage.co.uk|luggagehero.com
 @@||hellomagazine.com^$stealth=dpi
@@ -3838,6 +3841,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vvvvid.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wetteronline.de
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wetv.vip
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wibc.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wordgames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wsls.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=xxxdan.com
@@ -4166,6 +4170,7 @@
 @@||kiplinger.112.2o7.net^
 @@||kissasian.li/*/*?id=$popup
 @@||kissjav.com^$generichide
+@@||kiwihousesitters.co.nz/members$urlblock
 @@||kk665403.pixnet.net^$generichide
 @@||klaviyo.com/ajax/subscriptions/subscribe$domain=productionmusiclive.com
 @@||kocaelibarisgazetesi.com/images/banner/l3oo.jpg
@@ -4888,7 +4893,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=adsy.pw|playstore.pw
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=apkmirror.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=apkmirror.com,stealth
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=arkadium.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=as-selection.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=autofaucet.dutchycorp.space
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=axilesoft.com
@@ -6750,6 +6754,7 @@
 @@||xvideos.*/models/$elemhide,jsinject,extension,xmlhttprequest
 @@||xvideos.*/pornstars/$elemhide,jsinject,extension,xmlhttprequest
 @@||xvideos.*/profiles/$elemhide,jsinject,extension,xmlhttprequest
+@@||xvideos.com/video-get-comments/
 @@||xxxxx520.com^$generichide
 @@||xzeepb2clookuppsta001.blob.core.windows.net/comed/src/js/google-analytics.js$domain=secure1.comed.com
 @@||yabs.yandex.ru$domain=yandex.by|yandex.com.tr|yandex.kz|yandex.ru
@@ -6810,9 +6815,7 @@
 @@||youtube.googleapis.com/embed^$stealth
 @@||ytimg.com^*_banner$domain=youtube.com
 @@||ytlarge.com/youtube/ad/
-@@||ytlarge.com/youtube/css/apopwin.js
-@@||ytlarge.com/youtube/css/content-ads.js
-@@||ytlarge.com/youtube/css/mnpw3.js
+@@||ytlarge.com/youtube/css/$script
 @@||yu.xyz.mn/images/event.gif?$image,~third-party
 @@||yummy.best^$generichide
 @@||yunduanxin.xyz/static/js/banger.js
