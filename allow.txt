@@ -2,7 +2,7 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-02-13 09:59:28（北京时间） 
+! Version: 2024-02-13 20:46:35（北京时间） 
 ! Total count: 6856
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -206,7 +206,6 @@
 @@/static/*/js/plugins/adview_*_ads.js$~third-party,domain=zebranovel.com|panda-novel.com|pandasnovel.com
 @@/static/ad/main.$domain=bbmei.top|bbmen.top
 @@/store_ad/*$domain=pcstore.com.tw
-@@/streamlive/*.m3u8?token=$stealth,domain=stream.televall.website
 @@/themes/flow/frontend_assets/js/advertisement.js|$~third-party
 @@/track?*&ref=$~script,~xmlhttprequest,~other,~image
 @@/track_click?$~script,~xmlhttprequest,~other,~image
@@ -314,6 +313,7 @@
 @@||1gr.cz/js/dtm/cache/satelliteLib-$domain=idnes.cz
 @@||1gr.cz/log/score.aspx?page*url=
 @@||1keydata.com^$generichide
+@@||1plus1.video/video/embed/$stealth,~script,~xmlhttprequest,~other
 @@||1trackapp.com/static/tracking/$script,stylesheet,~third-party
 @@||2018x.bid/adview.js
 @@||210.40.130.91^*/ad.css?$stylesheet
@@ -833,6 +833,7 @@
 @@||api-v*.trbo.com/r.php$domain=blau.de
 @@||api-v*.trbo.com/r.php$domain=o2online.de
 @@||api-v4.trbo.com/r.php?$script,domain=blau.de
+@@||api.1plus1.video^$stealth
 @@||api.adguard-dns.io/api/
 @@||api.adinplay.com/$xmlhttprequest,domain=taming.io
 @@||api.adinplay.com/libs/aiptag/$script
@@ -982,6 +983,7 @@
 @@||appledaily.com/js/nxm_
 @@||appnee.com/clever_ads.js
 @@||apps.derstandard.at^*/TrackingCookieCheck?$subdocument
+@@||apps.geodan.nl^$stealth=referrer
 @@||apv-launcher.minute.ly/api/$script
 @@||aqy103.com/js/aqy/main.js
 @@||aramex.co.nz/Umbraco/Api/Tracking/$~third-party
@@ -1017,7 +1019,6 @@
 @@||assets.dfb.de/uploads/*/original_$image
 @@||assets.espn.go.com/espn360/builds/nielsen/ggce*.swf
 @@||assets.giocdn.com/2.1/gio.js$domain=saicmg.com
-@@||assets.gocomics.com/assets/ad-dependencies-*.js
 @@||assets.hc.com.tr/images/banners/$domain=hc.com.tr
 @@||assets.hcaptcha.com/captcha/
 @@||assets.macys.com/dyn_img/site_ads/
@@ -1257,7 +1258,6 @@
 @@||brutalmania.io/ads.js
 @@||bt.com^*/touchclarity/homepage/omtr_tc.js
 @@||bt.dk/build/prebid-ads-advertisement_adbanner.*.js
-@@||btgigs.info/index.php$generichide
 @@||btloader.com/tag$domain=taming.io
 @@||btloader.com/tag?$domain=programme-tv.net
 @@||btloader.com/tag?$domain=voici.fr
@@ -1490,6 +1490,7 @@
 @@||cdn.mxpnl.com/libs/mixpanel-*.min.js$domain=voot.com
 @@||cdn.mxpnl.com/libs/mixpanel-2-latest.min.js$domain=twe.no
 @@||cdn.nlark.com^$image,stealth,domain=yuque.com
+@@||cdn.ometria.com/tags/*.js$domain=holtrenfrew.com
 @@||cdn.optimizely.com/datafiles/*.json$domain=hm.com
 @@||cdn.optimizely.com/datafiles/*.json$domain=shop.mango.com
 @@||cdn.optimizely.com/datafiles/*.json$domain=talktalk.co.uk
@@ -4283,6 +4284,7 @@
 @@||liveapi.cleverpush.com/websocket$websocket,domain=heise.de
 @@||livefyre.com/wjs/v1.0/javascripts/CommentCount.js$domain=mlb.com
 @@||livehindustan.com/*ad$script
+@@||liveindex.org/wp-content/plugins/imedia-basic/*.js
 @@||liveinternet.ru/code$generichide,genericblock,domain=liveinternet.ru
 @@||livenation.122.2o7.net/b/ss/$domain=oss.ticketmaster.com
 @@||livesicilia.it/wp-content/plugins/digistream/digiplayer/js/videojs.ga.js?$script,~third-party
@@ -4371,7 +4373,6 @@
 @@||manage.wix.com/_api/wix-laboratory-server/laboratory/conductAllInScope?scope=vod$domain=editor.wixapps.net
 @@||manageengine.com/images/logo/$image,~third-party
 @@||manageengine.com/products/ad-manager/$~third-party
-@@||management.azure.com^$stealth=3p-auth
 @@||mangadex.*/images^
 @@||mangapark.net^$image
 @@||manhua.acimg.cn^$stealth,domain=ac.qq.com
@@ -5323,8 +5324,6 @@
 @@||rd.ias.global.rakuten.com/adv/$domain=24.rakuten.co.jp
 @@||rddywd.com/adcode.png$domain=populistpress.com|canadafreepress.com|thelibertydaily.com|writerscafe.org|populist.press|welovetrump.com|grammarist.com|protrumpnews.com|concomber.com|videogamesblogger.com|gamersheroes.com|letocard.fr|100percentfedup.com|thepalmierireport.com|kresy.pl|beforeitsnews.com|thepatriotjournal.com|phoenixnewtimes.com|thepoke.co.uk|comicallyincorrect.com|thegatewaypundit.com
 @@||rddywd.com/advertising.js$domain=populistpress.com|canadafreepress.com|thelibertydaily.com|writerscafe.org|populist.press|welovetrump.com|grammarist.com|protrumpnews.com|concomber.com|videogamesblogger.com|gamersheroes.com|letocard.fr|100percentfedup.com|thepalmierireport.com|kresy.pl|beforeitsnews.com|thepatriotjournal.com|phoenixnewtimes.com|thepoke.co.uk|comicallyincorrect.com|thegatewaypundit.com
-@@||read.amazon.*^$content,extension,elemhide,jsinject
-@@||read.amazon.*^$stealth
 @@||readmoo.com/images/social/
 @@||real.de/fileadmin/template/javascript/emos2.js
 @@||realclearpolitics.com/esm/assets/js/admiral.js
@@ -5686,6 +5685,7 @@
 @@||shopeemobile.com/shopee/*/modules/ads/
 @@||shopeesz.com/shopee/*/modules/ads/
 @@||shopify.com/shopifycloud/boomerang/shopify-boomerang-$domain=rydewear.com
+@@||shortadd.com^$generichide
 @@||shorterall.com^$cookie=_gid
 @@||show.g.mediav.com/s?type=$domain=v.360kan.com
 @@||show.g.mediav.com/s?type=$script,domain=miercn.com
