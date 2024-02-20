@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-02-20 09:11:02（北京时间） 
-! Total count: 6831
+! Version: 2024-02-20 20:30:17（北京时间） 
+! Total count: 6830
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -640,7 +640,6 @@
 @@||adtng.com/get/$subdocument,domain=hanime.tv
 @@||adv.asahi.com^$popup
 @@||adv.bebad.it/js/ads.js$domain=badtaste.it
-@@||adv.clickadu.com^$domain=adv.clickadu.com
 @@||adv.gg^$popup
 @@||advert.kf5.com^
 @@||advertising.yahoo.com^$~third-party
@@ -832,7 +831,6 @@
 @@||api-v*.trbo.com/r.php$domain=o2online.de
 @@||api-v4.trbo.com/r.php?$script,domain=blau.de
 @@||api.1plus1.video^$stealth
-@@||api.adguard-dns.io/api/
 @@||api.adinplay.com/$xmlhttprequest,domain=taming.io
 @@||api.adinplay.com/libs/aiptag/$script
 @@||api.adinplay.com/libs/aiptag/*/tag.min.js$domain=v6p9d9t4.ssl.hwcdn.net|golfroyale.io|bullet.town|zoneroyale.com|memegames.space|erigato.space|creatur.io|wormate.io|deadwalk.io|swaarm.io|octagor.com|lordz2.io|brutalmania.io|warscrap.io|findcat.io|evowars.io|shellshock.io|dinoman.io|bombhopper.io|clashblade.com|littlebigsnake.com|evoworld.io
@@ -1287,6 +1285,7 @@
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=time.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=wgntv.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$domain=wivb.com
+@@||c.amazon-adsystem.com/aax2/apstag.js$domain=worldsurfleague.com
 @@||c.amazon-adsystem.com/aax2/apstag.js$script,domain=diep.io
 @@||c.amazon-adsystem.com/bao-csm/aps-comm/aps_csm.js$domain=atozmath.com
 @@||c.disquscdn.com/next/embed/*$domain=thewindowsclub.com
@@ -1656,7 +1655,6 @@
 @@||cdntvn.pl/*/assets/*advert*.js$domain=player.pl|get.x-link.pl|tvn24.pl|vod.pl
 @@||cdnvideo.ru^$stealth
 @@||cdp.cloud.unity3d.com^$app=com.rovio.baba
-@@||cdpn.io^$subdocument,stealth
 @@||cds.connatix.com/*/connatix.player.dc.js$domain=loot.tv
 @@||cds.connatix.com/*/player.css$domain=loot.tv
 @@||ced-ns.sascdn.com/diff/video/current/libs/js/controller.js$domain=ln24.be
@@ -1892,6 +1890,7 @@
 @@||coolinet.com^$generichide
 @@||coomer.su/.well-known/ddos-guard/mark/|
 @@||copypastecharacter.com^$generichide
+@@||coral.coralproject.net^$stealth
 @@||coremetrics.com*/eluminate.js
 @@||coremetrics.com/eluminate.js
 @@||costco.com.tw/_ui/shared/js/analyticsmediator.js
@@ -2226,7 +2225,6 @@
 @@||edu.cn^*/ad.css?$stylesheet
 @@||educationcanada.com^$generichide
 @@||eduscho.at/*/exactag_clientside.js
-@@||edx.org^$stealth
 @@||ee.hit.gemius.pl/gplayer.js$domain=tv3play.tv3.ee
 @@||egbilisim.com.tr/wp-content/uploads/$image
 @@||egencia.com/pubspec/scripts/include/siteanalytics_include.js
@@ -2403,7 +2401,6 @@
 @@||fltaradio.com/js/ads.js
 @@||fluidplayer.com^$script,stylesheet,domain=canyoublockit.com
 @@||flyert.com/plug/socialShare/js/social-share.
-@@||flying-lines.com/banners/$image,~third-party
 @@||flyordie.com/games/online/iframeafg*.html
 @@||focus.ti.com^*/metrics-min.js
 @@||fonts.googleapis.com^$stylesheet,domain=up-4ever.net
@@ -2537,6 +2534,7 @@
 @@||gemius.pl/gplayer.js$script,third-party
 @@||gemius.pl/gstream.js
 @@||gemius.pl/gstream.js$domain=player.antyradio.pl|player.radiozet.pl|player.chillizet.pl|player.meloradio.pl
+@@||genbird.com^$generichide
 @@||genesyslogic.com^*/ads$~third-party
 @@||genshuixue.com/??/*/counter/action_
 @@||geo.kaloo.ga/json/$script,domain=tagesspiegel.de
@@ -3421,6 +3419,7 @@
 @@||gosuslugi.ru^$stealth=dpi
 @@||gounlimited.to/ads/pop.js|
 @@||gounlimited.to/embed-*.html
+@@||gounlimited.to/embed-*.html$stealth
 @@||gounlimited.to/js/pop.js|
 @@||gov.cn/scripts/Comm/AdRotator.js
 @@||gplinks.in/track/
@@ -3699,9 +3698,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=bestgames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=bighero.io
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cdn.htmlgames.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cdn.witchhut.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=chili.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=chromecastappstips.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ciudad.com.ar
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=clipmyhorse.tv
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=coolgames.com|newgames.com
@@ -5063,6 +5060,7 @@
 @@||planetazdorovo.ru/pics/transparent_pixel.png$image,~third-party
 @@||plantyn.com/optiext/optiextension.dll$~third-party
 @@||platform.cloud.coveo.com^$stealth=3p-auth,domain=intel.*
+@@||platform.twitter.com/$domain=discovery.com
 @@||platform.twitter.com/js/tweet.*.js$domain=gamerant.com
 @@||platform.twitter.com/oct.js$domain=ncsoft.jp
 @@||platform.twitter.com/widgets.js$domain=gamerant.com
@@ -5436,7 +5434,6 @@
 @@||saabcentral.com^$generichide
 @@||sadeemapk.com^$generichide
 @@||safeframe.googlesyndication.com^$subdocument,domain=koigaku.machicon.jp
-@@||safeway.com/*/?bannerId
 @@||sail-horizon.com/spm/spm.v1.min.js$script,domain=voguegirl.jp
 @@||sankei.co.jp/js/analytics/skd.Analysis.js$script
 @@||sanspo.com/parts/chartbeat/$xmlhttprequest
@@ -5550,6 +5547,7 @@
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=ukr.net
 @@||securepubads.g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=abccar.com.tw
 @@||securepubads.g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=line.me
+@@||securepubads.g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=worldsurfleague.com
 @@||securepubads.g.doubleclick.net/pagead/ppub_config?$domain=purepeople.com
 @@||securepubads.g.doubleclick.net/pagead/ppub_config?ippd=$xmlhttprequest,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com|jytechs.in
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=10play.com.au
@@ -5843,6 +5841,7 @@
 @@||st.tubecup.org/releted_hdzog/json.php?page=$domain=m.hdzog.com
 @@||st.wetteronline.de/dr/*/css/p_*.css
 @@||stackblitz.com^$generichide
+@@||stackblitz.com^$stealth=referrer
 @@||stacksocial.com^$cookie=ajs_anonymous_id
 @@||stacksocial.com^$stealth=referrer
 @@||standardmedia.co.ke/assets/js/prebid-google-ads.js
@@ -5932,7 +5931,6 @@
 @@||static.redtube.com/mobi/images/$domain=redtube.com|redtube.net
 @@||static.rpxnow.com/js/lib/rpx.js$domain=colbertnation.com|thedailyshow.com
 @@||static.shorte.st/bundles/smeweb/$domain=sh.st
-@@||static.surfe.pro/js/net.js$domain=btcbitco.in|btcsatoshi.net|crypto4yu.com|readbitcoin.org
 @@||static.telegraph.co.uk/telegraph-advertising/tmg-gpt.min.js$domain=telegraph.co.uk
 @@||static.trbo.com/img/$domain=o2online.de
 @@||static.vocstatic.com^$script,domain=areapersonal.hoy.es
@@ -6339,6 +6337,7 @@
 @@||trustprofile.com/banners/$image
 @@||try.abtasty.com/403fb16c20596e4691fbe9ec5db9720e.js$domain=shop.euromaster.de
 @@||try.abtasty.com/78cb84f9b3158bdce6932109a6d7c7c1.js$domain=tf1.fr
+@@||tryit.w3schools.com^$document
 @@||tsyndicate.com/sdk/v1/n.js$domain=hpjav.tv
 @@||tt.omtrdc.net/rest/$xmlhttprequest,domain=shop.shoppersdrugmart.ca
 @@||tt1069.com/adbrite.js
