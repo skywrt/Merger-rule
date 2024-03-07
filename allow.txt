@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-03-06 20:31:38（北京时间） 
-! Total count: 6801
+! Version: 2024-03-07 09:00:10（北京时间） 
+! Total count: 6808
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -142,6 +142,7 @@
 @@/fingerprintjs2.min.js$domain=imooc.com
 @@/fuckadblock.$domain=datehub.co|golangnote.com|joyk.com|liumingye.cn|lnk2.cc|poedb.tw|share1223.com
 @@/fuckadblock.js$domain=uniqueten.net|allcryptoz.net|meucdn.vip|yandexcdn.com|scenelife.org|hqq.tv|czxxx.org|waaw.tv
+@@/gen.php?playerid$subdocument,stealth=referrer,domain=fastreams.live|xestreams.sx|fastreams.com|ftmstreams.com
 @@/gettoken.php?$xmlhttprequest,domain=dropgalaxy.com
 @@/guanggao/*$domain=icbc.com.cn|igame.qq.com
 @@/hitCount.$script,domain=on.cc
@@ -246,6 +247,7 @@
 @@_cpc_cpm/$domain=youranshare.com
 @@_cpc_cpm_$domain=fydy8.com|saraba1st.com
 @@analytics^$domain=wwe.com
+@@assets/dist//bts2$xmlhttprequest,stealth=referrer,domain=previbes.online
 @@broadcastlv.chat.bilibili.com^
 @@cdn.eporner.com^$stealth=referrer
 @@clicks.$domain=cimbclicks.com.my,~third-party
@@ -885,6 +887,7 @@
 @@||api.ebay-kleinanzeigen.de/api/ads/
 @@||api.ebay-kleinanzeigen.de/api/ads/*.json$app=com.ebay.kleinanzeigen
 @@||api.enthusiastgaming.net^$xmlhttprequest,domain=diep.io
+@@||api.foodthinkers.com/commercetools/graphql$stealth=3p-auth,domain=sageappliances.com
 @@||api.friends.ponta.jp/api/$~third-party
 @@||api.fw.tv/embed/$domain=filmibeat.com
 @@||api.gamer.com.tw/mobile_app/anime/*/stat_ad.php
@@ -2676,6 +2679,7 @@
 @@||google-analytics.com/analytics.js$domain=glamour.de
 @@||google-analytics.com/analytics.js$domain=globes.co.il
 @@||google-analytics.com/analytics.js$domain=gunes.com
+@@||google-analytics.com/analytics.js$domain=haisenryakuzu.net
 @@||google-analytics.com/analytics.js$domain=hanime.tv
 @@||google-analytics.com/analytics.js$domain=haz.de
 @@||google-analytics.com/analytics.js$domain=hdmoviezone.net
@@ -3132,6 +3136,7 @@
 @@||googletagmanager.com/gtm.js$domain=godaddy.com
 @@||googletagmanager.com/gtm.js$domain=gratis.com
 @@||googletagmanager.com/gtm.js$domain=gumtree.com
+@@||googletagmanager.com/gtm.js$domain=haisenryakuzu.net
 @@||googletagmanager.com/gtm.js$domain=hancomdocs.com
 @@||googletagmanager.com/gtm.js$domain=harveynorman.co.nz|harveynorman.com.au
 @@||googletagmanager.com/gtm.js$domain=hepsiburada.com
@@ -3454,6 +3459,7 @@
 @@||hach.de^*/emstrack.js
 @@||hackingwithphp.com/js/adsbygoogle.js
 @@||haichaobiao.com^$generichide
+@@||haisenryakuzu.net^$cookie=_ga
 @@||haiwai.com^$generichide
 @@||halykbank.kz/assets/js/fingerprint2.min.js
 @@||hammonline.de/statistik/piwik.js
@@ -5714,6 +5720,7 @@
 @@||solvetube.site^$generichide
 @@||som.aeroplan.com/b/ss/
 @@||sonar.viously.com^$domain=clubic.com
+@@||sonar.viously.com^$domain=supertoinette.com
 @@||sondakika.com/static/reklam/advertisement.gif
 @@||songza.com/static/*/songza/systems/$script
 @@||sonic-ui.highereducation.com/latest/sonic-callout.js$domain=thebestschools.org
