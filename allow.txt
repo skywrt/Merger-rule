@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-03-15 20:30:04（北京时间） 
-! Total count: 6833
+! Version: 2024-03-16 09:10:39（北京时间） 
+! Total count: 6834
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -1800,7 +1800,6 @@
 @@||cohesionapps.com/cohesion/$domain=bankrate.com|frontier.com
 @@||cohesionapps.com/preamp/$subdocument,xmlhttprequest,domain=frontier.com
 @@||coinadster.com^$script,stylesheet,xmlhttprequest,other,image,domain=coinadster.com
-@@||coinblocktyrusmiram.com^$script,domain=rgeyyddl.skin
 @@||coinmarketcap.com/static/addetect/$script,~third-party
 @@||colatour.com.tw/webDM/*/adbanner$~third-party
 @@||colatour.com.tw^$generichide
@@ -2205,6 +2204,7 @@
 @@||eddiebauer.com/__ssobj/core.js+ssdomvar.js+generic-adapter.js
 @@||eden.international/script/ad_banner/
 @@||eden.org.tw^*/ad_banner/
+@@||edge-*.gcdn.app/st/$stealth=referrer,domain=anilife.live
 @@||edge.microsoft.com/translate/auth
 @@||edgesuite.net/crossdomain.xml$domain=sbs.com.au
 @@||edgesuite.net^*/ad.css?
@@ -5625,6 +5625,7 @@
 @@||sexgalaxy.net/wp-content/themes^
 @@||sexgalaxy.net/wp-includes/js^
 @@||sextb.net^$generichide
+@@||sextb.xyz^$generichide
 @@||seyise8.com^$generichide
 @@||seyy66.space^$generichide
 @@||seznam.cz/?spec=*&url=$image,domain=search.seznam.cz
@@ -6002,7 +6003,7 @@
 @@||suning.cn/project/msIndex/js/??
 @@||suntory.co.jp/beer/kinmugi/css2020/ad.css?
 @@||suntory.co.jp/beer/kinmugi/img/ad/$image,~third-party
-@@||supercloudsms.com/static/js/taboola_ads.js
+@@||supercloudsms.com/static/ad/ads.js
 @@||supersonicads.com^$app=com.square_enix.android_googleplay.dqwalkj
 @@||support.google.com^$domain=support.google.com
 @@||support.logi.com/*/articles/$stealth=useragent
