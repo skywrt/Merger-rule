@@ -2,7 +2,7 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-03-24 20:30:53（北京时间） 
+! Version: 2024-03-25 09:14:27（北京时间） 
 ! Total count: 6887
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
