@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-03-26 20:31:46（北京时间） 
-! Total count: 6891
+! Version: 2024-03-27 09:12:13（北京时间） 
+! Total count: 6893
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -1185,6 +1185,7 @@
 @@||bild.met.vgwort.de/na^$domain=bild.de
 @@||bilder-a.akamaihd.net/ip/js/ipdvdc/blockadblock.min.js$domain=rtl.de
 @@||bilder-a.akamaihd.net/ip/js/ipdvdc/ipdvdc.min.js$domain=n-tv.de|toggo.de|vip.de
+@@||bilibili.com/*/newplayer.html$stealth=referrer
 @@||bilibili.com^*/web_page_view?$domain=message.bilibili.com
 @@||bilivideo.com^$stealth,domain=bilibili.com
 @@||billiger.de/js/emos2.js
@@ -5377,6 +5378,7 @@
 @@||redirects.tradedoubler.com^$removeparam=utm_content
 @@||redventures.io/lib/dist/prod/bidbarrel-$script,domain=cnet.com|techrepublic.com|zdnet.com
 @@||regapi.37.com/api/p_register.php?login_account=
+@@||reimg.org/images^$image,stealth=referrer
 @@||reinvigorate.net/re_.js$domain=thenounproject.com
 @@||reklamlar.my-debrid.net^
 @@||remodelista.com/media/js/libs/ga_social_tracking.js
