@@ -2,7 +2,7 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-04-09 20:32:05（北京时间） 
+! Version: 2024-04-10 09:12:58（北京时间） 
 ! Total count: 6969
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -4630,7 +4630,7 @@
 @@||mmy.la^*300*250
 @@||mnighthk.net/template/*/ad
 @@||mnighthk.net^$elemhide
-@@||moatads.com^$script,domain=imsa.com
+@@||moatads.com^$script,domain=imsa.com|nascar.com
 @@||mobi.oui9.com/advertisement.js
 @@||mobile.donanimhaber.com/ads/PageBannerMobile.aspx
 @@||mobile.flypgs.com/tealeaf.js
