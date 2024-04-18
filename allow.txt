@@ -2,15 +2,15 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-04-17 20:32:05（北京时间） 
-! Total count: 6827
+! Version: 2024-04-18 09:13:41（北京时间） 
+! Total count: 6840
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
 @@*$app=com.cinemark.mobile
 @@*$redirect-rule,domain=d3ward.github.io
-@@*.php?player=desktop$stealth=referrer,domain=feedzstream.com|cricplay2.xyz|antenatv.shop|virazo.sx|redditsoccerstream.online
+@@*.php?player=desktop$stealth=referrer,domain=soccermlbstream.top|hitsports.pro|feedzstream.com|cricplay2.xyz|antenatv.shop|virazo.sx|redditsoccerstream.online
 @@*ad*.cms$domain=indiatimes.com|timesofindia.com
 @@-social-bar.$domain=mobi.yahoo.com
 @@.2o7.net/$domain=today.com
@@ -21,6 +21,7 @@
 @@.com/ad.aspx|$domain=xdingdian.cc
 @@.com/adv/$domain=my.ctrip.com
 @@.com/click-$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
+@@.com/embed2.php?player=$stealth=referrer
 @@.com/js/a_d/$domain=colamanga.com
 @@.com/logo/ad.$domain=colamanga.com
 @@.gif#$domain=b168.net|cnprint.org|huhupan.com|tgfcer.com|wgun.net
@@ -121,6 +122,7 @@
 @@/cdn-cgi/pe/bag2?*static.getclicky.com%2Fjs$domain=amazingpics.net
 @@/cdn-cgi/pe/bag2?*yieldbot.intent.js$domain=droid-life.com
 @@/cgi-bin/counter_module?action=list_models$subdocument,~third-party
+@@/chunklist/*.m3u8$xmlhttprequest,stealth=referrer,domain=hdfungamezz.xyz|chrisellisonllc.xyz|arcasiangrocer.store
 @@/chunks.m3u8$stealth
 @@/clarity-*.js$domain=clarity-project.info
 @@/clickn(download|upload)\.[a-z]{3,5}/$script,xmlhttprequest,domain=clickndownload.*|clicknupload.*
@@ -146,8 +148,9 @@
 @@/guanggao/*$domain=icbc.com.cn|igame.qq.com
 @@/hitCount.$script,domain=on.cc
 @@/hitCount_$xmlhttprequest,domain=on.cc
+@@/hls*/*.js$xmlhttprequest,stealth=referrer,domain=homesports.net
+@@/hls*/*.m3u8$stealth=referrer,domain=homesports.net|techclips.net|focus4ca.com|lovesomecommunity.com|b4ucast.com|thegentleclass.com
 @@/hls/*.m3u8$stealth
-@@/hls/*.m3u8$stealth=referrer,domain=techclips.net|focus4ca.com|lovesomecommunity.com|b4ucast.com|thegentleclass.com
 @@/hls/*.ts$stealth=referrer,domain=techclips.net|abolishstand.net|planetfastidious.net|thegentleclass.com
 @@/home/ads/*$domain=esunbank.com.tw
 @@/image/ad/*$domain=gashpoint.com
@@ -174,6 +177,7 @@
 @@/kcarting-tally?&random=$domain=coveryourtracks.eff.org
 @@/libs/advertisement.js$domain=xfaucet.net|getfreebit.xyz|getfree.co.in|starbits.io|bagi.co.in|konstantinova.net|starfaucet.net|bitearns.com|cryptofreebies.info|trivisna.com|nosl.juezcoin.xyz|earn-cryptolive.000webhostapp.com|dogeatm.com|aztecafaucet.space|multifaucet.org|dogestar.website|claimbits.io|i-bits.io|diamondfaucet.space|gobits.io|russiacoin.xyz|lionltcfaucet.xyz|faucet.shorterall.com|yellowfaucet.ovh|faucet.cryptourl.net|simplyfaucet.xyz|up-cripto.com|highearn.xyz|tv3.lv
 @@/live/*.m3u8$xmlhttprequest,stealth=referrer,domain=itssportstime.info|gamehdlive.net|weakspell.to|weakspell.org|streamocean.online|gameshdlive.net|bestsolaris.com|itssportstime.info|weakspell.to
+@@/live/*/*jpeg|$xmlhttprequest,stealth=referrer,domain=weakspell.org|weakspell.to
 @@/log/report/*$script,domain=bilibili.com
 @@/media/*/js/adblock_detector.js$domain=eska.pl|eskarock.pl|voxfm.pl|vibefm.pl|radiosupernova.pl
 @@/mobileads.$domain=naviking.localking.com.tw
@@ -264,6 +268,7 @@
 @@jamendo.com$jsinject
 @@jd.com/*ad_
 @@qlogo.cn^
+@@style/*/*jpeg$xmlhttprequest,stealth=referrer,domain=weakspell.to
 @@weather.gov/xml/$document
 @@|http$script,~third-party,domain=mylink.*|my1ink.*|myl1nk.*|myli3k.*
 @@|http*://*.*/*.$image,third-party,domain=a2zupload.com
@@ -569,6 +574,7 @@
 @@||ads.adfox.ru/*/prepareCode?$domain=tv.yandex.by|tv.yandex.kz|tv.yandex.ru
 @@||ads.adthrive.com/api/$domain=adamtheautomator.com|mediaite.com|packhacker.com|packinsider.com
 @@||ads.adthrive.com/builds/core/*/js/adthrive.min.js$domain=adamtheautomator.com|mediaite.com|packhacker.com|packinsider.com
+@@||ads.adthrive.com/builds/core/*/prebid.min.js$domain=mediaite.com
 @@||ads.adthrive.com/sites/$script,domain=adamtheautomator.com|mediaite.com|packhacker.com|packinsider.com
 @@||ads.alafish.cn^$~third-party
 @@||ads.cdn.tvb.com^*.key
@@ -1652,6 +1658,7 @@
 @@||centrum24.pl^$cookie=dtCookie
 @@||certona.net^*/scripts/resonance.js$script,domain=canadiantire.ca|finishline.com|summitracing.com|tumi.com
 @@||cgmodel.com/plugin/share/
+@@||cgpub.zbjimg.com^$image,stealth=referrer,domain=zbj.com
 @@||chaintv.xyz/homestatic/js/adjs.js
 @@||challenges.cloudflare.com/turnstile/$script
 @@||challenges.cloudflare.com^$domain=download.megaup.net
@@ -1705,6 +1712,7 @@
 @@||citysbs.com^*/swfupload/
 @@||citytalk.tw/js/ct/common/v3/ui/fblike/FBLike.html
 @@||claimbits.net/static/js/noadblock.js
+@@||claplivehdplay.ru/*.php?id=k$subdocument,stealth=referrer
 @@||classic.comunio.de/clubImg.phtml/$image,~third-party
 @@||classistatic.de^*/hitcounter.js$domain=mobile.de
 @@||clerk.io/clerk.js$script,domain=trony.it
@@ -2154,6 +2162,7 @@
 @@||ds2play.com^$stealth=ip
 @@||dsharer.com/-ads-banner.js
 @@||dtdc.in/tracking^
+@@||dubznetwork.com/iframes^$stealth=referrer
 @@||duckduckgo.com/?q=$generichide
 @@||duelmeta.com^$generichide
 @@||duihui.duoduocdn.com^$image,stealth,domain=zhibo8.cc
@@ -2602,6 +2611,7 @@
 @@||godaddy.com^$cookie=/^_ga_/
 @@||godaddy.com^$cookie=_ga
 @@||godaddy.com^$cookie=_gid
+@@||godzcast.com/embed.php?player=$stealth=referrer
 @@||gogoplay1.com/streaming.php?id=
 @@||gogoplay5.com^$subdocument
 @@||golangnote.com^$generichide
@@ -5012,6 +5022,7 @@
 @@||per*.segmentify.com^$domain=mediamarkt.com.tr
 @@||perfectgirls.net^$generichide
 @@||permission-proxy-gmxnet.uimserv.net^$app=de.gmx.mobile.android.mail
+@@||perrzo.com/protocols$stealth=referrer
 @@||perrzo.com^$generichide
 @@||personaclick.com^$domain=skechers.com.tr
 @@||petrochina.com.cn/advertisement_
@@ -5285,6 +5296,7 @@
 @@||rapidgrab.pl^$generichide
 @@||rapidrar.com/js/fuckadblock.js
 @@||rapidrar.com^$generichide
+@@||rapidvid.net/vod/$stealth=referrer
 @@||raptu.com/e/$generichide
 @@||ravensburger-werbemittel.de/content/wcm/mediadata/images/Werbemittel/$~third-party
 @@||ravensburger.com/content/wcm/mediadata/images/Werbemittel/$domain=ravensburger-werbemittel.de
@@ -6539,6 +6551,7 @@
 @@||w88.espn.com/id?$domain=espn.com
 @@||w88.go.com/id?$domain=espn.com
 @@||w88.go.com^$domain=abc.go.com
+@@||waap.ru$jsinject,elemhide,extension
 @@||walla.co.il^$csp
 @@||walletkeyslocker.me/?scode=$xmlhttprequest,stealth=referrer,domain=cuervotv.me
 @@||walletkeyslocker.me/?stream$stealth=referrer
