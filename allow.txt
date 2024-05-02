@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-05-01 20:33:34（北京时间） 
-! Total count: 6834
+! Version: 2024-05-02 09:15:06（北京时间） 
+! Total count: 6839
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -283,6 +283,7 @@
 @@||*status$domain=youronlinechoices.com
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
+@@||1.1.1.1/cdn-cgi/trace$xmlhttprequest,domain=myair.resmed.com
 @@||10010.cn^*/ad
 @@||10010.com/mall/common/js/fa.js?referer=
 @@||10010.com^$generichide
@@ -941,7 +942,7 @@
 @@||api.youla.io^$stealth
 @@||api2.branch.io/v1/open$domain=flickplay.co
 @@||api2.branch.io^$app=com.reddit.frontpage|com.spotify.music
-@@||api2.branch.io^$app=com.reddit.frontpage|com.spotify.music|app.hallow.android|com.adobe.reader|tv.twitch.android.app
+@@||api2.branch.io^$app=com.spotify.music|app.hallow.android|com.adobe.reader|tv.twitch.android.app
 @@||api2.branch.io^$app=com.strava
 @@||api2.branch.io^$app=com.tokopedia.tkpd
 @@||api64.ipify.org^$domain=rbfa.be
@@ -3594,6 +3595,7 @@
 @@||hse24.de^*/emos2.js
 @@||htlbid.com^*/htlbid.js$domain=hodinkee.com
 @@||html5.gamedistribution.com/*/$stealth
+@@||htz-*upload.spac.me/pics_upload/$stealth=referrer
 @@||huhupan.com/e/extend/down/$generichide
 @@||huke88.com^*-tracking.js
 @@||hulkshare.com/combine/*adblocker.js
@@ -3891,6 +3893,7 @@
 @@||imasdk.googleapis.com^$app=com.foxnews.android
 @@||imasdk.googleapis.com^$app=com.graymatrix.did
 @@||imasdk.googleapis.com^$app=com.mperience.vvvvidmobile
+@@||imasdk.googleapis.com^$app=com.sbs.worldnewsaustralia
 @@||imasdk.googleapis.com^$app=com.tour.pgatour
 @@||imasdk.googleapis.com^$app=com.tvb.mytvsuper
 @@||imasdk.googleapis.com^$app=com.zattoo.player|com.sfr.android.redtv
@@ -3904,6 +3907,7 @@
 @@||imasdk.googleapis.com^$app=jp.hamitv.hamiand1
 @@||imasdk.googleapis.com^$app=jp.naver.line.android
 @@||imasdk.googleapis.com^$app=net.oqee.androidmobile|net.oqee.androidtv.store
+@@||imasdk.googleapis.com^$app=nineNewsAlerts.nine.com
 @@||imasdk.googleapis.com^$app=pl.kanal.sportowy
 @@||imasdk.googleapis.com^$app=pl.tvp.stream|com.tvp.vodtv.mobile|pl.tvp.info
 @@||imasdk.googleapis.com^$app=ru.full.khd.app
@@ -4149,6 +4153,7 @@
 @@||kehai.com/front/dist/app/site/list/advertisement.js
 @@||kemono.su/.well-known/ddos-guard/mark/|
 @@||kentucky.com/mistats/finalizestats.js
+@@||keytiles.com/tracking/$script,domain=blikk.hu
 @@||kf.cn/ad/css/*.*.
 @@||kf.cn/ad/css/*.css
 @@||kf.cn/ad/css/images/
@@ -4226,6 +4231,7 @@
 @@||lemall.com/adspace/
 @@||lenovo.com/_ui/desktop/common/js/AdobeAnalyticsEvent.js$script,~third-party
 @@||lenovo.com/fea/js/adobeAnalytics/$script,~third-party,xmlhttprequest
+@@||lenta.ru/comments/$extension
 @@||lesacasino.com^*/EMERPEventCollector.$script,subdocument
 @@||lesports.com/pc/??*/click_statistics/
 @@||lessornot.ws^$stealth=ip
@@ -6542,7 +6548,6 @@
 @@||vsh.visilabs.net/Visilabs.min.js$domain=paribucineverse.com
 @@||vulture.com/decor/javascript/magnify_stats.js
 @@||vvic.com/monetize/ads/index/
-@@||w3-reporting.reddit.com^$app=com.reddit.frontpage
 @@||w3spy.org/etc/geo.php?
 @@||w88.espn.com/id?$domain=espn.com
 @@||w88.go.com/id?$domain=espn.com
