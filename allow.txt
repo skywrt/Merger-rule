@@ -2,7 +2,7 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-05-14 20:35:00（北京时间） 
+! Version: 2024-05-15 09:18:13（北京时间） 
 ! Total count: 6854
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -608,7 +608,7 @@
 @@||ads.pinterest.com^$popup
 @@||ads.privacy.qq.com^$domain=privacy.qq.com
 @@||ads.pubmatic.com/AdServer/js/pwt/*/pwt.js$domain=zeenews.india.com
-@@||ads.pubmatic.com/AdServer/js/pwtSync/$subdocument,domain=independent.co.uk
+@@||ads.pubmatic.com/AdServer/js/pwtSync/$script,subdocument,domain=dnaindia.com|independent.co.uk|wionews.com
 @@||ads.pubmatic.com/adserver/js/$script,domain=zeebiz.com
 @@||ads.reddit.com^$domain=myqqjd.com
 @@||ads.remix.es/advertisement.js|
