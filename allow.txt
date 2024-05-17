@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-05-16 20:34:30（北京时间） 
-! Total count: 6856
+! Version: 2024-05-17 09:18:09（北京时间） 
+! Total count: 6847
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -194,6 +194,7 @@
 @@/pdc_s_code.js$domain=adobe.com
 @@/piwik-$domain=github.com
 @@/playlist.m3u8$stealth
+@@/playlist/*caxi.m3u8$xmlhttprequest,stealth=referrer,domain=thestreameast.ai|1stream.soccer|streameast.app|1stream.eu|buffstreams.app|meth-streams.ai
 @@/prebid-js-$domain=mytvsuper.com|tvb.com|tvbs.com.tw
 @@/premium*/*.php$subdocument,stealth=referrer,domain=worldstreams.lol|stronstream.shop|dailytechs.shop|sportzlive.shop
 @@/premium*/tracks-*.html$xmlhttprequest,stealth=referrer
@@ -204,6 +205,7 @@
 @@/rwd_cap.js$domain=ibf.tw
 @@/s_code_acdc.js$domain=adobe.com
 @@/script/advert.js$domain=sunbtc.space|weatherx.co.in
+@@/scripts/*js|$xmlhttprequest,stealth=referrer,domain=thestreameast.ai|1stream.eu|1stream.soccer|streameast.app|thecrackstreams.live|meth-streams.ai|buffstreams.app
 @@/sensorsdata-$domain=aixiaoyuan.cn|zkh.com
 @@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|guancha.cn|imooc.com|kuque.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|ttcdw.cn|xinrenxinshi.com|zzjiasuqi.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
@@ -271,6 +273,7 @@
 @@https://www.google.*/adwords$document,domain=google.ad|google.ae|google.al|google.am|google.as|google.at|google.az|google.ba|google.be|google.bf|google.bg|google.bi|google.bj|google.bs|google.bt|google.by|google.ca|google.cat|google.cd|google.cf|google.cg|google.ch|google.ci|google.cl|google.cm|google.cn|google.co.ao|google.co.bw|google.co.ck|google.co.cr|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.ls|google.co.ma|google.co.mz|google.co.nz|google.co.th|google.co.tz|google.co.ug|google.co.uk|google.co.uz|google.co.ve|google.co.vi|google.co.za|google.co.zm|google.co.zw|google.com|google.com.af|google.com.ag|google.com.ai|google.com.ar|google.com.au|google.com.bd|google.com.bh|google.com.bn|google.com.bo|google.com.br|google.com.bz|google.com.co|google.com.cu|google.com.cy|google.com.do|google.com.ec|google.com.eg|google.com.et|google.com.fj|google.com.gh|google.com.gi|google.com.gt|google.com.hk|google.com.jm|google.com.kh|google.com.kw|google.com.lb|google.com.ly|google.com.mm|google.com.mt|google.com.mx|google.com.my|google.com.na|google.com.nf|google.com.ng|google.com.ni|google.com.np|google.com.om|google.com.pa|google.com.pe|google.com.pg|google.com.ph|google.com.pk|google.com.pr|google.com.py|google.com.qa|google.com.sa|google.com.sb|google.com.sg|google.com.sl|google.com.sv|google.com.tj|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vc|google.com.vn|google.cv|google.cz|google.de|google.dj|google.dk|google.dm|google.dz|google.ee|google.es|google.fi|google.fm|google.fr|google.ga|google.ge|google.gg|google.gl|google.gm|google.gp|google.gr|google.gy|google.hn|google.hr|google.ht|google.hu|google.ie|google.im|google.iq|google.is|google.it|google.je|google.jo|google.kg|google.ki|google.kz|google.la|google.li|google.lk|google.lt|google.lu|google.lv|google.md|google.me|google.mg|google.mk|google.ml|google.mn|google.ms|google.mu|google.mv|google.mw|google.ne|google.nl|google.no|google.nr|google.nu|google.pl|google.pn|google.ps|google.pt|google.ro|google.rs|google.ru|google.rw|google.sc|google.se|google.sh|google.si|google.sk|google.sm|google.sn|google.so|google.sr|google.st|google.td|google.tg|google.tk|google.tl|google.tm|google.tn|google.to|google.tt|google.vg|google.vu|google.ws
 @@jamendo.com$jsinject
 @@jd.com/*ad_
+@@playlist/*/load-playlist$xmlhttprequest,stealth=referrer,domain=thestreameast.ai|1stream.eu|1stream.soccer|streameast.app|thecrackstreams.live|meth-streams.ai|buffstreams.app
 @@qlogo.cn^
 @@style/*/*jpeg$xmlhttprequest,stealth=referrer,domain=weakspell.to
 @@weather.gov/xml/$document
@@ -641,7 +644,6 @@
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=gamingbible.co.uk|ladbible.com|reuters.com
 @@||adsales.snidigital.com/*/ads-config.min.js$script
 @@||adsense.woso.cn^$~third-party
-@@||adserver.adtech.advertising.com/pubapi/*/ADTECH;*;cmd=bid;cors=yes|$xmlhttprequest
 @@||adserver.juicyads.com/js/jads.js$domain=netflav.com
 @@||adserver.skiresort-service.com/www/delivery/spcjs.php?$script,domain=skiresort.de|skiresort.fr|skiresort.info|skiresort.it|skiresort.nl
 @@||adservice.google.com/adsid/integrator.js$domain=logi.im
@@ -4945,6 +4947,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mealcold.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=metrolagu.cam
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mobile-tracker-free.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mshares.co|gayvidsclub.com|1069boys.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mta-resource.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=okdebrid.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=populistpress.com|canadafreepress.com|thelibertydaily.com|writerscafe.org|populist.press|welovetrump.com|grammarist.com|protrumpnews.com|concomber.com|videogamesblogger.com|gamersheroes.com|letocard.fr|100percentfedup.com|thepalmierireport.com|kresy.pl|beforeitsnews.com|thepatriotjournal.com|phoenixnewtimes.com|thepoke.co.uk|comicallyincorrect.com|thegatewaypundit.com
@@ -5915,17 +5918,7 @@
 @@||static.ads-twitter.com^$app=jp.co.alc.eow
 @@||static.ads-twitter.com^|$app=com.nttdocomo.android.danimeapp
 @@||static.adsafeprotected.com/iasPET*.js$domain=independent.co.uk
-@@||static.adsafeprotected.com/skeleton.gif?*adid=
-@@||static.adsafeprotected.com/skeleton.gif?*adslot=
-@@||static.adsafeprotected.com/skeleton.gif?*adunitid=
-@@||static.adsafeprotected.com/skeleton.gif?*bannnerid=
-@@||static.adsafeprotected.com/skeleton.gif?*zoneid=
 @@||static.adsafeprotected.com/skeleton.js$domain=cwtv.com
-@@||static.adsafeprotected.com/skeleton.js?*adid=
-@@||static.adsafeprotected.com/skeleton.js?adslot=
-@@||static.adsafeprotected.com/skeleton.js?adspot_id=
-@@||static.adsafeprotected.com/skeleton.js?adunitid=
-@@||static.adsafeprotected.com/skeleton.js?bannnerid=
 @@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=forbes.com
 @@||static.adsafeprotected.com/vans-adapter-google-ima.js$domain=motorsport.tv
 @@||static.amazon.jobs/assets/analytics-$script,domain=amazon.jobs
@@ -6028,8 +6021,6 @@
 @@||studioclassroom.com/ad/
 @@||stylished.de/js/vendors/emos2.js$domain=stylished.de
 @@||stylist.co.uk^$stealth=dpi
-@@||succeedscene.com/*/ads.load.js
-@@||succeedscene.com/ads/*/*.js
 @@||sudupan.com^*/*.gif
 @@||suggestions.dadata.ru^$stealth
 @@||sumologic.com^$domain=sumologic.com
