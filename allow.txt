@@ -2,7 +2,7 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-05-23 20:33:42（北京时间） 
+! Version: 2024-05-24 09:18:38（北京时间） 
 ! Total count: 6859
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
@@ -3685,6 +3685,7 @@
 @@||images.bestbuy.com^$domain=bestbuy.com
 @@||images.boosty.to^$stealth
 @@||images.gmanetwork.com/res/dist/js/adsTracking.gz.js
+@@||images.macrumors.com/*/article-new/
 @@||images.taboola.com/taboola/image/fetch/$image,domain=azby.fmworld.net
 @@||images.taboola.com^$domain=samsung.com|thestartmagazine.com|taboolanews.com
 @@||imasdk.googleapis.com$app=com.digiturk.ligtv
@@ -4976,8 +4977,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=zefoy.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=app.axenthost.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=b2bhint.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|zxmee.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=raenonx.cc
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|raenonx.cc|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=iconmonstr.com,xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=noor-book.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$xmlhttprequest,domain=testadmit.com
