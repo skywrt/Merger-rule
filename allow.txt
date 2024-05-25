@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-05-25 09:17:23（北京时间） 
-! Total count: 6860
+! Version: 2024-05-25 20:32:22（北京时间） 
+! Total count: 6861
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -135,6 +135,7 @@
 @@/dash?tvid=$stealth,domain=iqiyi.com
 @@/dh-anti-adblocker/assets/js/ads-prebid.js
 @@/dh-anti-adblocker/assets/js/prebid-ads.js
+@@/dh-anti-adblocker/public/js/adex.js
 @@/dh-anti-adblocker/public/js/prebid-ads.js
 @@/dh-new-anti-adblocker-lite/public/js/prebid-ads.js
 @@/embed/*$stealth=referrer,subdocument,domain=tv1337.buzz|lol-foot.ru|flashsports.org|ldcstreaming.info|sportsonline.*|sportstream.website|elixx.xyz|primefoot.ru|lavents.la
@@ -498,7 +499,6 @@
 @@||ad.doubleclick.net/favicon.ico$domain=tracker.gg
 @@||ad.ettoday.net/msg_liveshow.php^$domain=ettoday.net
 @@||ad.kazakinfo.com^
-@@||ad.nl/ad/
 @@||ad.ourgame.com^
 @@||ad.smartmediarep.com/NetInsight/video/smr$domain=programs.sbs.co.kr
 @@||ad.thsi.cn/siteHome/
@@ -1231,6 +1231,7 @@
 @@||britishtelecom.112.2o7.net^$domain=bt.com
 @@||brm-core-0.brsrvr.com/api/*/core$domain=dollargeneral.com
 @@||brm-core-0.brsrvr.com/api/*/core/?account_id=$domain=m.toysrus.com
+@@||brn-ads.sa.cz/www/delivery/*.php?zoneid=$domain=studentagency.eu
 @@||browser-intake-datadoghq.com^$app=com.nttdocomo.android.caboneurecord
 @@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|menshealth.com|ocado.com|podcasty.seznam.cz|roomster.com|shop.dns-net.de|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
 @@||browser.yandex.*/sync/$stealth
@@ -1639,6 +1640,7 @@
 @@||cdnvideo.ru^$stealth
 @@||cdp.cloud.unity3d.com^$app=com.rovio.baba
 @@||cdpn.io^$generichide
+@@||cdpn.io^$subdocument,stealth
 @@||cds.connatix.com/*/connatix.player.dc.js$domain=loot.tv
 @@||ced-ns.sascdn.com/diff/video/current/libs/js/controller.js$domain=ln24.be
 @@||ced.sascdn.com/tag/*/smart.js$domain=ln24.be
@@ -2074,7 +2076,6 @@
 @@||djtflbt20bdde.cloudfront.net^$domain=feedly.com
 @@||djxmaza.in^$generichide
 @@||dkb.de^$cookie=dtCookie
-@@||dl.phncdn.com/pics/$domain=pornhub.com|pornhub.org|pornhub.net
 @@||dl.zhutix.net^$stealth=referrer
 @@||dlh.net^$script,subdocument,domain=dlh.net
 @@||dlkoo.cc/down/*/*.htm$popup
@@ -2141,6 +2142,7 @@
 @@||dpm.demdex.net^$app=com.appseleration.android.selfcare
 @@||dpm.zebestof.com/*/tag.js$domain=commentcamarche.net
 @@||dqzsteel.com/Website/Image/guanggao/
+@@||dragonfly.opera.com/app/$document
 @@||dragontea.ink^$generichide
 @@||dreamdth.com/community/js/*.js
 @@||drive.google.com^$generichide
@@ -5993,7 +5995,6 @@
 @@||stats.g.doubleclick.net/dc.js$domain=dubizzle.com
 @@||stats.g.doubleclick.net/dc.js$domain=lifehack.org|tripinsurance.ru|vimeo.com|universarium.org
 @@||stats.g.doubleclick.net/dc.js$domain=softkey.ru|softkey.ua
-@@||stats.g.doubleclick.net/dc.js$script,domain=chintaistyle.jp|gyutoro.com
 @@||stats.g.doubleclick.net^$app=com.google.android.apps.cultural
 @@||stats.g.doubleclick.net^$app=pl.promate.bilkom
 @@||stats.g.doubleclick.net^|$app=com.nttdocomo.android.danimeapp
@@ -6381,7 +6382,6 @@
 @@||ttkdex.com^$generichide
 @@||ttkdex.com^*ad$~third-party
 @@||tubeoffline.com/js/hot.min.js
-@@||tuborstb.co^$stealth=3p-auth
 @@||tui.click/js/ads.js
 @@||tui.click^$generichide
 @@||tunein.com/api/v1/comscore$~third-party
@@ -6595,6 +6595,7 @@
 @@||wargaming.net^$stealth
 @@||watch.globaltv.com^$generichide
 @@||watchcartoononline.io/back.jpg
+@@||watchcartoononline.io/search|$popup
 @@||watchcartoononline.io/thumbs/
 @@||wavse.com^$generichide
 @@||wazimo.com/engine/common/widgets/content/$domain=lastnighton.com
