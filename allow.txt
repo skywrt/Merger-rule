@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-05-29 20:34:53（北京时间） 
-! Total count: 6874
+! Version: 2024-05-30 09:19:16（北京时间） 
+! Total count: 6877
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -3213,6 +3213,7 @@
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.com.tr
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.de
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.nl
+@@||googletagmanager.com/gtm.js$domain=megacurioso.com.br
 @@||googletagmanager.com/gtm.js$domain=militaria.pl
 @@||googletagmanager.com/gtm.js$domain=miltonkeynes.co.uk
 @@||googletagmanager.com/gtm.js$domain=mobile01.com
@@ -3451,6 +3452,7 @@
 @@||grapeshot.co.uk/image-resize/$image
 @@||grapeshot.co.uk/main/channels.cgi$script,domain=telegraph.co.uk
 @@||grapeshot.co.uk/sare-api/
+@@||graph.microsoft.com$stealth=3p-auth
 @@||graphracer.com/js/libs/heatmap.js
 @@||greenbuildingadvisor.com^$removeparam=oly_enc_id
 @@||grimoireoss-pa.clients6.google.com^$stealth,domain=cs.opensource.google
@@ -5947,6 +5949,7 @@
 @@||static.chartbeat.com/crossdomain.xml
 @@||static.chartbeat.com/js/chartbeat.js$domain=hindustantimes.com
 @@||static.chartbeat.com/js/chartbeat.js$domain=m.timesofindia.com
+@@||static.chartbeat.com/js/chartbeat.js$domain=megacurioso.com.br
 @@||static.chartbeat.com/js/chartbeat_brightcove_plugin.js$domain=m2o.it|deejay.it|capital.it
 @@||static.chartbeat.com/js/chartbeat_brightcove_plugin.js$domain=repubblica.it
 @@||static.chartbeat.com/js/chartbeat_mab.js$domain=ny1.com
