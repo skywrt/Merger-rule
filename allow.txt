@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-06-03 09:21:06（北京时间） 
-! Total count: 6869
+! Version: 2024-06-03 20:35:51（北京时间） 
+! Total count: 6867
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -960,7 +960,6 @@
 @@||app.sendgrid.com^$elemhide,jsinject
 @@||app.tirelocator.ca/static/scripts/google-analytics.js
 @@||appapi.inspsearchapi.com^$domain=search.pch.com
-@@||appcdn01.xyz/vast.js
 @@||appdn.net^$generichide
 @@||apple.com/metrics/ac-analytics/*/scripts/$domain=apple.com
 @@||apple.com/metrics/data-relay/*/scripts/data-relay.js
@@ -1593,6 +1592,7 @@
 @@||cdn.wazimo.com/media/images/$domain=lastnighton.com
 @@||cdn.wazimo.com/media/images/$domain=showsnob.com
 @@||cdn.wgchrrammzv.com/prod/ajc/loader.min.js$domain=journal-news.com
+@@||cdn1.img4kora.com/assets/js/clever_ads.js
 @@||cdn13.com/*.mp4?$domain=xhamster.com
 @@||cdnb.4strokemedia.com/carousel/v4/comscore-JS-$script
 @@||cdnb.4strokemedia.com^$domain=video.corriere.it
@@ -1653,7 +1653,6 @@
 @@||challenges.cloudflare.com/turnstile/$script
 @@||challenges.cloudflare.com^$domain=download.megaup.net
 @@||challenges.cloudflare.com^$stealth
-@@||chamsko.pl/js/advertisement.js
 @@||chanel.com/js/chanel-tracking.js$script
 @@||changyan.sohu.com/debug/cookie?
 @@||changyou.com^$generichide
@@ -2051,7 +2050,6 @@
 @@||digitrend.it/wonder-marketing/assets/wordpress/js/videojs.ga.js?$script,domain=vrsicilia.it
 @@||digworm.io^$generichide
 @@||dijilopedi.com/wp-content/uploads/$image,~third-party
-@@||directline.botframework.com^$stealth
 @@||directline.com/touchclarity/$script
 @@||discord.com^$generichide
 @@||discordapp.com/banners/$image
@@ -2374,7 +2372,6 @@
 @@||films.imhonet.ru^$jsinject
 @@||filmweb.pl^$generichide
 @@||findernet.com^$content
-@@||fingerprintjs.com^$generichide
 @@||firebase.google.com/docs/analytics/$~third-party
 @@||firefaucet.win^$generichide
 @@||firefox.com.cn/media/img/mozcn/spread/468-60-
@@ -3448,6 +3445,7 @@
 @@||gounlimited.to/js/pop.js|
 @@||gov.cn/scripts/Comm/AdRotator.js
 @@||gpt-worldwide.com/js/gpt.js$~third-party
+@@||grandhotelcalciomercato.com/js/prebid-ads.js
 @@||grapeshot.co.uk/image-resize/$image
 @@||grapeshot.co.uk/main/channels.cgi$script,domain=telegraph.co.uk
 @@||grapeshot.co.uk/sare-api/
@@ -3528,6 +3526,7 @@
 @@||hdslb.com^$stealth,domain=bilibili.com
 @@||hdvid.tv/js/jquery.cookie.js
 @@||hdvid.tv/js/jquery.min.js
+@@||hdvid.tv/player*/jwplayer.html5.js
 @@||hdvid.tv/player*/jwplayer.js
 @@||hdvid.tv/player*/lightsout.js
 @@||hdzog.com/assets/$domain=m.hdzog.com
@@ -3998,6 +3997,7 @@
 @@||ingka.com^$stealth,domain=ikea.com
 @@||ingress.com/intel?$document
 @@||injections.adguard.com^$document
+@@||innerfidelity.com^$elemhide
 @@||inoreader.com^$genericblock,generichide
 @@||inpad.com.tw/data/adv/
 @@||inpref.com/frosmo.xdm.html?
@@ -4877,7 +4877,6 @@
 @@||open.spotify.com^$generichide
 @@||openai.com^$generichide
 @@||openfpcdn.io/fingerprintjs/$domain=uslugaplus.com
-@@||openfpcdn.io/fingerprintjs/$script,xmlhttprequest,redirect=noopjs,domain=uslugaplus.com,important
 @@||openfpcdn.io/fingerprintjs/v3$domain=pdfextra.com
 @@||openfpcdn.io/fingerprintjs/v3/iife.min.js$script,domain=mos03education.ru
 @@||openfpcdn.io/fingerprintjs/v3|$domain=imgcreator.zmo.ai
@@ -5820,7 +5819,6 @@
 @@||spanishdict.com^$generichide
 @@||spark.co.nz/content/*/utag.sync.js$domain=skinny.co.nz
 @@||speedcurve.com/js/lux.js$script,domain=tv8.it
-@@||speedtest.net/*-login.php$domain=speedtest.net
 @@||speedtest.net/api/api.php
 @@||speedtest.net/api/js/user-settings|$xmlhttprequest
 @@||speedtest.net/javascript/ads.js
@@ -5958,7 +5956,7 @@
 @@||static.criteo.net/js/ld/publishertag.js$domain=xda-developers.com
 @@||static.crunchyroll.com/*/player.html$stealth
 @@||static.doubleclick.net/instream/ad_status.js$domain=alliptvlinks.com
-@@||static.doubleclick.net/instream/ad_status.js$domain=idlixofficials.com|idlixofficial.co
+@@||static.doubleclick.net/instream/ad_status.js$domain=idlixofficials.com|idlixofficial.co|idlixofficial.net
 @@||static.doubleclick.net/instream/ad_status.js$domain=investing.com
 @@||static.doubleclick.net/instream/ad_status.js$domain=mhdtvmax.net
 @@||static.doubleclick.net/instream/ad_status.js$domain=sonixgvn.net
@@ -6625,6 +6623,7 @@
 @@||webcdn.stream.ne.jp^*/referrer.js$domain=stream.ne.jp
 @@||webcenter.tiscali.it/distribuzione/_script/audience_science.js$domain=mail.tiscali.it
 @@||webfail.com/image
+@@||webgains.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||weblet.square-enix.com/banner.php^
 @@||webmail.smartlinkcorp.com/dotrans_20160909.php
 @@||webminepool.com/lib/base.js$domain=autofaucet.org
@@ -6723,7 +6722,6 @@
 @@||www.googleadservices.*/aclk?*&adurl=$~third-party
 @@||www.googletagmanager.com/gtm.js$script,domain=book.impress.co.jp
 @@||www.googletagmanager.com^$domain=onlineshop.smt.docomo.ne.jp
-@@||www.literotica.com^$content
 @@||www.olx.ua/api^$app=ua.slando
 @@||www.pussyspace.com/class/captcha/arrow.png|
 @@||www.pussyspace.com/class/captcha/captcha.php|
