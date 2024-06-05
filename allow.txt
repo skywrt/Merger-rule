@@ -2,10 +2,9 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-06-05 09:19:56（北京时间） 
-! Total count: 6870
+! Version: 2024-06-05 20:35:08（北京时间） 
+! Total count: 6862
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
-@@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
 @@&ad_type=$domain=ultimate-guitar.com
@@ -347,7 +346,6 @@
 @@||40017.cn/cn/min/???/
 @@||423down.com^$generichide
 @@||4399sj.com^*/adview_pic_
-@@||4cdn.org/adv/$image,xmlhttprequest,domain=4channel.org
 @@||4cdn.org/js/catalog.min.*.js$domain=4chan.org
 @@||4cdn.org/js/core.min.*.js$domain=4chan.org
 @@||4cdn.org/js/extension.min.*.js$domain=4chan.org
@@ -413,7 +411,6 @@
 @@||9anime.nl/assets^
 @@||9anime.to/ajax/
 @@||9anime.to/assets^
-@@||9anime.vip/ajax/
 @@||9zvip.net/wp-content/plugins/detect-adblock/js/ads.js
 @@||9zvip.net^$elemhide
 @@||a.alimama.cn/tkapi$domain=ieeee.com
@@ -454,7 +451,6 @@
 @@||accuweather.com/bundles/prebid.$script
 @@||acdn.adnxs.com/ast/ast.js$domain=msn.com
 @@||acdn.adnxs.com/ast/ast.js$domain=svd.se
-@@||acdn.adnxs.com/ast/ast.js$domain=totaaltv.nl
 @@||acdn.adnxs.com^$app=se.prisjakt.pricespy
 @@||acea.it^$jsinject
 @@||acgbenzi.com//dist/images/top.png
@@ -645,6 +641,7 @@
 @@||adserver.skiresort-service.com/www/delivery/spcjs.php?$script,domain=skiresort.de|skiresort.fr|skiresort.info|skiresort.it|skiresort.nl
 @@||adservice.google.com/adsid/integrator.js$domain=logi.im
 @@||adshnk.com^$generichide
+@@||adspace.pro^$domain=adspace.pro
 @@||adspirit.de^$domain=kinopolis.de
 @@||adsrveys.com/ads-api-v3|$domain=diggysadventure.com
 @@||adst.mp.pl^$domain=mp.pl
@@ -656,8 +653,6 @@
 @@||adv.clickadu.com^$domain=adv.clickadu.com
 @@||adv.gg^$popup
 @@||advert.kf5.com^
-@@||advertising-cdn.dpgmedia.cloud/native-renderer/main.js$domain=totaaltv.nl
-@@||advertising-cdn.dpgmedia.cloud/web-advertising/$domain=totaaltv.nl
 @@||advertising.yahoo.com^$~third-party
 @@||adverts.ie/css/
 @@||adx.yiche.com/cityindex.ashx
@@ -1231,7 +1226,6 @@
 @@||brn-ads.sa.cz/www/delivery/*.php?zoneid=$domain=studentagency.eu
 @@||browser-intake-datadoghq.com^$app=com.nttdocomo.android.caboneurecord
 @@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|menshealth.com|ocado.com|podcasty.seznam.cz|roomster.com|shop.dns-net.de|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
-@@||browser.yandex.*/sync/$stealth
 @@||browserleaks.com^$generichide
 @@||browserscope.org/user/beacon/*?callback=$script,domain=jsperf.com
 @@||brutalmania.io/ads.js
@@ -2379,7 +2373,6 @@
 @@||firefox.com.cn/media/img/mozcn/spread/468-60-
 @@||firmwaredrive.com/templates/default/html/en/assets/js/fingerprint2.min.js
 @@||firstdirect.com^*/logging-code.js
-@@||firstonetv.net^$generichide
 @@||flightradar24.com^$stealth=dpi
 @@||flipboard.com/*/videojs-contrib-ads.*.bundle.js
 @@||fltaradio.com/js/ads.js
@@ -3447,7 +3440,6 @@
 @@||gounlimited.to/embed-*.html$stealth
 @@||gounlimited.to/js/pop.js|
 @@||gov.cn/scripts/Comm/AdRotator.js
-@@||gpt-worldwide.com/js/gpt.js$~third-party
 @@||grandhotelcalciomercato.com/js/prebid-ads.js
 @@||grapeshot.co.uk/image-resize/$image
 @@||grapeshot.co.uk/main/channels.cgi$script,domain=telegraph.co.uk
@@ -3611,7 +3603,6 @@
 @@||huntington.com^$document
 @@||hutchgo.advertserve.com^$domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
 @@||hvemder.no/js/hitcount.min.js$~third-party
-@@||hvg.hu/Content/redesign/js-notbundled/showads.js
 @@||hvz.baden-wuerttemberg.de$stealth=dpi
 @@||hydrax.net/players^
 @@||hyperdebrid.net^$generichide
@@ -4110,6 +4101,7 @@
 @@||js.dmtry.com/channel.js$domain=zillow.com
 @@||js.dogannet.tv/q/s/player/html5^
 @@||js.iplsc.com/inpl.abd/*/proxy.html?host=$generichide
+@@||js.iplsc.com/inpl.abd/latest/ads.js?$domain=pomponik.pl|interia.pl|js.iplsc.com
 @@||js.mamydirect.com^$app=com.adguard.dns
 @@||js.monitor.azure.com/scripts/$script,domain=genya.it
 @@||js.monitor.azure.com/scripts/$script,domain=genya.it|microsoft.com|rubex.efilecabinet.net
@@ -4487,7 +4479,6 @@
 @@||mediaite.com/decor/javascript/magnify_stats.js$domain=videos.mediaite.com
 @@||mediamarkt.com.tr^$genericblock
 @@||mediamarkt.de/*/shop^
-@@||mediaplex.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||mediateka.pl/media/desktop/zpr_footer/js/adblock_detector.js
 @@||mediav.com/js/feed_ts.js$domain=china.com|mini.yyrtv.com
 @@||mediav.com/js/interactive_plugin.js$domain=v.360kan.com
@@ -5052,6 +5043,7 @@
 @@||pcgames.de/webservices/remoteModulesTracker.php
 @@||pchome.com.tw/img/js/xpcadshow.js$domain=game735.com
 @@||pchomepay.com.tw/share/js/
+@@||pcoptimizedsettings.com/wp-content/plugins/koko-analytics/$~third-party
 @@||pcoptimizedsettings.com/wp-content/uploads/breeze/google/gtag.js$~third-party
 @@||pcworldcommunication.*.sc.omtrdc.net/b/ss/
 @@||pcworldcommunication.d2.sc.omtrdc.net/b/ss/$domain=techhive.com
