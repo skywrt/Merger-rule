@@ -2,7 +2,7 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-06-06 09:19:55（北京时间） 
+! Version: 2024-06-06 20:35:08（北京时间） 
 ! Total count: 6862
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -823,6 +823,7 @@
 @@||api*-access-sg.pangle.io^$app=com.square_enix.android_googleplay.dqwalkj
 @@||api-analytics.magstimconnect.net^$~third-party
 @@||api-edge.cognitive.microsofttranslator.com/translate?
+@@||api-get.mgsearcher.com/api/$stealth=referrer
 @@||api-js.datadome.co/js/$domain=account.samsung.com
 @@||api-js.datadome.co/js/$domain=sso.garena.com
 @@||api-maps.yandex.ru/services/startup/$stealth
@@ -968,6 +969,7 @@
 @@||appleid.apple.com^$stealth=referrer
 @@||appnee.com/clever_ads.js
 @@||apps.derstandard.at^*/TrackingCookieCheck?$subdocument
+@@||appzdam.net^$elemhide
 @@||apv-launcher.minute.ly/api/$script
 @@||aqy103.com/js/aqy/main.js
 @@||aranzulla.it/_adv/
@@ -1151,7 +1153,6 @@
 @@||bestbuy.com/*/vendor/analytics*/dist/analyticsQ.bundle.js
 @@||bestlistofporn.com^$generichide
 @@||beta.speedtest.net/api/
-@@||betterads.org/hubfs/$image,~third-party
 @@||bettycrocker.com/Shared/Javascript/UnicaTag.js
 @@||bettycrocker.com/Shared/Javascript/ntpagetag.js
 @@||beyondsoft.com/dataservice/img/ad_
@@ -2344,6 +2345,7 @@
 @@||feedback.userreport.com/*/*.csb.app$domain=csb.app
 @@||feedly.com/i/^$jsinject
 @@||feilusw.com/search.html$genericblock,generichide
+@@||feliz.data.tm-awx.com/smile-web-v2/rootEvent$domain=mirror.co.uk
 @@||fengkongcloud.com/fpv2.js
 @@||festyy.com^$generichide
 @@||ff14angler.com^$generichide
@@ -2620,7 +2622,6 @@
 @@||google-analytics.com/analytics.js$domain=apkmaza.net
 @@||google-analytics.com/analytics.js$domain=artage.io
 @@||google-analytics.com/analytics.js$domain=askona.ru
-@@||google-analytics.com/analytics.js$domain=atozmath.com
 @@||google-analytics.com/analytics.js$domain=avast.com
 @@||google-analytics.com/analytics.js$domain=avselectro.ru
 @@||google-analytics.com/analytics.js$domain=beinsports.com
@@ -3480,7 +3481,6 @@
 @@||haaretz.com/logger/p.gif?*=COMMENTS$xmlhttprequest
 @@||haberler.com/static/video-js/video-ads.js
 @@||hach.de^*/emstrack.js
-@@||hackingwithphp.com/js/adsbygoogle.js
 @@||haichaobiao.com^$generichide
 @@||haisenryakuzu.net^$cookie=_ga
 @@||haiwai.com^$generichide
@@ -3809,6 +3809,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=sonyliv.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=spox.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=stack.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tenceretv.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=timesnownews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tranimeci.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=tvid.in
@@ -3828,7 +3829,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vidyome.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vizita.si
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=voicetv.co.th
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vvvvid.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wetteronline.de
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wetv.vip
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wibc.com
@@ -4179,7 +4179,6 @@
 @@||kinescope.io/embed/$stealth
 @@||kingofdown.com^$generichide
 @@||kingofshrink.com^$generichide
-@@||kinja.com/api/profile/accountwithtoken$stealth
 @@||kiplinger.112.2o7.net^
 @@||kissjav.com^$generichide
 @@||kk665403.pixnet.net^$generichide
@@ -4931,6 +4930,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cimanow.cc|cnvids.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=copyseeker.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=crazygames.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cutty.app
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=di.fm
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dl.ccbluex.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=door2windows.com
@@ -5128,6 +5128,7 @@
 @@||playep.pro/log_event$~third-party,xmlhttprequest
 @@||player-feedback-v1.glomex.com/pf/|$domain=player.glomex.com
 @@||player.aniview.com/script/$script,domain=odysee.com|pogo.com
+@@||player.aniview.com/script/*/AVmanager.js$domain=adnkronos.com
 @@||player.avplayer.com^$script,domain=explosm.net|gamingbible.co.uk|justthenews.com|ladbible.com
 @@||player.clevercast.com/players/video-js/video-js-plugins/videojs.ads.min.js
 @@||player.enetres.net/js/videojs-plugins/videojs-ads-contrib/videojs.ads.js
@@ -5146,7 +5147,6 @@
 @@||players.brightcove.net/*/index.html?videoId=$domain=amp.usatoday.com
 @@||players.fichub.com/plugins/adobe/$domain=24kitchen.pt
 @@||playhydrax.com/?v=$subdocument
-@@||playru.net/*.php$stealth=referrer
 @@||playshakespeare.com/*/js/prebid-ads.js
 @@||playwire.com/bolt/js/zeus/embed.js$script,third-party
 @@||playy.online/log_event$~third-party,xmlhttprequest
@@ -6165,7 +6165,6 @@
 @@||technopat.net/*/draft$xmlhttprequest
 @@||technopat.net/*/reply-preview$xmlhttprequest
 @@||teenvogue.com/js/eventTracker.js
-@@||tehnotone.com^$generichide
 @@||telegram.hr^$content
 @@||telegraph.co.uk/template/ver1-0/js/webtrends/live/wtid.js
 @@||templates.marketo.net/template*/$script,stylesheet,domain=pages.addigy.com
@@ -6730,6 +6729,7 @@
 @@||www.pussyspace.net/upload/no_img.jpg|
 @@||www.ruanyifeng.com^$csp=script-src 'self' * 'sha256-0McqMM66/wAVZmxF6zXpjNsb1UMbTl4LXBXdhqPKxws='
 @@||www.statcounter.com/images/$image,third-party
+@@||www.ticketmaster.$popup,domain=adclick.g.doubleclick.net
 @@||www.ups.com/WebTracking/processInputRequest
 @@||www.youtube.com^$generichide
 @@||wwwcache.wral.com/presentation/v3/scripts/providers/analytics/ga.js$~third-party
