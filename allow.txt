@@ -2,7 +2,7 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-06-11 20:36:04（北京时间） 
+! Version: 2024-06-12 09:21:31（北京时间） 
 ! Total count: 6874
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -4723,6 +4723,7 @@
 @@||netflix.com^$generichide
 @@||netinsight.travelers.com/scripts/ntpagetaghttps.js
 @@||netmile.co.jp/ad/images/$image
+@@||netshoes.com.br/webanalytics/collect
 @@||netto-online.de/jquery/webanalytics/xtcore.js
 @@||networkworld.com^*/demandbase.js
 @@||neveitalia.it/assets/images/logo-gds-bianco.svg
@@ -5644,7 +5645,6 @@
 @@||securitytrails.com/domain/$domain=securitytrails.com
 @@||seg-cdn.pumpkin.care/analytics.js/$~third-party
 @@||seg-cdn.pumpkin.care/next-integrations/integrations/mixpanel/$domain=get.pumpkin.care
-@@||segment-data.zqtk.net^$domain=wsj.com
 @@||selfimg.com.cn/??
 @@||sellercentral.amazon.com/hz/inventory/$elemhide,jsinject
 @@||sellpoint.net/smart_button/$script,domain=walmart.com
