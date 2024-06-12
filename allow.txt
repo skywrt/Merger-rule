@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-06-12 09:21:31（北京时间） 
-! Total count: 6874
+! Version: 2024-06-12 20:35:37（北京时间） 
+! Total count: 6867
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
@@ -999,7 +999,6 @@
 @@||assets.adobedtm.com/*/satelliteLib-*.js$domain=docs.nvidia.com
 @@||assets.adobedtm.com/*launch-*.min.js$domain=samsung.com
 @@||assets.adobedtm.com/extensions/*/AppMeasurement.min.js$domain=nbc.com|tatamotors.com
-@@||assets.anyclip.com^$domain=content.dictionary.com
 @@||assets.ctfassets.net^$media,domain=ads.spotify.com
 @@||assets.customer.io/assets/track.js$domain=buffer.com
 @@||assets.dfb.de/uploads/*/original_$image
@@ -1036,7 +1035,6 @@
 @@||audiotag.info/images/banner
 @@||audiotag.info/js/adblockDetectorWithGA.js
 @@||ausha.tsbluebox.com^$media,domain=podcast.ausha.co
-@@||auth.gfx.ms^$document
 @@||auth.mail.ru^$stealth
 @@||auth.vodafone.hu^$cookie=dtCookie
 @@||auth2.picpay.com^*/event-tracking.js$script,~third-party
@@ -1325,7 +1323,6 @@
 @@||cd.connatix.com/connatix.playspace.js$domain=inc.com
 @@||cd.connatix.com/connatix.playspace.js$domain=loot.tv
 @@||cdc.gov/jscript/metrics/adobe/launch/$script,~third-party
-@@||cdn*.anyclip.com^$domain=content.dictionary.com
 @@||cdn*.jianshu.io^$stealth
 @@||cdn-*.convertexperiments.com/js^$domain=xda-developers.com
 @@||cdn-fck.tnaflix.com^$removeparam
@@ -1386,7 +1383,6 @@
 @@||cdn.cloudflare.net^$stylesheet,script,xmlhttprequest,domain=cocomanga.com|cocomanga.com
 @@||cdn.cnn.com/ads/adfuel/adfuel-*.min.js$domain=arabic.cnn.com
 @@||cdn.concert.io/lib/concert-ads/v*-latest/concert_ads.js$domain=arrowheadpride.com
-@@||cdn.confiant-integrations.net/*/gpt_and_prebid/config.js$domain=adnkronos.com
 @@||cdn.consentmanager.net/delivery/customdata/$stealth
 @@||cdn.consentmanager.net/delivery/js/cmp*.min.js$stealth
 @@||cdn.contentful.com/spaces^$stealth
@@ -1842,6 +1838,8 @@
 @@||connect.tapjoy.com/connect$app=com.lucasarts.starts_goo
 @@||connect.ubisoft.com/oauth/*?redirectUrl$jsinject
 @@||connectivitycheck.gstatic.com^$important
+@@||consent.cookiefirst.com/banner.js$stealth
+@@||consent.cookiefirst.com/sites$stealth
 @@||console.bce.baidu.com^$domain=console.bce.baidu.com
 @@||console.statsig.com/_next/$~third-party
 @@||constantcontact.com/js/WebTracking/
@@ -3582,8 +3580,8 @@
 @@||hopto.org/js/prebid-ads.
 @@||hopto.org^$generichide
 @@||hostlogr.com/etc/geo.php?
-@@||hosts-file.net/ad_servers.txt
 @@||hotmail.com/mail/*/i2a.js
+@@||hotmediahub.com^$generichide
 @@||hotpornfile.org/wp-admin/admin-ajax.php$domain=hotpornfile.org
 @@||hotstarext.com/web-messages/core/error/v52.json$xmlhttprequest,domain=hotstar.com
 @@||hotwirestatic.com^*/opinionLab.js$domain=hotwire.com
@@ -3725,7 +3723,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=cubuffs.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dailystar.co.uk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=digitalspy.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dressupmix.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=einthusan.ca|einthusan.tv|einthusan.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=embed-zattoo.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=etonline.com
@@ -3748,7 +3745,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=haberglobal.com.tr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=haberler.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=hanime.tv
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=hiddenobjectgames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=hoy.tv
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=html5.gamedistribution.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=hungama.com
@@ -4179,8 +4175,6 @@
 @@||kimcartoon.me/ads/fbMob.aspx
 @@||kincho.co.jp/cm/img/bnr_ad_$image,~third-party
 @@||kinescope.io/embed/$stealth
-@@||kingofdown.com^$generichide
-@@||kingofshrink.com^$generichide
 @@||kiplinger.112.2o7.net^
 @@||kissjav.com^$generichide
 @@||kk665403.pixnet.net^$generichide
@@ -5258,6 +5252,7 @@
 @@||pubads.g.doubleclick.net/ssai/
 @@||pubads.g.doubleclick.net/ssai/event/$xmlhttprequest,domain=10play.com.au
 @@||pubads.g.doubleclick.net/ssai/event/$xmlhttprequest,domain=sbs.com.au
+@@||pubads.g.doubleclick.net/ssai/event/$xmlhttprequest,domain=zoomtventertainment.com
 @@||pubads.g.doubleclick.net/ssai/event/*/master.m3u8$domain=click2houston.com
 @@||pubads.g.doubleclick.net/ssai/event/*/master.m3u8$domain=digi24.ro
 @@||pubads.g.doubleclick.net/ssai/event/*/streams$domain=cbc.ca
@@ -5337,7 +5332,6 @@
 @@||rapidgrab.pl^$generichide
 @@||rapidrar.com/js/fuckadblock.js
 @@||rapidrar.com^$generichide
-@@||rapidvid.net/vod/$stealth=referrer
 @@||raptu.com/e/$generichide
 @@||ravensburger-werbemittel.de/content/wcm/mediadata/images/Werbemittel/$~third-party
 @@||ravensburger.com/content/wcm/mediadata/images/Werbemittel/$domain=ravensburger-werbemittel.de
@@ -5491,7 +5485,6 @@
 @@||sankei.co.jp/js/analytics/skd.Analysis.js$script
 @@||sanspo.com/parts/chartbeat/$xmlhttprequest
 @@||sascdn.com/tag/$script,domain=filmweb.pl
-@@||sascdn.com/video/controller.js$domain=towideo.pl
 @@||sascdn.com/video/players/jwplayer/
 @@||satellite-calculations.com/ads.js
 @@||sax.sina.com.cn/video/newimpress?
@@ -5615,6 +5608,7 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=alternativeto.net
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=ani.gamer.com.tw
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=blog.carstopia.net|blog.coinsvalue.net|blog.cookinguide.net|blog.freeoseocheck.com|blog.makeupguide.net
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=bloomberg.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=chelseafc.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=digitaltrends.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=epaper.timesgroup.com
@@ -6221,6 +6215,7 @@
 @@||thepiratebay.org^$subdocument
 @@||therichest.com^$generichide
 @@||thetvdb.com/banners/$image,domain=tvtime.com
+@@||theverge.com/_next/data/*.json
 @@||thisav.com^$generichide
 @@||thomas.co/sites/default/files/google_tag/primary/google_tag.script.js$script,~third-party
 @@||threatbook.cn/public/asset/js/zhugeIo.
@@ -6337,7 +6332,6 @@
 @@||tradedoubler.com^$removeparam=tduid
 @@||tradingview.com^$script,stealth
 @@||traffichaus.com/scripts/banner-ad.js
-@@||trafficmanager.anyclip.com^$domain=content.dictionary.com
 @@||trailrunnermag.com^$stealth=dpi
 @@||trakel.org/*/image_resize.php?ad=
 @@||trakus.org/kods_bird/uye/image_resize.php?ad=
@@ -6463,7 +6457,6 @@
 @@||upload*.jianshu.io^$stealth
 @@||upload.wikimedia.org/wikipedia/$image,media
 @@||uploadcloud.pro^$generichide
-@@||uploadex.com^$elemhide
 @@||ups.com/*/WebTracking/track&dcs
 @@||ups.com/*/tracking.cgi
 @@||ups.com/WebTracking/
