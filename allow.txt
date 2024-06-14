@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-06-14 09:20:53（北京时间） 
-! Total count: 6870
+! Version: 2024-06-14 20:35:43（北京时间） 
+! Total count: 6864
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
@@ -59,7 +59,6 @@
 @@/^https:\/\/www\.[a-z]{7,14}\.com\/[a-z]{1,4}\.js/$script,third-party,domain=shinden.pl,badfilter
 @@/_js/pubfig.min.js$~third-party,domain=svethardware.cz|relaxuj.cz|svetmobilne.cz|digimanie.cz
 @@/ad-close.png$domain=ch.com
-@@/ad.js$domain=tiktokcounter.net|crypto-radio.eu|lifgam.online|blackwoodacademy.org|waezg.xyz
 @@/ad/banner/_adsense_/_adserver/_adview_.ad.json
 @@/ad/images/*$domain=37-express.com|vnnox.com
 @@/adLoader.$domain=shejiben.com
@@ -78,7 +77,6 @@
 @@/adimg/*$domain=laniqu.com
 @@/adjs_pic_$domain=168gamer.net|slit.cn
 @@/admanager/*$domain=woego.cn
-@@/adpartner.min.js$domain=tiktokcounter.net|crypto-radio.eu|lifgam.online|blackwoodacademy.org|waezg.xyz
 @@/adpic/*$domain=baike.baidu.com|czsrc.com|nieyou.com|ontheup.com.tw|zform.net
 @@/adpro.js$domain=tingfm.com
 @@/adrum.js$domain=usbank.com
@@ -202,7 +200,6 @@
 @@/pubads_impl.js$domain=mytvsuper.com|tvb.com|tvbs.com.tw
 @@/rwd_cap.js$domain=ibf.tw
 @@/s_code_acdc.js$domain=adobe.com
-@@/script/advert.js$domain=sunbtc.space|weatherx.co.in
 @@/scripts/*js|$xmlhttprequest,stealth=referrer,domain=methstreamer.com|crackstreamer.net|thestreameast.ai|1stream.eu|1stream.soccer|streameast.app|thecrackstreams.live|meth-streams.ai|buffstreams.app
 @@/sensorsdata-$domain=aixiaoyuan.cn|zkh.com
 @@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|fenbi.com|guancha.cn|imooc.com|kuque.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com|ttcdw.cn|xinrenxinshi.com|zzjiasuqi.com
@@ -408,7 +405,6 @@
 @@||99ybcc.com^$generichide
 @@||9anime.nl/ajax/
 @@||9anime.nl/assets^
-@@||9anime.to/ajax/
 @@||9anime.to/assets^
 @@||9anime.vip/ajax/
 @@||9zvip.net/wp-content/plugins/detect-adblock/js/ads.js
@@ -1054,7 +1050,6 @@
 @@||avgle.com/embed/$genericblock,generichide
 @@||avpgalaxy.net/gpt.js
 @@||awaps.yandex.ru^$app=ru.yandex.searchplugin
-@@||awempire.com/*/css/*.css$domain=awempire.com
 @@||awin1.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||az416426.vo.msecnd.net/next/ai.2.min.js$domain=ams.cdn.arkadiumhosted.com
 @@||aztelekom.az^$stealth=dpi
@@ -1589,6 +1584,7 @@
 @@||cdn.wgchrrammzv.com/prod/ajc/loader.min.js$domain=journal-news.com
 @@||cdn1.img4kora.com/assets/js/clever_ads.js
 @@||cdn13.com/*.mp4?$domain=xhamster.com
+@@||cdn13.com^$stealth,media
 @@||cdnb.4strokemedia.com/carousel/v4/comscore-JS-$script
 @@||cdnb.4strokemedia.com^$domain=video.corriere.it
 @@||cdnb.4strokemedia.com^$domain=video.gazzetta.it
@@ -2374,7 +2370,6 @@
 @@||filespace.com^$generichide
 @@||films.imhonet.ru^$jsinject
 @@||filmweb.pl^$generichide
-@@||findernet.com^$content
 @@||firebase.google.com/docs/analytics/$~third-party
 @@||firefaucet.win^$generichide
 @@||firefox.com.cn/media/img/mozcn/spread/468-60-
@@ -3300,6 +3295,7 @@
 @@||googletagmanager.com/gtm.js$domain=skoda-auto.pl
 @@||googletagmanager.com/gtm.js$domain=sloggi.com
 @@||googletagmanager.com/gtm.js$domain=society6.com
+@@||googletagmanager.com/gtm.js$domain=sonos.com
 @@||googletagmanager.com/gtm.js$domain=spareroom.co.uk
 @@||googletagmanager.com/gtm.js$domain=spaziogames.it
 @@||googletagmanager.com/gtm.js$domain=spektrum.de
@@ -3705,7 +3701,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv|881903.com|ani.gamer.com.tw|appledaily.com|ha365.com|hamivideo.hinet.net|line.me|linetv.tw|litv.tv|mytvsuper.com|nextmedia.com|now.com|tvb.com|udn.com|ulifestyle.com.hk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=7plus.com.au
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=9am.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=a1.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=aksam.com.tr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=alemfm.com
@@ -4472,6 +4467,7 @@
 @@||media.org.hk^*/ads_
 @@||media.richrelevance.com/rrserver/$domain=askul.co.jp
 @@||media.sailthru.com^$image,domain=link.ted.com
+@@||media.salemwebnetwork.com/adverts/advertisement.js$domain=biblestudytools.com
 @@||media.sosh.fr/includes/wtbase.js
 @@||media.sosh.fr/includes/wtinit.js
 @@||media.studybreakmedia.com/doubleclick/ads2.js
@@ -4503,6 +4499,7 @@
 @@||merequartz.com/aadetect/px.gif?
 @@||merlincdn.net^*/common/images/spacer.gif$image,domain=turkcell.com.tr
 @@||meta.wikimedia.org/wiki^
+@@||metabomb.net^$generichide
 @@||metrics.bangbros.com/tk.js$~third-party
 @@||metrics.bitdefender.com/b/ss/*$domain=bitdefender.com
 @@||metrics.brooksbrothers.com/b/ss/$image
@@ -4614,7 +4611,6 @@
 @@||motherless.com/favorites/
 @@||motherless.com/scripts/mobile^
 @@||motika.com.mk/wp-content/plugins/ajax-hits-counter/display-hits.rapid.php$~third-party
-@@||motortrader.com.my/advert/$image,~third-party
 @@||moulinex.com/js/xtroi.js
 @@||movie.momo-net.com/_embed/video.php$domain=german-porno-deutsch.info
 @@||moyens.net^$generichide
@@ -5067,7 +5063,6 @@
 @@||petrochina.com.cn/advertisement_
 @@||pg-wuming.com^$generichide
 @@||photofunia.com/effects/$image,~third-party
-@@||photopea.com/promo/no_ads.png
 @@||photos.google.com^$generichide
 @@||piaotia.com/scripts/readindex/tongji.js
 @@||piccool.com/2home/phpAdsNew/
@@ -5157,6 +5152,7 @@
 @@||playy.online/log_event$~third-party,xmlhttprequest
 @@||pleisty.com^$domain=evomag.ro
 @@||plejada.pl/*&srcc=ucs$removeparam=utm_source
+@@||plex.tv/api/$stealth=ip
 @@||plex.tv/api/v*/users/*?utm_source=$removeparam=utm_source,domain=watch.plex.tv
 @@||plex.tv/api/v2/geoip$xmlhttprequest
 @@||plex.tv/wp-content/themes/plex/assets/js/conditional/lib/fastclick.min.js
@@ -5491,7 +5487,6 @@
 @@||sankei.co.jp/js/analytics/skd.Analysis.js$script
 @@||sanspo.com/parts/chartbeat/$xmlhttprequest
 @@||sascdn.com/tag/$script,domain=filmweb.pl
-@@||sascdn.com/video/players/jwplayer/
 @@||satellite-calculations.com/ads.js
 @@||sax.sina.com.cn/video/newimpress?
 @@||sb.scorecardresearch.com/*/plugins/streamsense_plugin_theplatform.js$domain=cbc.ca
@@ -5850,7 +5845,6 @@
 @@||srv.clickfuse.com/showads/showad.js$domain=aha-music.com
 @@||srv.tunefindforfans.com/showads/track/srvclk.php?
 @@||ssl-images-amazon.com^*/satelliteLib-$script,domain=audible.com
-@@||ssl-thumb2.720static.com^$stealth,image
 @@||ssl.geoplugin.net/javascript.gp$domain=forfun.ist
 @@||ssl.geoplugin.net/javascript.gp$domain=imalentstore.com
 @@||ssl.geoplugin.net/javascript.gp$domain=retrohahn.myshopify.com
