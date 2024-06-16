@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-06-16 09:33:12（北京时间） 
-! Total count: 6872
+! Version: 2024-06-16 20:33:48（北京时间） 
+! Total count: 6868
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
@@ -645,7 +645,6 @@
 @@||adspirit.de^$domain=kinopolis.de
 @@||adsrveys.com/ads-api-v3|$domain=diggysadventure.com
 @@||adst.mp.pl^$domain=mp.pl
-@@||adswizz.com/adswizz/js/SynchroClient*.js$script,third-party,domain=jjazz.net
 @@||adswizz.com^$domain=noz.de
 @@||adtng.com/get/$subdocument,domain=hanime.tv
 @@||adtraction.com^$image,domain=ebjudande.se
@@ -910,7 +909,6 @@
 @@||api.mapbox.com/*/mapbox.mapbox-terrain-*,mapbox.mapbox-streets-*^$stealth
 @@||api.mapbox.com/*?secure&access_token=$stealth
 @@||api.mapy.cz^$stealth
-@@||api.mercari.jp^$stealth
 @@||api.mi-img.com^$stealth=referrer
 @@||api.minecraftservices.com^$stealth
 @@||api.mixpanel.com/engage/?data=$xmlhttprequest,domain=deezer.com
@@ -3447,6 +3445,7 @@
 @@||gounlimited.to/embed-*.html$stealth
 @@||gounlimited.to/js/pop.js|
 @@||gov.cn/scripts/Comm/AdRotator.js
+@@||grandcentral.1plus1.video^$stealth
 @@||grandhotelcalciomercato.com/js/prebid-ads.js
 @@||grapeshot.co.uk/image-resize/$image
 @@||grapeshot.co.uk/main/channels.cgi$script,domain=telegraph.co.uk
@@ -3788,7 +3787,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nydailynews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=oe24.at
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=olympics.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ottwow.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=oyunkuzusu.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=phonostar.de
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=play.joj.sk
@@ -4329,6 +4327,7 @@
 @@||login.live.com^$stealth
 @@||login.microsoftonline.com^$stealth
 @@||login.nvgs.nvidia.com^$stealth
+@@||login.nvidia.com^$stealth
 @@||login.uid.me^$domain=ucoz.ru
 @@||login.yahoo.com$stealth
 @@||loginza.ru/api/
@@ -4558,7 +4557,6 @@
 @@||minyu-net.com/parts/ad/banner/$image,~third-party
 @@||mistore.jp/content/dam/isetan_mitsukoshi/advertise/$~third-party
 @@||mitsubishiclub.cz^$generichide
-@@||miui.com/unlock/$stealth
 @@||miuiflash.com^$generichide
 @@||mixpanel.com/site_media/js/api/mixpanel.js$domain=blog.cloudflare.com
 @@||mixpanel.com/track/?data=$xmlhttprequest,domain=change.org|kickstarter.com|thefrisky.com
@@ -4958,7 +4956,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mediastinger.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=metrolagu.cam
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mobile-tracker-free.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mshares.co|gayvidsclub.com|1069boys.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mta-resource.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=okdebrid.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=populistpress.com|canadafreepress.com|thelibertydaily.com|writerscafe.org|populist.press|welovetrump.com|grammarist.com|protrumpnews.com|concomber.com|videogamesblogger.com|gamersheroes.com|letocard.fr|100percentfedup.com|thepalmierireport.com|kresy.pl|beforeitsnews.com|thepatriotjournal.com|phoenixnewtimes.com|thepoke.co.uk|comicallyincorrect.com|thegatewaypundit.com
@@ -5107,7 +5104,6 @@
 @@||pixel.quantserve.com/pixel^$domain=mixcloud.com
 @@||pixel.quantserve.com/seg/$script,domain=photos.essence.com
 @@||pixel.quantserve.com/seg/r;a=$domain=cbs.com|filefront.com|imdb.com|laobserved.com|tv.com
-@@||pixlr.com^$content,jsinject
 @@||pjtra.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||pkstep.com^$generichide
 @@||pl-play.adtonos.com^$domain=radio-internetowe.com
