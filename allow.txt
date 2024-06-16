@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-06-15 20:33:34（北京时间） 
-! Total count: 6869
+! Version: 2024-06-16 09:33:12（北京时间） 
+! Total count: 6872
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
@@ -168,6 +168,7 @@
 @@/img_ad/*$domain=tkec.com.tw
 @@/inc/embed/*ads.js$domain=wcostream.org|watchanimesub.net|wco.tv|wcostream.net|wcostream.com|wcoforever.tv
 @@/inc/embed/suv4.js$domain=wcostream.org|watchanimesub.net|wco.tv|wcostream.net|wcostream.com|wcoforever.tv
+@@/index.m3u8$xmlhttprequest,stealth=referrer,domain=olalivehdplay.ru|lewblivehdplay.ru
 @@/iplookup.$domain=cankaoxiaoxi.com|dongfeng-nissan.com.cn|huomao.com|loldk.com|sina.com.cn
 @@/jannah/*js/advertisement.js|$~third-party
 @@/jquery/*$domain=sobooks.cc
@@ -213,6 +214,7 @@
 @@/static/*/js/plugins/adview_*_ads.js$~third-party,domain=zebranovel.com|panda-novel.com|pandasnovel.com
 @@/static/ad/main.$domain=bbmei.top|bbmen.top
 @@/store_ad/*$domain=pcstore.com.tw
+@@/stylesheet/*$xmlhttprequest,stealth=referrer,domain=gamingzen.xyz|fabtech.work
 @@/themes/flow/frontend_assets/js/advertisement.js|$~third-party
 @@/track?*&ref=$~script,~xmlhttprequest,~other,~image
 @@/track_click?$~script,~xmlhttprequest,~other,~image
@@ -1712,6 +1714,7 @@
 @@||climbing.com^$stealth=dpi
 @@||clj.valuecommerce.com/*/vcushion.min.js
 @@||clksite.com/static/advertisement.js
+@@||closedjelly.net/embed/$subdocument,stealth=referrer
 @@||cloud.189.cn/web/subapp/main.html$jsinject,elemhide,extension
 @@||cloud.google.com^$generichide
 @@||cloud.google.com^$~third-party
