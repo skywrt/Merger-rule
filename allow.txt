@@ -2,7 +2,7 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-06-18 09:21:47（北京时间） 
+! Version: 2024-06-18 20:35:39（北京时间） 
 ! Total count: 6863
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -601,7 +601,6 @@
 @@||ads.julephosting.de/podcasts/$domain=open.spotify.com
 @@||ads.lingxing.com^$~third-party
 @@||ads.microsoft.com^$generichide
-@@||ads.microsoft.com^$popup
 @@||ads.midwayusa.com^$popup
 @@||ads.pinterest.com^$popup
 @@||ads.privacy.qq.com^$domain=privacy.qq.com
@@ -996,7 +995,7 @@
 @@||assets.adobedtm.com/*-source.min.js$domain=samsung.com
 @@||assets.adobedtm.com/*/satelliteLib-*.js$domain=docs.nvidia.com
 @@||assets.adobedtm.com/*launch-*.min.js$domain=samsung.com
-@@||assets.adobedtm.com/extensions/*/AppMeasurement.min.js$domain=nbc.com|tatamotors.com
+@@||assets.adobedtm.com/extensions/*/AppMeasurement.min.js$domain=nbc.com|tatamotors.com|usanetwork.com
 @@||assets.ctfassets.net^$media,domain=ads.spotify.com
 @@||assets.customer.io/assets/track.js$domain=buffer.com
 @@||assets.dfb.de/uploads/*/original_$image
@@ -1492,7 +1491,6 @@
 @@||cdn.petametrics.com/*.js$domain=ranker.com
 @@||cdn.petametrics.com^$domain=techgenix.com
 @@||cdn.petametrics.com^$domain=telegraph.co.uk
-@@||cdn.plyr.io/*/plyr.svg$domain=akwam.*
 @@||cdn.popt.in/pixel.js$domain=userstyles.org
 @@||cdn.privatehost.com/videos*/$removeparam
 @@||cdn.qgraph.io/dist/aiqua-wp.js$domain=cw.com.tw
@@ -1595,7 +1593,6 @@
 @@||cdnbigdata.azureedge.net/scripts/fingerprint2.min.js$domain=news.abs-cbn.com
 @@||cdndm5.com^$stealth
 @@||cdnjs.cloudflare.com/ajax/libs/$domain=fmovies.to
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=vidoza.co|vidoza.net
 @@||cdnjs.cloudflare.com/ajax/libs/*.min.js$domain=audioz.download
 @@||cdnjs.cloudflare.com/ajax/libs/Swiper/*/js/swiper.min.js$domain=9anime.*
 @@||cdnjs.cloudflare.com/ajax/libs/blockadblock/3.2.1/blockadblock.js
@@ -2374,6 +2371,7 @@
 @@||filespace.com^$generichide
 @@||films.imhonet.ru^$jsinject
 @@||filmweb.pl^$generichide
+@@||fingerprintjs.com^$generichide
 @@||firebase.google.com/docs/analytics/$~third-party
 @@||firefaucet.win^$generichide
 @@||firefox.com.cn/media/img/mozcn/spread/468-60-
@@ -2959,7 +2957,7 @@
 @@||googleadservices.com^$domain=google.ae|google.at|google.be|google.by|google.ca|google.ch|google.cl|google.cn|google.co.id|google.co.in|google.co.jp|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.bd|google.com.br|google.com.co|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.ng|google.com.pe|google.com.ph|google.com.pk|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.vn|google.de|google.dk|google.ee|google.es|google.fr|google.gr|google.hu|google.ie|google.it|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk|google.tn
 @@||googleadservices.com^|$app=com.google.android.youtube
 @@||googleapis.com/customsearch/$domain=m.hdzog.com
-@@||googleapis.com/identitytoolkit^$stealth
+@@||googleapis.com/identitytoolkit^$stealth=referrer
 @@||googleapis.com^$script,stylesheet,domain=canyoublockit.com
 @@||googledrive.com$document
 @@||googleoptimize.com/optimize.js$domain=binglee.com.au|grasshopper.com|in.bookmyshow.com|inquirer.com|investing.com|lacomer.com.mx|lodgecastiron.com|tentree.ca|virginmedia.com
@@ -3659,6 +3657,7 @@
 @@||identity.mparticle.com/v*/identify$domain=nbc.com
 @@||identity.mparticle.com/v1/identify$domain=cwtv.com
 @@||identity.mparticle.com^$xmlhttprequest
+@@||identitytoolkit.googleapis.com^$stealth=referrer
 @@||idm.hit.gemius.pl/gplayer.js$domain=muratorplus.pl
 @@||idm.hit.gemius.pl/gplayer.js$domain=poradnikzdrowie.pl|mjakmama24.pl|se.pl|eskarock.pl|voxfm.pl|radioplus.pl|eska.pl|radiosupernova.pl|vibefm.pl|urzadzamy.pl
 @@||idos.idnes.cz^$csp
@@ -3742,6 +3741,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gentside.com|gentside.de|gentside.co.uk|gentside.com.br|esgentside.com|maxisciences.com|ohmymag.com|ohmymag.de|ohmymag.com.br|ohmirevista.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=get.x-link.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=globoplay.globo.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gostanford.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=h5.4j.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=haber7.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=haberglobal.com.tr
@@ -4178,6 +4178,7 @@
 @@||kimcartoon.me/ads/fbMob.aspx
 @@||kincho.co.jp/cm/img/bnr_ad_$image,~third-party
 @@||kinescope.io/embed/$stealth
+@@||kingofdown.com^$generichide
 @@||kiplinger.112.2o7.net^
 @@||kissjav.com^$generichide
 @@||kk665403.pixnet.net^$generichide
@@ -4271,7 +4272,6 @@
 @@||linksynergy.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||linkvertise.com/assets/ads.js
 @@||linkvertise.com^$generichide
-@@||linkvertise.download^$generichide
 @@||litv.tv/ads/ads.js
 @@||liulanmi.com/wp-content/uploads/*/StatCounter-
 @@||liumingye.cn^$generichide
@@ -4644,11 +4644,11 @@
 @@||mtvnetworks.tt.omtrdc.net^$script,domain=mtv.com
 @@||mui.com^$generichide
 @@||multitest.ua/static/bower_components/boomerang/boomerang.js$~third-party
+@@||multiup.org/*/mirror^
 @@||munchkin.marketo.net/munchkin.js$domain=st.com|telus.com
 @@||munchkin.marketo.net/munchkin.js$domain=telus.com
 @@||music.amazon.$generichide
 @@||musicstore.de^*/emos2.js
-@@||musictrack.jp/a/ad/banner_member.jpg
 @@||musicvideogenome.com/javascripts/stats.js
 @@||muumuu-domain.com/common/js/ga_social_tracking.js
 @@||muzlan.top/ads/banner.png
@@ -5918,7 +5918,6 @@
 @@||static-redesign.cnbcfm.com/dist/components-PcmModule-Taboola-*.js$domain=cnbc.com
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=blau.de
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=o2online.de
-@@||static.adman.gr^$domain=naftemporiki.gr
 @@||static.ads-twitter.com/uwt.js$domain=cms.nova.cz
 @@||static.ads-twitter.com^$app=jp.co.alc.eow
 @@||static.ads-twitter.com^|$app=com.nttdocomo.android.danimeapp
@@ -6363,6 +6362,7 @@
 @@||treasuredata.com/sdk/*/td.min.js$domain=shiseido.co.jp
 @@||treasuredata.com^$script,domain=skincare-univ.com
 @@||trf.greatviews.de/cl?$domain=mitarbeiterangebote.de
+@@||trinitymedia.ai/player/$stealth=referrer
 @@||trip-jam.com/resources/js/adsense.js
 @@||trip.cmbchina.com^$generichide
 @@||tripcentral.ca^$stealth=dpi
