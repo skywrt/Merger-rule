@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-06-27 20:36:08（北京时间） 
-! Total count: 6848
+! Version: 2024-06-28 09:21:41（北京时间） 
+! Total count: 6850
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -2038,6 +2038,7 @@
 @@||detik.com/urchin.js
 @@||deutsches-museum.de^$stealth=dpi
 @@||dev.appboy.com^$app=com.picsart.studio
+@@||dev.virtualearth.net/REST/*/Autosuggest?query=$stealth=referrer
 @@||dev.virtualearth.net/webservices/$domain=multiroute.de
 @@||dev.visualwebsiteoptimizer.com^$stylesheet,script,domain=hancomdocs.com
 @@||developer.qcloudimg.com/http-save/$image,stealth=referrer
@@ -4734,6 +4735,7 @@
 @@||next.co.uk/static-content/gtm-sdk/gtm.js$~third-party
 @@||nextbigfuture.s3.amazonaws.com/uploads$stealth
 @@||nfmovies.com/static/side.jpg$xmlhttprequest,domain=nfmovies.com
+@@||nfmovies.com/static/side.jpg$xmlhttprequest,domain=nfmovies.compis.com/js/sdkloader/ima3.js$domain=video.udn.com
 @@||ngastatic.com/*/tracker.js$domain=ads.allegro.pl
 @@||nhkondemand.sc.omtrdc.net^$domain=nhk-ondemand.jp
 @@||nike.com/assets/measure/data-capture/analytics-client.min.js$script,~third-party
