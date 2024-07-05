@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-07-04 20:35:39（北京时间） 
-! Total count: 6860
+! Version: 2024-07-05 09:22:06（北京时间） 
+! Total count: 6865
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -1431,6 +1431,7 @@
 @@||cdn.dimml.io/dimml.js$domain=consumentenbond.nl
 @@||cdn.dimml.io/static/*.js$domain=consumentenbond.nl
 @@||cdn.dynamicyield.com^$domain=dafiti.com.co
+@@||cdn.ex.co/player/$domain=reviewjournal.com
 @@||cdn.ex.co^$domain=theautopian.com
 @@||cdn.exmarketplace.com/bidder/video_scripts/video_updated_*.js$domain=tvserial.it
 @@||cdn.fluidplayer.com/*/current/fluidplayer.min.js
@@ -1972,6 +1973,7 @@
 @@||d.tailtarget.com/profiles.js$domain=superesportes.com.br
 @@||d1-dm.com^$generichide
 @@||d1ayxb9ooonjts.cloudfront.net/bitly2/$domain=bitly.com
+@@||d1r3ddyrqrmcjv.cloudfront.net^$domain=uploadbank.com
 @@||d1z2jf7jlzjs58.cloudfront.net/p.js$domain=nfl.com
 @@||d2.alternativeto.net/dist/*/piwik_*.png
 @@||d2dq2ahtl5zl1z.cloudfront.net/analytics.js/*/analytics.min.js$domain=architizer.com
@@ -4692,6 +4694,7 @@
 @@||myssl.com/scripts/analyze.js
 @@||myvidster.com/processor.php
 @@||mywot.com/*/confirmNewEmail/$removeparam
+@@||n730.timesunion.com/script.js
 @@||n8s.jp^$script,domain=nikkei.com
 @@||nakanohito.jp^*/bi.js$domain=kenko-tokina.co.jp
 @@||nakanohito.jp^*/bi.js$domain=kenko-tokina.co.jp|myna.go.jp
@@ -5138,6 +5141,7 @@
 @@||player.ex.co/player/$domain=si.com
 @@||player.ex.co/player/$domain=thestreet.com
 @@||player.ex.co/player/$script,domain=theautopian.com
+@@||player.ex.co^$domain=reviewjournal.com
 @@||player.fc-zenit.ru/msi/geoip?$xmlhttprequest
 @@||player.glomex.com/integration^$domain=t-online.de
 @@||player.glomex.com^$subdocument,stealth=referrer
@@ -6242,6 +6246,7 @@
 @@||tiles.mapbox.com^$document
 @@||time.adp.com^$document
 @@||timesofindia.indiatimes.com/ad-banner-zedo^
+@@||timesunion.com/sites/jquery.adx.js
 @@||timmy.superpointlesshamsters.com/clicktrue_invocation.js$domain=game.co.uk
 @@||timvision.it/libs/fingerprint/fingerprint.js
 @@||tineco.com/userCenter/js/sensorsdata.min.js
