@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-07-07 09:35:01（北京时间） 
-! Total count: 6862
+! Version: 2024-07-07 20:33:36（北京时间） 
+! Total count: 6864
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -323,6 +323,7 @@
 @@||1gr.cz/js/dtm/cache/satelliteLib-$domain=idnes.cz
 @@||1gr.cz/log/score.aspx?page*url=
 @@||1keydata.com^$generichide
+@@||1plus1.video/tvguide/embed/*?autoplay=$stealth
 @@||1plus1.video/video/embed/$stealth,~script,~xmlhttprequest,~other
 @@||1trackapp.com/static/tracking/$script,stylesheet,~third-party
 @@||2018x.bid/adview.js
@@ -1600,7 +1601,6 @@
 @@||cdnb.4strokemedia.com^$domain=video.corriere.it
 @@||cdnb.4strokemedia.com^$domain=video.gazzetta.it
 @@||cdnbigdata.azureedge.net/scripts/fingerprint2.min.js$domain=news.abs-cbn.com
-@@||cdndm5.com^$stealth
 @@||cdnjs.cloudflare.com/ajax/libs/$domain=fmovies.to
 @@||cdnjs.cloudflare.com/ajax/libs/*.min.js$domain=audioz.download
 @@||cdnjs.cloudflare.com/ajax/libs/Swiper/*/js/swiper.min.js$domain=9anime.*
@@ -3426,7 +3426,6 @@
 @@||googletagservices.com/tag/js/gpt.js$domain=epaper.timesgroup.com
 @@||googletagservices.com/tag/js/gpt.js$domain=fukuishimbun.co.jp
 @@||googletagservices.com/tag/js/gpt.js$domain=gamestar.de
-@@||googletagservices.com/tag/js/gpt.js$domain=gaming.uefa.com
 @@||googletagservices.com/tag/js/gpt.js$domain=gentside.com|gentside.de|gentside.co.uk|gentside.com.br|esgentside.com|maxisciences.com|ohmymag.com|ohmymag.de|ohmymag.com.br|ohmirevista.com
 @@||googletagservices.com/tag/js/gpt.js$domain=imgur.com
 @@||googletagservices.com/tag/js/gpt.js$domain=koigaku.machicon.jp
@@ -3440,6 +3439,7 @@
 @@||googletagservices.com/tag/js/gpt.js$domain=topuniversities.com
 @@||googletagservices.com/tag/js/gpt.js$domain=tvb.com|tvbs.com.tw|www.gamer.com.tw
 @@||googletagservices.com/tag/js/gpt.js$domain=ukr.net
+@@||googletagservices.com/tag/js/gpt.js$domain=weather.com
 @@||googletagservices.com/tag/js/gpt.js$xmlhttprequest,script,redirect=googletagservices-gpt,domain=wuzzuf.net
 @@||googletagservices.com/tag/js/gpt.js?ad_tag=$domain=clipmyhorse.tv
 @@||googletagservices.com^$script,domain=creaders.net
@@ -3712,6 +3712,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv|881903.com|ani.gamer.com.tw|appledaily.com|ha365.com|hamivideo.hinet.net|line.me|linetv.tw|litv.tv|mytvsuper.com|nextmedia.com|now.com|tvb.com|udn.com|ulifestyle.com.hk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=7plus.com.au
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=9am.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=a1.ro
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=aksam.com.tr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=alemfm.com
@@ -4357,7 +4358,6 @@
 @@||lr-ingest.io/LogRocket.min.js$domain=smartcare.com
 @@||lsi.com^*/google-analytics.js
 @@||lso.ca^$stealth=dpi
-@@||luminalearning.com/affiliate-content/$image,~third-party
 @@||lun.com/*/Scripts/Analytics.js
 @@||lustich.de.adadapter.netzathleten-media.de/API-1.0/*/naMediaAd.js$domain=lustich.de
 @@||lwadm.com/lw/pbjs?pid=$script,domain=sydostran.se
@@ -5586,6 +5586,7 @@
 @@||securepubads.g.doubleclick.net/*/pubads_impl*.js$script,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com|jytechs.in
 @@||securepubads.g.doubleclick.net/*/pubads_impl.js$domain=tiktokcounter.net|crypto-radio.eu|lifgam.online|blackwoodacademy.org|waezg.xyz|seoliv.com
 @@||securepubads.g.doubleclick.net/gampad/ads$domain=cinemaxx.de
+@@||securepubads.g.doubleclick.net/gampad/ads$domain=cityam.com
 @@||securepubads.g.doubleclick.net/gampad/ads$domain=purepeople.com
 @@||securepubads.g.doubleclick.net/gampad/ads$domain=simple.ripley.cl
 @@||securepubads.g.doubleclick.net/gampad/ads$domain=softonic.com
@@ -6036,6 +6037,7 @@
 @@||storage.googleapis.com/aisw-assets/fanpage/adblock/advert*_.json$domain=staige.tv
 @@||storage.googleapis.com/prebid/qm_prebid.js$domain=kicker.de
 @@||storage.yandex.net/rdisk/$stealth
+@@||store-web.dynamics.com^$stealth
 @@||stores.office.com/authredir
 @@||stores.office.com/myaccount/advancedinstalls.aspx
 @@||stpd.cloud^$domain=freemcserver.net
