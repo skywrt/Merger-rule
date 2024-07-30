@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-07-30 09:24:43（北京时间） 
-! Total count: 6904
+! Version: 2024-07-30 20:37:17（北京时间） 
+! Total count: 6906
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -416,6 +416,7 @@
 @@||a.visualrevenue.com/vrs.js$domain=nydailynews.com
 @@||a.visualrevenue.com/vrs.js$domain=t-online.de
 @@||a1.itc.cn/pv/js/spv.
+@@||a10.com/wdg/js_aggregator-active/js/module/monetisation/advertisement.js
 @@||a2zapk.com^$script,xmlhttprequest,third-party,domain=financemonk.net|rtxkeeda.com|houseofblogger.com|dropgalaxy.com|djxmaza.in|miuiflash.com|thecubexguide.com|jytechs.in
 @@||aax-eu.amazon-adsystem.com/s/yoc^$domain=youronlinechoices.com
 @@||aax.amazon-adsystem.com^$domain=mylifetime.com
@@ -1836,8 +1837,6 @@
 @@||connect.tapjoy.com/connect$app=com.lucasarts.starts_goo
 @@||connect.ubisoft.com/oauth/*?redirectUrl$jsinject
 @@||connectivitycheck.gstatic.com^$important
-@@||consent.cookiefirst.com/banner.js$stealth
-@@||consent.cookiefirst.com/sites$stealth
 @@||console.bce.baidu.com^$domain=console.bce.baidu.com
 @@||console.statsig.com/_next/$~third-party
 @@||constantcontact.com/js/WebTracking/
@@ -2236,7 +2235,6 @@
 @@||em.hk/wp-content/uploads/*_300_250.
 @@||emailapi.zdbb.net/subscriptions/$domain=extremetech.com
 @@||emailapi.zdbb.net/subscriptions/$domain=pcmag.com
-@@||emailregex.com^$generichide
 @@||emathhelp.net^$csp
 @@||embed.binkies3d.com/content/$domain=gsmarena.com
 @@||embed.ex.co^$xmlhttprequest,domain=espncricinfo.com
@@ -3108,6 +3106,7 @@
 @@||googletagmanager.com/gtm.js$domain=clipmyhorse.tv
 @@||googletagmanager.com/gtm.js$domain=cnbctv18.com
 @@||googletagmanager.com/gtm.js$domain=coda.io
+@@||googletagmanager.com/gtm.js$domain=communityfibre.co.uk
 @@||googletagmanager.com/gtm.js$domain=computerhoy.com
 @@||googletagmanager.com/gtm.js$domain=coolermaster.com
 @@||googletagmanager.com/gtm.js$domain=cotizadorsalud.mapfre.com.mx
@@ -3132,6 +3131,7 @@
 @@||googletagmanager.com/gtm.js$domain=elderscrollsonline.com
 @@||googletagmanager.com/gtm.js$domain=eldorado.com.ua
 @@||googletagmanager.com/gtm.js$domain=elnuevodia.com
+@@||googletagmanager.com/gtm.js$domain=empireonline.com
 @@||googletagmanager.com/gtm.js$domain=evernote.com
 @@||googletagmanager.com/gtm.js$domain=evofone.com
 @@||googletagmanager.com/gtm.js$domain=expressvpn.com
@@ -3665,7 +3665,6 @@
 @@||ibf.tw^$generichide
 @@||ibon.com.tw/imageserver/images/ad_file/
 @@||icantw.com/platform/cover_ad/cover_ad.js
-@@||icashier.alipay.com^$domain=aliexpress.com
 @@||icbc.com.cn/ICBC_ADJS/
 @@||icbc.com.cn/Portal_Resources/Common/AdCss/
 @@||icbc.com.cn/Portal_Resources/Common/AdRes/
@@ -4305,7 +4304,6 @@
 @@||linkvertise.com^$generichide
 @@||linkvertise.download^$generichide
 @@||linuxize.com/porpoiseant/banger.js
-@@||lirarate.org/tardisrocinante/screx.js
 @@||litv.tv/ads/ads.js
 @@||litvp.com/checkStatus/$domain=emturbovid.com
 @@||litvp.com/creatDownload$domain=emturbovid.com
@@ -4366,7 +4364,6 @@
 @@||login.yahoo.com$stealth
 @@||loginza.ru/api/
 @@||logly.co.jp/recommend/img.benesse-cms.jp/$image,domain=benesse.ne.jp
-@@||logo.clearbit.com^$image,domain=securitytrails.com
 @@||logo.clearbit.com^$image,third-party
 @@||logs1242.xiti.com/go.url
 @@||loki.delve.office.com/api/$stealth
@@ -5003,6 +5000,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=stockstracker.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=thizissam.in
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=turkce-brosurler.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=updato.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vladan.fr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=vorsprung-online.de
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=zefoy.com
@@ -5517,6 +5515,7 @@
 @@||safeframe.googlesyndication.com^$subdocument,domain=koigaku.machicon.jp
 @@||safeway.com/*/?bannerId
 @@||sail-horizon.com/spm/spm.v1.min.js$script,domain=voguegirl.jp
+@@||salfordonline.com/wp-content/plugins/wp_pro_ad_system/$script
 @@||samsunhaber.com/images/banner/*logo$~third-party
 @@||sankei.co.jp/js/analytics/skd.Analysis.js$script
 @@||sanspo.com/parts/chartbeat/$xmlhttprequest
@@ -5721,6 +5720,7 @@
 @@||sf*-*cdn-tos.pstatp.com^$domain=bcy.net|agefans.cc
 @@||sf*-*cdn-tos.pstatp.com^$domain=juejin.cn
 @@||sfdict.com/app/*/click_tracking.js$domain=thesaurus.com
+@@||sgcpanel.com^$document
 @@||sh.st$generichide
 @@||shaka-player-demo.appspot.com/lib/ads/ad_manager.js$script,~third-party
 @@||shana.pe.kr^$generichide
@@ -5858,6 +5858,7 @@
 @@||spanishdict.com^$generichide
 @@||spark.co.nz/content/*/utag.sync.js$domain=skinny.co.nz
 @@||speedcurve.com/js/lux.js$script,domain=tv8.it
+@@||speedtest.net/*-login.php$domain=speedtest.net
 @@||speedtest.net/api/api.php
 @@||speedtest.net/api/js/user-settings|$xmlhttprequest
 @@||speedtest.net/javascript/ads.js
@@ -6218,6 +6219,7 @@
 @@||telegram.hr^$content
 @@||telegraph.co.uk/template/ver1-0/js/webtrends/live/wtid.js
 @@||telemetry.stytch.com/submit$domain=play.pixels.xyz
+@@||tempinbox.xyz/storage/js/mnpw3.js
 @@||templates.marketo.net/template*/$script,stylesheet,domain=pages.addigy.com
 @@||temu.com^$stealth=dpi
 @@||tenki.jp/storage/static-images/top-ad/
