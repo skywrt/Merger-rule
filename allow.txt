@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-07-31 09:10:34（北京时间） 
-! Total count: 6911
+! Version: 2024-07-31 20:37:44（北京时间） 
+! Total count: 6912
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -591,7 +591,6 @@
 @@||ads.pinterest.com^$popup
 @@||ads.privacy.qq.com^$domain=privacy.qq.com
 @@||ads.pubmatic.com/AdServer/js/pwt/*/pwt.js$domain=zeenews.india.com
-@@||ads.pubmatic.com/AdServer/js/pwtSync/$script,subdocument,domain=dnaindia.com|independent.co.uk|wionews.com
 @@||ads.pubmatic.com/adserver/js/$script,domain=zeebiz.com
 @@||ads.reddit.com^$domain=myqqjd.com
 @@||ads.remix.es/advertisement.js|
@@ -1493,6 +1492,7 @@
 @@||cdn.petametrics.com^$domain=techgenix.com
 @@||cdn.petametrics.com^$domain=telegraph.co.uk
 @@||cdn.playwire.com/bolt/js/zeus/embed.js$domain=abcya.com
+@@||cdn.plyr.io/*/plyr.svg$domain=akwam.*
 @@||cdn.popt.in/pixel.js$domain=userstyles.org
 @@||cdn.privatehost.com/videos*/$removeparam
 @@||cdn.pubnub.com/pubnub-3.14.5.min.js$domain=my.pltw.org
@@ -3444,6 +3444,7 @@
 @@||googletagservices.com/tag/js/gpt.js$domain=ikitesurf.com
 @@||googletagservices.com/tag/js/gpt.js$domain=imgur.com
 @@||googletagservices.com/tag/js/gpt.js$domain=koigaku.machicon.jp
+@@||googletagservices.com/tag/js/gpt.js$domain=nbcsports.com
 @@||googletagservices.com/tag/js/gpt.js$domain=news.tvb.com
 @@||googletagservices.com/tag/js/gpt.js$domain=nfl.com
 @@||googletagservices.com/tag/js/gpt.js$domain=phileweb.com
@@ -3768,6 +3769,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gentside.com|gentside.de|gentside.co.uk|gentside.com.br|esgentside.com|maxisciences.com|ohmymag.com|ohmymag.de|ohmymag.com.br|ohmirevista.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=get.x-link.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=globoplay.globo.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gocolumbialions.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gostanford.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=h5.4j.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=haber7.com
@@ -4413,7 +4415,6 @@
 @@||mail.google.com^$generichide
 @@||mail.td^$generichide
 @@||mail.yahoo.com/neo/ymstat$xmlhttprequest
-@@||mamahd.com^$generichide
 @@||manage.wix.com/_api/wix-laboratory-server/laboratory/conductAllInScope?scope=vod$domain=editor.wixapps.net
 @@||manageengine.com/images/logo/$image,~third-party
 @@||manageengine.com/products/ad-manager/$~third-party
@@ -4499,7 +4500,6 @@
 @@||media.kaspersky.com/tracking/omniture/s_code_single_suite.js
 @@||media.kijiji.ca/api/$image,~third-party
 @@||media.org.hk^*/ads_
-@@||media.polsatnews.pl^$generichide
 @@||media.richrelevance.com/rrserver/$domain=askul.co.jp
 @@||media.sailthru.com^$image,domain=link.ted.com
 @@||media.sosh.fr/includes/wtbase.js
@@ -4655,6 +4655,7 @@
 @@||mp4upload.com/embed-*.html$popup
 @@||mp4upload.com/jw/jwplayer.js
 @@||mparticle.com/js/v2/*/mparticle.js$script,domain=bk.com|bravotv.com|cnbc.com|gymshark.com|motortrendondemand.com
+@@||mps.nbcuni.com/fetch/ext/load-nbcsports-web.js$domain=nbcsports.com
 @@||mpsnare.iesnare.com/script/logo.js$domain=lenovo.com
 @@||mpsnare.iesnare.com/snare.js$domain=lenovo.com
 @@||mpsnare.iesnare.com/snare.js$domain=rossmann.de
@@ -5011,7 +5012,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=app.axenthost.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=b2bhint.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|raenonx.cc|zxmee.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=nexnoo.com|simana.online|efhjd.com|upfilesurls.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=nexnoo.com|simana.online|efhjd.com|upfilesurls.com|plknu.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=iconmonstr.com,xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=noor-book.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$xmlhttprequest,domain=testadmit.com
@@ -5239,6 +5240,7 @@
 @@||prd.jwpltx.com/*/jwplayer$domain=embed.watchanimesub.net
 @@||prebid-asia.creativecdn.com/bidder/prebid/bids$domain=atozmath.com
 @@||pricematrix.nltg.com/*/markup/$xmlhttprequest,elemhide,jsinject,extension
+@@||primevideo.com^$stealth
 @@||primis.tech^$domain=sportsmole.co.uk
 @@||privat24.privatbank.ua^
 @@||privatbank.ua/content/*/fp2.min.js$~third-party
@@ -6088,7 +6090,7 @@
 @@||sundaysky.com/sundaysky.js?$domain=lenovo.com
 @@||sundaysky.com^*/default/sundaysky.js$domain=lenovo.com
 @@||suning.cn/project/msIndex/js/??
-@@||supercloudsms.com/static/ad/ads.js
+@@||supercloudsms.com/js/ad
 @@||supersonicads.com^$app=com.square_enix.android_googleplay.dqwalkj
 @@||support.google.com^$domain=support.google.com
 @@||support.logi.com/*/articles/$stealth=useragent
@@ -6907,7 +6909,6 @@
 @@||zmovs.com/js/pop.js
 @@||zmtt.net^$script,domain=luoqiuzw.com
 @@||zohopublic.com^*/ADManager_$subdocument,xmlhttprequest,domain=manageengine.com|zohopublic.com
-@@||zonebourse.com/js/googleads.js
 @@||zoominfo.com/c/amplitude-js$script,~third-party
 @@||zpmobi.cn^*/ad.css?$stylesheet
 @@||zsp1.luzdelsur.com.pe/*/fingerprint2/fingerprint2.min.js$~third-party
