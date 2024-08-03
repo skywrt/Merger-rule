@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-08-03 09:23:24（北京时间） 
-! Total count: 6919
+! Version: 2024-08-03 20:34:11（北京时间） 
+! Total count: 6922
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -226,7 +226,6 @@
 @@5.148.189.203:443$network
 @@5.148.189.204:443$network
 @@5.148.189.205:443$network
-@@://*.ico$domain=livenewschat.eu
 @@://10.0.0.$generichide
 @@://10.1.1.$generichide
 @@://127.0.0.1$generichide
@@ -559,6 +558,7 @@
 @@||adocean.pl/ad.xml$domain=imasdk.googleapis.com,badfilter
 @@||adoi.cn^$generichide
 @@||adpop.me^$domain=adpop.me
+@@||adroll.com/edaa^$domain=youronlinechoices.com
 @@||ads-api.twitter.com/*/accounts/$domain=analytics.twitter.com
 @@||ads-interfaces.sc-cdn.net^$domain=ads.snapchat.com
 @@||ads-twitter.com/uwt.js$domain=factory.pixiv.net
@@ -934,7 +934,6 @@
 @@||app.adjust.world^$app=com.spotify.music
 @@||app.clarity.so^$~third-party
 @@||app.hubspot.com/api/ads/$~third-party
-@@||app.khz.se/api/*&ad_type=preroll-channel$domain=ilikeradio.se
 @@||app.message.sonicwall.com^
 @@||app.sendgrid.com$document
 @@||app.sendgrid.com^$elemhide,jsinject
@@ -1182,6 +1181,7 @@
 @@||blog.ztjal.info^$generichide
 @@||blueconic.net/bostonglobemedia.js$domain=bostonglobe.com
 @@||blueconic.net/capitolbroadcasting.js$script,domain=wral.com
+@@||bluekai.com/online-choices^$domain=youronlinechoices.com
 @@||bnc.lt/a/key_live$domain=pinterest.co.kr|pinterest.com|pinterest.de|pinterest.com.au|pinterest.com.mx|pinterest.es|pinterest.jp|pinterest.it|pinterest.ca|pinterest.co.uk|pinterest.ru|pinterest.ch|pinterest.fr|pinterest.cl|pinterest.at|pinterest.pt|pinterest.nz|pinterest.dk|pinterest.se|pinterest.ie|pinterest.ph|pinterest.info
 @@||board-game.co.uk/cdn-cgi/zaraz/s.js$script,~third-party
 @@||boatwizard.com/ads_prebid.min.js$script,domain=boats.com
@@ -1488,7 +1488,6 @@
 @@||cdn.petametrics.com/*.js$domain=ranker.com
 @@||cdn.petametrics.com^$domain=techgenix.com
 @@||cdn.petametrics.com^$domain=telegraph.co.uk
-@@||cdn.playwire.com/bolt/js/zeus/embed.js$domain=abcya.com
 @@||cdn.plyr.io/*/plyr.svg$domain=akwam.*
 @@||cdn.popt.in/pixel.js$domain=userstyles.org
 @@||cdn.privatehost.com/videos*/$removeparam
@@ -3462,7 +3461,6 @@
 @@||gounlimited.to/embed-*.html$stealth
 @@||gounlimited.to/js/pop.js|
 @@||gov.cn/scripts/Comm/AdRotator.js
-@@||grandcentral.1plus1.video^$stealth
 @@||grandhotelcalciomercato.com/js/prebid-ads.js
 @@||grapeshot.co.uk/image-resize/$image
 @@||grapeshot.co.uk/main/channels.cgi$script,domain=telegraph.co.uk
@@ -4028,6 +4026,7 @@
 @@||inpref.s3.amazonaws.com/frosmo.easy.js$third-party
 @@||inpref.s3.amazonaws.com/sites/eventim_$script,third-party
 @@||insidemarketing.eu/cdn/lib/js/adsframe.js
+@@||insight.adsrvr.org/track/edaa^$domain=youronlinechoices.com
 @@||inskinmedia.com^*/js/base/api/$domain=appledaily.com|nextmedia.com
 @@||inspsearchapi.com^$domain=zoo.com|dogpile.com
 @@||instagram.com/api/v1/ads/$~third-party,xmlhttprequest
@@ -4525,7 +4524,6 @@
 @@||meet.google.com^$generichide
 @@||meet.jit.si^$stealth
 @@||mega-debrid.eu/JS/advertisement.js
-@@||megacloud.tv/embed-$stealth=referrer
 @@||megafon.ru/static/?files=*/tealeaf.js
 @@||megane.com.pl^$generichide,badfilter
 @@||megatube.xxx/atrm/s/s/js/m/pr-before.js
@@ -4718,7 +4716,6 @@
 @@||mycokerewards.com^*/webtrends/mcr3-webtrends_POST_$script
 @@||mycommunitynow.com/includes/JI_trafficTracking.js$domain=mycommunitynow.com
 @@||myfamilycominc.tt.omtrdc.net^$domain=ancestry.com|ancestry.co.uk|ancestry.ca|ancestry.de|ancestry.it|ancestry.fr|ancestry.se|ancestry.mx
-@@||myfilmyzilla.com^$generichide
 @@||mylivesignature.com/js/adblocker.js
 @@||myqqjd.com^$generichide
 @@||myssl.com/scripts/analyze.js
@@ -4913,6 +4910,7 @@
 @@||openpoint.com.tw^$generichide
 @@||opensubtitles.org/cdn-cgi/pe/bag2?r[]=*google-analytics.com
 @@||openx.gamereactor.dk/www/delivery/fc.php?script=bannerTypeHtml:vastInlineBannerTypeHtml:vastInlineHtml$domain=gamereactor.de
+@@||opt.semasio.net/optsvc^$domain=youronlinechoices.com
 @@||optimize.webtrends.com^$domain=peterboroughtoday.co.uk
 @@||optimizely.com/js/geo2.js$domain=cbs.com
 @@||optimizely.com^$domain=sonos.com
@@ -5139,6 +5137,7 @@
 @@||pixlr.com^$content,jsinject
 @@||pjtra.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||pkstep.com^$generichide
+@@||pl-play.adtonos.com^$domain=radio-internetowe.com
 @@||places.mercedes-benz.com/*/adrum.js
 @@||pladform.ru/dive/$xmlhttprequest
 @@||pladform.ru/player$subdocument
@@ -5363,6 +5362,7 @@
 @@||raenonx.cc^$generichide
 @@||raiffeisen.at^*/Logger.js
 @@||rakuten-bank.co.jp/rb/ams/img/ad/$~third-party
+@@||ramnode.com/images/
 @@||randomhouse.com/book/css/certona.css
 @@||rapidgrab.pl^$generichide
 @@||rapidrar.com/js/fuckadblock.js
@@ -5399,7 +5399,6 @@
 @@||reddit.com^$generichide
 @@||reddit.com^$generichide,badfilter
 @@||redditenhancementsuite.com/js/jquery.google-analytics.js
-@@||redefineadpl.hit.gemius.pl/*redataredir?url=*.hit.stat24.com*ad.xml$domain=polsatnews.pl|polsatsport.pl|twojapogoda.pl
 @@||redfin.com/stingray/clicktracker.jsp?
 @@||redguide.top^*/ad.css?$stylesheet
 @@||redian.news^$generichide
@@ -6061,6 +6060,7 @@
 @@||stcaimcu.com/data/attachment/common/cf/stc_logo_
 @@||steamcn.com/source/plugin/steamcn_gift/template/images/*steam.png
 @@||steamstatic.com/steam/apps/$image,domain=store.steampowered.com
+@@||stepik.org/lesson^$stealth
 @@||stereonet.com^$stealth=dpi
 @@||stereophile.com^$elemhide
 @@||stippleit.com/stipple.js$domain=photos.toofab.com
@@ -6075,6 +6075,7 @@
 @@||storage.googleapis.com/prebid/qm_prebid.js$domain=kicker.de
 @@||storage.yandex.net/rdisk/$stealth
 @@||store-web.dynamics.com^$stealth
+@@||stores.office.com/authredir
 @@||stpd.cloud^$domain=freemcserver.net
 @@||stream.adunity.com^$xmlhttprequest,domain=b1tv.ro
 @@||stream.u-p.pw/hls/$stealth=referrer
@@ -6236,6 +6237,7 @@
 @@||temu.com^$stealth=dpi
 @@||tenki.jp/storage/static-images/top-ad/
 @@||tennispro.eu/min/?$script,~third-party
+@@||tenor.googleapis.com^$stealth
 @@||tenpay.com/v2/res/pub/cps/main/bottom_ad.js
 @@||tenpay.com^*?ADTAG=
 @@||terabox.fun^$generichide
@@ -6656,8 +6658,8 @@
 @@||wargaming.net^$stealth
 @@||watch.globaltv.com^$generichide
 @@||watchcartoononline.io/back.jpg
-@@||watchcartoononline.io/favicon.ico
 @@||watchcartoononline.io/search|$popup
+@@||watchcartoononline.io/thumbs/
 @@||watchdirty.to/player/stats.php
 @@||wavepc.pl/wp-content/*-500x100.png$image,~third-party
 @@||wavse.com^$generichide
@@ -6876,6 +6878,7 @@
 @@||yogajournal.com^$stealth=dpi
 @@||yospace.com/csm/builder/*,proxy$domain=joyn.de
 @@||yottaa.net^$script,domain=containerstore.com|hannaandersson.com
+@@||you.visualdna.com/user/iab^$domain=youronlinechoices.com
 @@||youaima.com/zz/play_
 @@||youku.com/cms/player/userinfo/
 @@||youku.com/cms/playlog/get?
