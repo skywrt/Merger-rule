@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-08-04 09:36:47（北京时间） 
-! Total count: 6922
+! Version: 2024-08-04 20:34:22（北京时间） 
+! Total count: 6926
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -822,6 +822,7 @@
 @@||api.ads.tvb.com^
 @@||api.amplitude.com^$xmlhttprequest,domain=insiderintelligence.com
 @@||api.apolomedia.com/static/libs/event-tracking.min.js$script
+@@||api.apple-mapkit.com^$stealth
 @@||api.apptentive.com^$app=de.mcdonalds.mcdonaldsinfoapp
 @@||api.babbel.io/gamma/v1/$ping,domain=babbel.com
 @@||api.bbc.com/bbcdotcom/assets/*/script/av/emp/adverts.js
@@ -1554,6 +1555,7 @@
 @@||cdn.taboola.com/libtrc/tipranks-tipranks/loader.js$domain=tipranks.com
 @@||cdn.taboola.com/libtrc/vhb-handelsblatt/loader.js$domain=handelsblatt.com
 @@||cdn.taboola.com/libtrc^$domain=msn.com
+@@||cdn.taboola.com/magazine/$domain=taboolanews.com
 @@||cdn.taboola.com^$domain=asianetnews.com
 @@||cdn.taboola.com^$domain=msnbc.com
 @@||cdn.taboola.com^$domain=samsung.com|thestartmagazine.com|taboolanews.com
@@ -2578,6 +2580,7 @@
 @@||github.io^$generichide,badfilter
 @@||gitlab.com/api/v4/projects/$~third-party
 @@||gitlab.com^$generichide
+@@||gizchina.com^$stealth=useragent
 @@||gizmodo.com/embed/comments/$removeparam
 @@||gizmodo.com/x-kinja-static/assets/new-client/*~slideshowPermalinkPage~trackers.
 @@||gj.mmstat.com/aliyun.$domain=work.aliyun.com
@@ -4033,7 +4036,6 @@
 @@||instagram.com^$generichide
 @@||instantink.hpconnected.com/api/$stealth=referrer
 @@||instapundit.com^$generichide
-@@||instasave.xyz^$generichide
 @@||instawp.xyz^$generichide
 @@||instreamvideo.ru/storage/inplayer/$third-party,image,script,stylesheet
 @@||insurancexblog.blogspot.com/?utm_source=$removeparam=utm_source
@@ -4377,6 +4379,7 @@
 @@||lokopromo.com^*/adsimages/$~third-party
 @@||loltmcheck.com/js/ads.js
 @@||longtailvideo.com/5/googlytics/googlytics-1.js$domain=arte.tv
+@@||lookcam.com/fuckadblock.js
 @@||looker.com/api/internal/$~third-party
 @@||lootup.me/assets/js/ads-prebid.js
 @@||lotto-bw.de^$jsinject
@@ -4571,6 +4574,7 @@
 @@||micro.rubiconproject.com/prebid/dynamic/*.js$domain=tyla.com
 @@||micro.rubiconproject.com/prebid/dynamic/13128.js$domain=ladbible.com|unilad.com|unilad.co.uk|gamingbible.com|tyla.com|sportbible.com
 @@||microsoft.com/*/p/$stealth
+@@||microsoft.com/*/signin.aspx$stealth
 @@||microsoft.com/*=wsign$stealth
 @@||microsoft.com/click/services/RioTracking2.js
 @@||microsoft.com/translate/auth
@@ -4721,7 +4725,6 @@
 @@||myssl.com/scripts/analyze.js
 @@||myvidster.com/processor.php
 @@||mywot.com/*/confirmNewEmail/$removeparam
-@@||n730.timesunion.com/script.js
 @@||n8s.jp^$script,domain=nikkei.com
 @@||nakanohito.jp^*/bi.js$domain=kenko-tokina.co.jp
 @@||nakanohito.jp^*/bi.js$domain=kenko-tokina.co.jp|myna.go.jp
@@ -5181,7 +5184,6 @@
 @@||playy.online/log_event$~third-party,xmlhttprequest
 @@||pleisty.com^$domain=evomag.ro
 @@||plejada.pl/*&srcc=ucs$removeparam=utm_source
-@@||plex.tv/api/$stealth=ip
 @@||plex.tv/api/v*/users/*?utm_source=$removeparam=utm_source,domain=watch.plex.tv
 @@||plex.tv/api/v2/geoip$xmlhttprequest
 @@||plex.tv/wp-content/themes/plex/assets/js/conditional/lib/fastclick.min.js
@@ -5936,6 +5938,7 @@
 @@||st.pussyspace.com/style/10/img/logo_mobile.png|
 @@||st.pussyspace.com/style/webcam.jpg|
 @@||st.pussyspace.net/favicon.ico|
+@@||st.pussyspace.net/player/playBTN.png|
 @@||st.pussyspace.net/style/03/img/bg.png|
 @@||st.pussyspace.net/style/03/img/dropmenudownarrow.png|
 @@||st.pussyspace.net/style/03/img/navbg.hover.png|
@@ -6002,6 +6005,7 @@
 @@||static.clmbtech.com^$domain=timesofindia.com,script
 @@||static.cloud.coveo.com/coveo.analytics.js/$domain=cabelas.com
 @@||static.criteo.net/js/ld/publishertag.js$domain=novayagazeta.ru
+@@||static.criteo.net/js/ld/publishertag.js$domain=shinden.pl
 @@||static.criteo.net/js/ld/publishertag.js$domain=xda-developers.com
 @@||static.doubleclick.net/instream/ad_status.js$domain=alliptvlinks.com
 @@||static.doubleclick.net/instream/ad_status.js$domain=idlixofficials.com|idlixofficial.co|idlixofficial.net
@@ -6777,7 +6781,6 @@
 @@||www.google.*/gen_204$app=com.google.android.googlequicksearchbox
 @@||www.google.*/search?$domain=google.ae|google.at|google.be|google.bg|google.by|google.ca|google.ch|google.cl|google.co.id|google.co.il|google.co.in|google.co.jp|google.co.ke|google.co.kr|google.co.nz|google.co.th|google.co.uk|google.co.ve|google.co.za|google.com|google.com.ar|google.com.au|google.com.br|google.com.co|google.com.ec|google.com.eg|google.com.hk|google.com.mx|google.com.my|google.com.pe|google.com.ph|google.com.pk|google.com.py|google.com.sa|google.com.sg|google.com.tr|google.com.tw|google.com.ua|google.com.uy|google.com.vn|google.cz|google.de|google.dk|google.dz|google.ee|google.es|google.fi|google.fr|google.gr|google.hr|google.hu|google.ie|google.it|google.lt|google.lv|google.nl|google.no|google.pl|google.pt|google.ro|google.rs|google.ru|google.se|google.sk
 @@||www.google.*/search?$generichide
-@@||www.google.com/ads/preferences/$image,script,subdocument
 @@||www.googleadservices.*/aclk?*&adurl=$~third-party
 @@||www.googletagmanager.com/gtm.js$script,domain=book.impress.co.jp
 @@||www.googletagmanager.com^$domain=onlineshop.smt.docomo.ne.jp
@@ -6831,6 +6834,7 @@
 @@||xvideos.*/models/$elemhide,jsinject,extension,xmlhttprequest
 @@||xvideos.*/pornstars/$elemhide,jsinject,extension,xmlhttprequest
 @@||xvideos.*/profiles/$elemhide,jsinject,extension,xmlhttprequest
+@@||xvideos.com/video-get-comments/
 @@||xxxxx520.com^$generichide
 @@||xzeepb2clookuppsta001.blob.core.windows.net/comed/src/js/google-analytics.js$domain=secure1.comed.com
 @@||yabs.yandex.ru$domain=yandex.by|yandex.com.tr|yandex.kz|yandex.ru
