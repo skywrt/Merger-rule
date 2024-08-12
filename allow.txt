@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-08-12 09:34:49（北京时间） 
-! Total count: 6939
+! Version: 2024-08-12 20:39:38（北京时间） 
+! Total count: 6940
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -26,7 +26,6 @@
 @@.jpg#$domain=huhupan.com
 @@.net/click-$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@.png#$domain=3dpchip.com|9zvip.net|club.tgfcer.com|coolinet.com|d1-dm.com|digit77.com|e9china.net|upxin.net
-@@.ru/premiumtv/*.php*$subdocument,xmlhttprequest,stealth=referrer
 @@.ts^$stealth
 @@//store.donanimhaber.com/ad/*$domain=forum.donanimhaber.com
 @@/Tag.rb$domain=github.com
@@ -557,7 +556,6 @@
 @@||adocean.pl/*ad.xml$domain=imasdk.googleapis.com,badfilter
 @@||adocean.pl/ad.xml$domain=imasdk.googleapis.com,badfilter
 @@||adoi.cn^$generichide
-@@||adpop.me^$domain=adpop.me
 @@||adroll.com/edaa^$domain=youronlinechoices.com
 @@||ads-api.twitter.com/*/accounts/$domain=analytics.twitter.com
 @@||ads-interfaces.sc-cdn.net^$domain=ads.snapchat.com
@@ -1469,6 +1467,7 @@
 @@||cdn.optimizely.com/datafiles/*.json$domain=talktalk.co.uk
 @@||cdn.optimizely.com/datafiles/*.json/tag.js$domain=nike.com
 @@||cdn.optimizely.com/img/$image,domain=store-jp.nintendo.com
+@@||cdn.optimizely.com/js/$domain=account.microsoft.com
 @@||cdn.optimizely.com/js/$domain=zdnet.com
 @@||cdn.optimizely.com/js/$script,domain=store-jp.nintendo.com
 @@||cdn.optimizely.com/js/*.js$domain=foxsports.com
@@ -2315,6 +2314,7 @@
 @@||f-gear.ec-optimizer.com/search4.do$script,domain=ec.f-gear.co.jp
 @@||f-gear.ec-optimizer.com/speights/searchresult2fgear.js$script,domain=ec.f-gear.co.jp
 @@||f.monetate.net/trk/$domain=debenhams.com
+@@||f95zone.to/login/$stealth
 @@||faberlic.com/images/banners/
 @@||facebook.com/*/dialog/oauth$stealth
 @@||facebook.com/ads/profile/$~third-party,xmlhttprequest
@@ -2464,13 +2464,13 @@
 @@||g.doubleclick.net/pagead/ads$subdocument,domain=sudokugame.org
 @@||g.doubleclick.net/pagead/ads?$subdocument,domain=ff14angler.com
 @@||g.doubleclick.net/pagead/images/gmob/close-circle-30x30.png$image,domain=safeframe.googlesyndication.com
-@@||g.doubleclick.net/pagead/managed/js/gpt/$script,domain=adamtheautomator.com|allestoringen.be|allestoringen.nl|aussieoutages.com|canadianoutages.com|downdetector.ae|downdetector.ca|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.br|downdetector.dk|downdetector.es|downdetector.fi|downdetector.fr|downdetector.hk|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.no|downdetector.pl|downdetector.pt|downdetector.ru|downdetector.se|downdetector.sg|downdetector.tw|downdetector.web.tr|filmweb.pl|ictnews.org|journaldequebec.com|mediaite.com|spiegel.de|thestar.co.uk|xn--allestrungen-9ib.at|xn--allestrungen-9ib.ch|xn--allestrungen-9ib.de|yorkshirepost.co.uk
+@@||g.doubleclick.net/pagead/managed/js/gpt/$script,domain=adamtheautomator.com|allestoringen.be|allestoringen.nl|aussieoutages.com|canadianoutages.com|downdetector.ae|downdetector.ca|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.br|downdetector.dk|downdetector.es|downdetector.fi|downdetector.fr|downdetector.hk|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.no|downdetector.pl|downdetector.pt|downdetector.ru|downdetector.se|downdetector.sg|downdetector.tw|downdetector.web.tr|euronews.com|filmweb.pl|ictnews.org|journaldequebec.com|mediaite.com|spiegel.de|thestar.co.uk|xn--allestrungen-9ib.at|xn--allestrungen-9ib.ch|xn--allestrungen-9ib.de|yorkshirepost.co.uk
 @@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=games.coolgames.com
 @@||g.doubleclick.net/pagead/managed/js/gpt/*/pubads_impl.js$domain=soranews24.com
 @@||g.doubleclick.net/pagead/ppub_config$domain=bloomberg.com|independent.co.uk|repretel.com|telsu.fi|weather.com
 @@||g.doubleclick.net/tag/js/gpt.js$domain=koigaku.machicon.jp
 @@||g.doubleclick.net/tag/js/gpt.js$domain=soranews24.com
-@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|adamtheautomator.com|bestiefy.com|blastingnews.com|bloomberg.com|chromatographyonline.com|devclass.com|digitaltrends.com|edy.rakuten.co.jp|epaper.timesgroup.com|filmweb.pl|formularywatch.com|games.coolgames.com|gearpatrol.com|journaldequebec.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|nycgo.com|olx.pl|physicianspractice.com|repretel.com|spiegel.de|standard.co.uk|telsu.fi|theta.tv|weather.com
+@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|adamtheautomator.com|bestiefy.com|blastingnews.com|bloomberg.com|chromatographyonline.com|devclass.com|digitaltrends.com|edy.rakuten.co.jp|epaper.timesgroup.com|euronews.com|filmweb.pl|formularywatch.com|games.coolgames.com|gearpatrol.com|journaldequebec.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|nycgo.com|olx.pl|physicianspractice.com|repretel.com|spiegel.de|standard.co.uk|telsu.fi|theta.tv|weather.com
 @@||g.doubleclick.net^$app=jp.co.alc.eow
 @@||g2crowd.com/uploads/product/image/$image,domain=g2.com
 @@||gaanacdn.com/*_social_tracking.js$domain=gaana.com
@@ -4517,7 +4517,6 @@
 @@||media.wazimo.com/favicons/$domain=lastnighton.com
 @@||media.wazimo.com/logos/$domain=lastnighton.com
 @@||mediaite.com/decor/javascript/magnify_stats.js$domain=videos.mediaite.com
-@@||medialaancdn.be^$generichide
 @@||mediamarkt.com.tr^$genericblock
 @@||mediamarkt.de/*/shop^
 @@||mediav.com/js/feed_ts.js$domain=china.com|mini.yyrtv.com
@@ -5058,6 +5057,7 @@
 @@||partner-api.sddan.com/api/*/segment-$domain=6play.fr
 @@||partner.googleadservices.com/gpt/pubads_$domain=mlb.com
 @@||partner.googleadservices.com/gpt/pubads_impl_$domain=ukr.net
+@@||partner.market.yandex.ru^$stealth=referrer
 @@||partner1.cashback.zen.com/aff_
 @@||partnerads.ysm.yahoo.com/ypa/?ct=*suchmaschine.com$domain=suchmaschine.com
 @@||pass.1688.com^$subdocument
@@ -5256,6 +5256,7 @@
 @@||prod.adspsp.com/adb.2418030m.min.js$domain=medicalnewstoday.com
 @@||prod.fennec.atp.fox/js/fennec.js$domain=freemcserver.net
 @@||promo.awempire.com/live_feeds/script_basic_livefeed.php?$domain=sexcamdb.com
+@@||promo.com/embed/$subdocument,third-party
 @@||promods.net/*.js$~third-party
 @@||proquest.com/modules.gz/snowplow/snowplow-
 @@||proton.me^$generichide
