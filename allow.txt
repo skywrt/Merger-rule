@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-08-17 09:23:14（北京时间） 
-! Total count: 6951
+! Version: 2024-08-17 20:34:04（北京时间） 
+! Total count: 6952
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -331,6 +331,7 @@
 @@||40017.cn/cn/min/???/
 @@||423down.com^$generichide
 @@||4399sj.com^*/adview_pic_
+@@||4cdn.org/adv/$image,xmlhttprequest,domain=4channel.org
 @@||4cdn.org/js/catalog.min.*.js$domain=4chan.org
 @@||4cdn.org/js/core.min.*.js$domain=4chan.org
 @@||4cdn.org/js/extension.min.*.js$domain=4chan.org
@@ -445,6 +446,7 @@
 @@||acea.it^$jsinject
 @@||acgbenzi.com//dist/images/top.png
 @@||acgdraw.com/ad$xmlhttprequest
+@@||acid2.acidtests.org^$document
 @@||acid3.acidtests.org^$document
 @@||acs.m.taobao.com^
 @@||actiris.be/urchin.js
@@ -622,6 +624,7 @@
 @@||adspirit.de^$domain=kinopolis.de
 @@||adsrveys.com/ads-api-v3|$domain=diggysadventure.com
 @@||adst.mp.pl^$domain=mp.pl
+@@||adswizz.com/adswizz/js/SynchroClient*.js$script,third-party,domain=jjazz.net
 @@||adswizz.com^$domain=noz.de
 @@||adtng.com/get/$subdocument,domain=hanime.tv
 @@||adv.asahi.com^$popup
@@ -813,10 +816,10 @@
 @@||api-v4.trbo.com/r.php?$script,domain=blau.de
 @@||api.1plus1.video^$stealth
 @@||api.adinplay.com/$xmlhttprequest,domain=taming.io
-@@||api.adinplay.com/libs/aiptag/$script
 @@||api.adinplay.com/libs/aiptag/*/tag.min.js$domain=crazygames.com|shellshock.io|minijuegos.com
 @@||api.adinplay.com/libs/aiptag/*/tag.min.js$domain=v6p9d9t4.ssl.hwcdn.net|golfroyale.io|bullet.town|zoneroyale.com|memegames.space|erigato.space|creatur.io|wormate.io|deadwalk.io|swaarm.io|octagor.com|lordz2.io|brutalmania.io|warscrap.io|findcat.io|evowars.io|shellshock.io|dinoman.io|bombhopper.io|clashblade.com|littlebigsnake.com|evoworld.io
 @@||api.adinplay.com/libs/aiptag/assets/adsbygoogle.js
+@@||api.adinplay.com/libs/aiptag/assets/adsbygoogle.js$domain=bigescapegames.com|brofist.io|findcat.io|geotastic.net|lordz.io
 @@||api.adinplay.com/libs/aiptag/pub/NND/taming.io/tag.min.js$domain=taming.io
 @@||api.adinplay.com/player/*/player.min.js$domain=mineparkour.club|gunzer.io|pockey.io|bist.io|piaf.io
 @@||api.ads.tvb.com^
@@ -982,7 +985,6 @@
 @@||assets.customer.io/assets/track.js$domain=buffer.com
 @@||assets.dfb.de/uploads/*/original_$image
 @@||assets.espn.go.com/espn360/builds/nielsen/ggce*.swf
-@@||assets.evolutionadv.it/optiload/*/optiload_video.min.js$domain=adnkronos.com
 @@||assets.evolutionadv.it/prebid/*/prebid.min.js$domain=adnkronos.com
 @@||assets.giocdn.com/2.1/gio.js$domain=saicmg.com
 @@||assets.hc.com.tr/images/banners/$domain=hc.com.tr
@@ -2334,7 +2336,6 @@
 @@||facebook.com^$generichide
 @@||facebook.com^$generichide,badfilter
 @@||faculty.uml.edu/klevasseur/ads/
-@@||faculty.uml.edu^$image,stylesheet
 @@||fakt.pl/*&srcc=ucs$removeparam
 @@||fakt.pl/*?utm_source=$removeparam
 @@||familyhandyman.com$generichide
@@ -3658,7 +3659,6 @@
 @@||i.doodcdn.co/ads/ad.js
 @@||i.doodcdn.co/ads/pop.js
 @@||i.isnssdk.com^$app=com.ss.android.article.topbuzzvideo
-@@||i.kinja-img.com^$stealth
 @@||i.onthe.io^$script,image,stylesheet,domain=nur.kz
 @@||i.pximg.net/*/img/$stealth,domain=pixiv.net
 @@||i.snssdk.com/log/sentry/$domain=lv.ulikecam.com
@@ -3765,6 +3765,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dailystar.co.uk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=digitalspy.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=diziler.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=dressupmix.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=einthusan.ca|einthusan.tv|einthusan.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=embed-zattoo.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=etonline.com
@@ -4500,6 +4501,7 @@
 @@||mccm88.com^$generichide
 @@||mcdn.bilivideo.cn^$stealth,domain=bilibili.com
 @@||mclo.gs/js/logview.js$~third-party
+@@||mcloud.to/embed/*?key=$subdocument
 @@||mcmod.cn/images/banner/
 @@||mcmod.cn/js/jquery.cookie.js
 @@||mcs.snssdk.com/*/user/webid$domain=lv.ulikecam.com
@@ -5542,7 +5544,6 @@
 @@||s79.research.de.com/bb-mx/prime$domain=joyn.de
 @@||s9.cnzz.com^$app=com.unionpay
 @@||saabcentral.com^$generichide
-@@||sadeemapk.com^$generichide
 @@||safeframe.googlesyndication.com^$subdocument,domain=koigaku.machicon.jp
 @@||safeway.com/*/?bannerId
 @@||sail-horizon.com/spm/spm.v1.min.js$script,domain=voguegirl.jp
@@ -5568,7 +5569,6 @@
 @@||sbg.hit.gemius.pl/gplayer.js$domain=play.nova.bg
 @@||sc.omtrdc.net^$domain=cibc.com
 @@||sc.youmaker.com/site/article/count?
-@@||sc2casts.com^$generichide
 @@||scdn.cxense.com/cx.cce.js$domain=allgemeine-zeitung.de|buerstaedter-zeitung.de|lampertheimer-zeitung.de|echo-online.de|main-spitze.de|wiesbadener-kurier.de|wormser-zeitung.de|mittelhessen.de
 @@||scdn.cxense.com/cx.cce.js$domain=cdn.cxpublic.com
 @@||scdn.cxense.com/cx.cce.js$domain=itmedia.co.jp
@@ -6816,6 +6816,7 @@
 @@||www.pussyspace.net/class/captcha/arrow.png|
 @@||www.pussyspace.net/class/captcha/captcha.php|
 @@||www.pussyspace.net/favicon.ico|
+@@||www.pussyspace.net/style/img/navbg.hover.png|
 @@||www.pussyspace.net/upload/no_img.jpg|
 @@||www.ruanyifeng.com^$csp=script-src 'self' * 'sha256-0McqMM66/wAVZmxF6zXpjNsb1UMbTl4LXBXdhqPKxws='
 @@||www.statcounter.com/images/$image,third-party
