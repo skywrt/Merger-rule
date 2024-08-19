@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-08-19 09:34:05（北京时间） 
-! Total count: 6947
+! Version: 2024-08-19 20:37:46（北京时间） 
+! Total count: 6952
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -32,7 +32,7 @@
 @@/WebAd/*$domain=yongyoujia.com
 @@/\/[js].?[js]\/.*\.js/$script,xmlhttprequest,domain=rbtv77.*|live-streamfootball.*|superabbit77.*|superabbit33.*|superdom77.*|superlee77.*|superleo77.*|superargo77.*|superbarca77.*|linelocatemfsn.*|homebasis4d.*|mindmotion93y8.*|monkeynecktj4w.*|masterenjoyao.*|differenceprimitive85p.*|blewdiffera3j2.*|strangernervousql.*|leadmorning4ivn.*|somehowrockyng.*|currentcolorq2dv.*|determinemousecshe.*|publicspeed5c.*|limiteddollqjc.*
 @@/\/\d{5,7}$/$domain=mylink.*|my1ink.*|myl1nk.*|myli3k.*
-@@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/(?:yip?|xvs)\/videos\/20\d{4}\/\d{2}\/\d{9}\/(?:original|thumbs_\d{2})\/\d{1,2}(?:\(m=e[0-9A-Za-z]{5,7}aaaa\)\(mh=[-_0-9A-Za-z]{16}\))?\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
+@@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/(?:yip?|xvs)\/videos\/20\d{4}\/\d{2}\/\d{9}\/(?:original|thumbs_\d{2})\/\d{0,2}(?:\(m=e[0-9A-Za-z]{5,7}(?:aaaa)?\)\(mh=[-_0-9A-Za-z]{16}\))?\d{0,2}\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
 @@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/(?:yip?|xvs)\/videos\/thumbs169l\/[0-9a-f]{2}\/[0-9a-f]{2}\/[0-9a-f]{2}\/[0-9a-f]{32}(?:-\d)?\/[0-9a-f]{32}\.\d{1,2}\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
 @@/^https:\/\/[a-z]\.pussyspace\.(?:com|net)\/sb\/t\/\d{6,8}\/\d\/\d\/w:300\/t\d{1,2}-enh\/(?:[0-9a-z]+-)*[0-9a-z]+\.jpg$/$image,~third-party,domain=pussyspace.com|pussyspace.net
 @@/^https:\/\/coomer\.su\/api\/v1\/(?:fansly|onlyfans)\/user\/[-.0-9A-Z_a-z]+\/post\/[-0-9A-Za-z]+(?:\/flag)?$/$xmlhttprequest,~third-party,match-case,method=post,domain=coomer.su
@@ -1208,6 +1208,7 @@
 @@||brm-core-0.brsrvr.com/api/*/core$domain=dollargeneral.com
 @@||brm-core-0.brsrvr.com/api/*/core/?account_id=$domain=m.toysrus.com
 @@||browser-intake-datadoghq.com^$app=com.nttdocomo.android.caboneurecord
+@@||browser-intake-datadoghq.com^$domain=pluto.tv
 @@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|menshealth.com|ocado.com|podcasty.seznam.cz|roomster.com|shop.dns-net.de|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
 @@||browserbench.org^$generichide
 @@||browserleaks.com^$generichide
@@ -3502,6 +3503,7 @@
 @@||gumtree.com.au/p-post-ad*.html
 @@||gva.et-gv.fr^$script,domain=culture.gouv.fr
 @@||gws.unicredit.ru/branch/map?$stealth=referrer,domain=unicreditbank.ru
+@@||gxr.world^$elemhide,extension
 @@||gymnasedeburier.ch/themes/segment/js/$~third-party
 @@||h-cast.jp^$script,domain=bookoffonline.co.jp
 @@||h-sdk.online-metrix.net^$app=com.ebay.mobile
@@ -5515,6 +5517,7 @@
 @@||s.visilabs.net/Target.js^$domain=boyner.com.tr
 @@||s.w.org/wp-content/$stylesheet,domain=wordpress.org
 @@||s.yimg.com/ja/ap/*/jquery.$domain=hk.news.yahoo.com|hk.yahoo.com|tw.news.yahoo.com|tw.stock.yahoo.com|tw.yahoo.com
+@@||s.yimg.com/ss/analytics-*.js$domain=tw.news.yahoo.com|tw.sports.yahoo.com|tw.stock.yahoo.com
 @@||s.yimg.com/ss/rapid-*.js$domain=engadget.com
 @@||s.yimg.jp/images/listing/tool/cv/ytag.js$domain=redstoneonline.jp
 @@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.js$domain=yahoo.co.jp
@@ -5950,6 +5953,7 @@
 @@||st.pussyspace.com/style/03/img/pinkbg.gif|
 @@||st.pussyspace.com/style/03/img/speed-dials.png|
 @@||st.pussyspace.com/style/03/img/x-sprite.png|
+@@||st.pussyspace.com/style/05/img/JhsdsSD221.svg|
 @@||st.pussyspace.com/style/10/img/logo.png|
 @@||st.pussyspace.com/style/10/img/logo_mobile.png|
 @@||st.pussyspace.com/style/webcam.jpg|
@@ -6386,6 +6390,7 @@
 @@||traceparts.com/lib/piano-analytics/piano-analytics.js$script,~third-party
 @@||track.adform.net/*cpdir=$popup,domain=pepper.*
 @@||track.adform.net/serving/scripts/trackpoint$script,domain=sky.it
+@@||track.adtraction.com/t/t*url=
 @@||track.ksta.de/cre-*/tracking/call.js
 @@||track.mybloglog.com/js/jsserv.php?$domain=egotastic.com
 @@||track.nzz.ch/*/api/auth_v*/
