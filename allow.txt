@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-08-19 20:37:46（北京时间） 
-! Total count: 6952
+! Version: 2024-08-20 09:25:10（北京时间） 
+! Total count: 6954
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -1304,6 +1304,8 @@
 @@||cbsistatic.com/fly/bundles/flyjs/js/managers/clicktale-1.0.js$domain=cbsnews.com
 @@||cc.zorores.com/ad/*.vtt$domain=rapid-cloud.co
 @@||ccb.com^*^ad
+@@||cchome.adobe.io/prof/graphql$domain=adobe.io,stealth=3p-auth
+@@||cchome.adobe.io/srch/*/users/$domain=adobe.io,stealth=3p-auth
 @@||ccllaa.com^$generichide
 @@||ccom-cdn.com/assets/img/clear.gif?ccom_md5=$domain=credit.com
 @@||cd.connatix.com/connatix.player.js$domain=loot.tv
@@ -3921,7 +3923,7 @@
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=investigationdiscovery.com
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=motortrend.com
 @@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=pluto.tv
-@@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=tunein.com
+@@||imasdk.googleapis.com/pal/sdkloader/pal.js$domain=pluto.tv|tunein.com
 @@||imasdk.googleapis.com^$app=bbc.mobile.news.ww
 @@||imasdk.googleapis.com^$app=be.persgroep.android.news.mobilead
 @@||imasdk.googleapis.com^$app=ch.iAgentur.i20MinFr
@@ -6185,6 +6187,7 @@
 @@||tagmanager.google.com^$document
 @@||tagmp3.net/ads.js
 @@||tags.bkrtx.com/js/$domain=cnet.com
+@@||tags.bkrtx.com/js/bk-coretag.js$domain=miclaro.com.hn
 @@||tags.bkrtx.com/js/bk-coretag.js$domain=mobile.pcmag.com
 @@||tags.bkrtx.com/js/bk-coretag.js$domain=tmz.com
 @@||tags.bkrtx.com/js/bk-coretag.js^$domain=abc7.com
@@ -6390,7 +6393,6 @@
 @@||traceparts.com/lib/piano-analytics/piano-analytics.js$script,~third-party
 @@||track.adform.net/*cpdir=$popup,domain=pepper.*
 @@||track.adform.net/serving/scripts/trackpoint$script,domain=sky.it
-@@||track.adtraction.com/t/t*url=
 @@||track.ksta.de/cre-*/tracking/call.js
 @@||track.mybloglog.com/js/jsserv.php?$domain=egotastic.com
 @@||track.nzz.ch/*/api/auth_v*/
