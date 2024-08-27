@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-08-27 09:34:27（北京时间） 
-! Total count: 6945
+! Version: 2024-08-27 20:38:11（北京时间） 
+! Total count: 6942
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -786,7 +786,6 @@
 @@||answers.microsoft.com/*/completesignin
 @@||answers.microsoft.com/*/site/startsignin
 @@||anthem.com/includes/foresee/foresee-trigger.js
-@@||anti-virus4u.com/v/
 @@||anyknew.com^$generichide
 @@||anymind360.com/js/*/ats.js$domain=automaton-media.com
 @@||anymind360.com/js/*/ats.js$domain=newmobilelife.com
@@ -1880,7 +1879,6 @@
 @@||coolinet.com^$generichide
 @@||coomer.su/.well-known/ddos-guard/mark/|
 @@||copypastecharacter.com^$generichide
-@@||coral.coralproject.net^$stealth
 @@||coremetrics.com*/eluminate.js
 @@||coremetrics.com/eluminate.js
 @@||costco.com.tw/_ui/shared/js/analyticsmediator.js
@@ -2148,6 +2146,7 @@
 @@||drivemoe.com/-ads-banner.js
 @@||driverfix.com^*/index_src.php?tracking=$~third-party
 @@||dropbox.com/*/oauth$document
+@@||dropbox.com^$generichide
 @@||dropbox.com^$generichide,badfilter
 @@||dropgalaxy.com^$generichide
 @@||drtuber.com^$stealth
@@ -3607,6 +3606,7 @@
 @@||hk01.com^*/scripts/ga.js
 @@||hkjc.com/bannerad/
 @@||hlidacstatu.cz/scripts/highcharts-6/modules/heatmap.js
+@@||hlmod.ru/resources/$domain=hlmod.ru
 @@||hls-live.bdstatic.com/*/stream_$stealth
 @@||hls.exmarketplace.com/*.m3u8$domain=tvserial.it
 @@||hls.exmarketplace.com/*.ts$domain=tvserial.it
@@ -3786,7 +3786,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=haberglobal.com.tr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=haberler.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=hanime.tv
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=hiddenobjectgames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=hoy.tv
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=html5.gamedistribution.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=hungama.com
@@ -3857,6 +3856,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.gazzetta.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.onnetwork.tv
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.udn.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.ufreegames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=videonuz.ensonhaber.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=videotarget.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vidyome.com
@@ -4215,8 +4215,6 @@
 @@||kimcartoon.li^$subdocument,~third-party
 @@||kimcartoon.me/ads/fbMob.aspx
 @@||kinescope.io/embed/$stealth
-@@||kingofdown.com^$generichide
-@@||kingofshrink.com^$generichide
 @@||kiplinger.112.2o7.net^
 @@||kisscartoon.se^$subdocument,~third-party
 @@||kissjav.com^$generichide
@@ -4958,7 +4956,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=23qb.net|4spaces.org|aboluowang.com|assbbs.com|bilinovel.com|chaojizhibo.net|chtoen.com|daxiaamu.com|demo.ama.pub|dizhishengcheng.com|doitwell.tw|ekamus.info|eu4cn.com|ff14angler.com|freedidi.com|fsbot.xyz|haoweichi.com|it365.abctool.info|linovelib.com|logi.im|mens1069.com|monnsutogatya.com|mpyit.com|myqqjd.com|numberempire.com|ozabc.com|pansearch.me|patch.ali213.net|pc3mag.com|reh.tw|shenfendaquan.com|sistersbedroom.com|sto520.com|vaptcha.com|wandhi.com|wenxuecity.com|wuyong.fun|xbeibeix.com|xiebruce.top|xugaoxiang.com|xxxxx520.com|yodu.org|yummy.best|zaixianjisuan.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=alliptvlinks.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=apkmirror.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=apkmirror.com,stealth
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=arahdrive.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=arkadium.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=as-selection.net
@@ -5031,6 +5028,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/r*/show_ads_impl.js$domain=vorsprung-online.de
 @@||pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl_$script,domain=battlecats-db.com|game.anymanager.io|games.wkb.jp|sudokugame.org
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=ff14angler.com
+@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=copyseeker.net
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=production-api.androidacy.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=zefoy.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_fy2021.js$domain=alliptvlinks.com
@@ -5260,7 +5258,6 @@
 @@||prod.adspsp.com/adb.*.min.js$domain=healthline.com
 @@||prod.adspsp.com/adb.2418030m.min.js$domain=medicalnewstoday.com
 @@||prod.fennec.atp.fox/js/fennec.js$domain=freemcserver.net
-@@||promo.awempire.com/live_feeds/script_basic_livefeed.php?$domain=sexcamdb.com
 @@||promo.com/embed/$subdocument,third-party
 @@||promods.net/*.js$~third-party
 @@||proquest.com/modules.gz/snowplow/snowplow-
@@ -5988,7 +5985,6 @@
 @@||statcounter.com/js/packed/statcounter-$script,~third-party
 @@||states.newegg.com/b/ss/neweggprod/
 @@||static-cdn.spot.im/production/ads/tags/*/ads/ads.js$domain=cgmagonline.com
-@@||static-file.com^$stealth,domain=eyny.com
 @@||static-redesign.cnbcfm.com/dist/components-PcmModule-Taboola-*.js$domain=cnbc.com
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=blau.de
 @@||static-v*.trbo.com/plugin/trbo_*.js$domain=o2online.de
@@ -6362,6 +6358,7 @@
 @@||torrindex.net/images/*.gif$domain=thepiratebay.org
 @@||torrindex.net/images/*.jpg$domain=thepiratebay.org
 @@||torrindex.net^$script,stylesheet,domain=thepiratebay.org
+@@||totaldebrid.org^$generichide
 @@||totheglory.im/pic/ttg_logo
 @@||townwork.net/js/AppMeasurement.js$~third-party
 @@||toy-people.com^$generichide
