@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-08-28 09:35:20（北京时间） 
-! Total count: 6943
+! Version: 2024-08-28 20:39:32（北京时间） 
+! Total count: 6950
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -803,6 +803,7 @@
 @@||api-edge.cognitive.microsofttranslator.com/translate?
 @@||api-get.mgsearcher.com/api/$stealth=referrer
 @@||api-iam.intercom.io/messenger/web/ping$domain=help.openai.com
+@@||api-iam.intercom.io/messenger/web/ping$domain=support.anthropic.com
 @@||api-js.datadome.co/js/$domain=account.samsung.com
 @@||api-js.datadome.co/js/$domain=sso.garena.com
 @@||api-maps.yandex.ru/services/startup/$stealth
@@ -953,6 +954,7 @@
 @@||appnee.com/clever_ads.js
 @@||apps.derstandard.at^*/TrackingCookieCheck?$subdocument
 @@||apv-launcher.minute.ly/api/$script
+@@||aquarium.co.jp^$stealth=dpi
 @@||aqy103.com/js/aqy/main.js
 @@||aranzulla.it/_adv/
 @@||aranzulla.it^*ads$domain=aranzulla.it
@@ -1723,6 +1725,7 @@
 @@||cloud.roistat.com/dist/module.*$script,stylesheet,domain=britvabarber.ru|tickets.bckhimki.ru
 @@||cloud.roistat.com/dist/module.js$domain=motostudy.ru
 @@||cloud.roistat.com/dist/module.js$domain=pandashop.md
+@@||cloud.typography.com/*/css/fonts.css$stealth
 @@||cloudflare.com/*/fingerprint2.min.js$domain=saavn.com
 @@||cloudflare.com/ajax/libs/fingerprintjs2/$domain=extracttable.com|fckrasnodar.ru|login.kroton.com.br
 @@||cloudflare.com/ajax/libs/fingerprintjs2/$script,domain=gamebox.gesoten.com
@@ -2330,6 +2333,7 @@
 @@||facebook.com/tr$domain=rusradio.ru
 @@||facebook.com^$generichide
 @@||facebook.com^$generichide,badfilter
+@@||faculty.uml.edu^$image,stylesheet
 @@||fakt.pl/*&srcc=ucs$removeparam
 @@||fakt.pl/*?utm_source=$removeparam
 @@||familyhandyman.com$generichide
@@ -2462,7 +2466,6 @@
 @@||g.doubleclick.net/gampad/ads?env=$xmlhttprequest,domain=wunderground.com
 @@||g.doubleclick.net/gampad/adx?$xmlhttprequest,domain=v.ifeng.com
 @@||g.doubleclick.net/gampad/adx?*/sparta/*&t=ad_type%3Dtoolbar%26$document,subdocument,domain=wetter.com,badfilter
-@@||g.doubleclick.net/gampad/live/ads?*tver.$xmlhttprequest,domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=koigaku.machicon.jp
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=ukr.net
 @@||g.doubleclick.net/pagead/ads$subdocument,domain=sudokugame.org
@@ -3656,6 +3659,7 @@
 @@||i.doodcdn.co/ads/ad.js
 @@||i.doodcdn.co/ads/pop.js
 @@||i.isnssdk.com^$app=com.ss.android.article.topbuzzvideo
+@@||i.kinja-img.com^$stealth
 @@||i.onthe.io^$script,image,stylesheet,domain=nur.kz
 @@||i.pximg.net/*/img/$stealth,domain=pixiv.net
 @@||i.snssdk.com/log/sentry/$domain=lv.ulikecam.com
@@ -3798,6 +3802,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=knoxnews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kraloyun.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=laleggepertutti.it
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=lenta.ru
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=liderform.com.tr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=liner.hu
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=linetv.tw
@@ -4429,7 +4434,6 @@
 @@||manhua.weibo.com/adv/
 @@||manisteenews.com/sites/jquery.adx.js
 @@||manoramamax.com/videojs/videojs-contrib-ads.min.js$domain=manoramamax.com
-@@||mapandroute.de/MapAPI-$stealth=referrer,domain=dastelefonbuch.de
 @@||mapquest.com^$generichide
 @@||mapquestapi.com/logger/$domain=hertz.com
 @@||maps.2gis.com^$stealth
@@ -4505,6 +4509,7 @@
 @@||media.jd.com/static/*/ad
 @@||media.kaspersky.com/tracking/omniture/s_code_single_suite.js
 @@||media.kijiji.ca/api/$image,~third-party
+@@||media.nbb-cdn.de/images^$stealth
 @@||media.oadts.com/www/delivery/afv.php$domain=games.gamesplaza.com
 @@||media.org.hk^*/ads_
 @@||media.richrelevance.com/rrserver/$domain=askul.co.jp
@@ -5383,6 +5388,7 @@
 @@||raw.githubusercontent.com/wmcmurray/just-detect-adblock/master/baits
 @@||raw.githubusercontent.com^$domain=viewscreen.githubusercontent.com
 @@||rawstory.com/decor/javascript/magnify_stats.js
+@@||rcb-gis.maps.arcgis.com/apps/instant/minimalist/*/AppMeasurement.js$script,~third-party
 @@||rctech.net/forum/clientscript/vbulletin_analytics.js$domain=rctech.net
 @@||rd.ias.global.rakuten.com/adv/$domain=24.rakuten.co.jp
 @@||rddywd.com/adcode.png$domain=populistpress.com|canadafreepress.com|thelibertydaily.com|writerscafe.org|populist.press|welovetrump.com|grammarist.com|protrumpnews.com|concomber.com|videogamesblogger.com|gamersheroes.com|letocard.fr|100percentfedup.com|thepalmierireport.com|kresy.pl|beforeitsnews.com|thepatriotjournal.com|phoenixnewtimes.com|thepoke.co.uk|comicallyincorrect.com|thegatewaypundit.com
@@ -5600,6 +5606,7 @@
 @@||scyts.com^$generichide
 @@||sdc.pingan.com^$~image
 @@||sdk.mrf.io/statics/marfeel-sdk.js$domain=mundodeportivo.com
+@@||sdltutorials.com/Data/Ads/AppStateBanner.jpg$~third-party
 @@||sdn-global-audio-adswizz-cache.3qsdn.com/*/files/$other,media,domain=noz.de
 @@||se.monetate.net/js/*/custom.js$domain=debenhams.com
 @@||se.monetate.net/js/*/entry.js$domain=debenhams.com
@@ -5889,7 +5896,6 @@
 @@||spiegel.de^$generichide
 @@||spiele.rtl.de/landingpage/index/$document
 @@||spieletipps.de/js/smb-tracking.js
-@@||spike.itv.com/itv/lserver/tserver/random=$xmlhttprequest
 @@||spoc.sydtrafik.dk/CherwellPortal/dist/app/common/analytics/Analytics.js$~third-party
 @@||spolecznosci.net/core/*/main.js$domain=shinden.pl
 @@||spolecznosci.net/js/modules/*.js$domain=shinden.pl
@@ -6629,6 +6635,7 @@
 @@||visilabs.net/*/Visilabs.min.js$domain=paribucineverse.com
 @@||viu.com^*/tracking/
 @@||viu.tv^$generichide
+@@||vivo.bg/gpt.js
 @@||vivo.sx^$generichide
 @@||vivocha.com/a/kartell/api/vivocha.js$domain=kartell.com
 @@||vivocha.com^*/vivocha.js?$script,domain=kartell.com
