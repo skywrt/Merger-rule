@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-08-29 20:38:51（北京时间） 
-! Total count: 6948
+! Version: 2024-08-30 09:36:34（北京时间） 
+! Total count: 6944
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -655,7 +655,6 @@
 @@||aj1907.online^$domain=turkakisi.tv
 @@||aj2178.online/*?cp.host=$domain=turkturk.org|turkturk.net
 @@||ajax.cloudflare.com/cdn-cgi/scripts/*/cloudflare-static/mirage*.js$domain=rule34.xxx
-@@||ajax.cloudflare.com/cdn-cgi/scripts/*/cloudflare-static/mirage2.min.js$domain=mangafreak.net
 @@||ajax.googleapis.com/ajax/libs/jquery/
 @@||ajax.googleapis.com^$script,domain=imgbox.com
 @@||ajio.com/static/assets/vendors~static/chunk/common/libraries/fingerprintjs2.$script,~third-party
@@ -910,6 +909,7 @@
 @@||api.poki.com/ads/houseads/$domain=ninja.io
 @@||api.prod.bunnings.com.au^$stealth
 @@||api.production.k8s.y3o.tv/*/video-ads/$domain=yallo.tv
+@@||api.rmr.rocks^$stealth=3p-auth
 @@||api.solvemedia.com/papi/
 @@||api.solvemedia.com^$stealth
 @@||api.spendino.de/admanager^
@@ -3655,7 +3655,6 @@
 @@||i*-tb.isnssdk.com^$app=com.ss.android.article.topbuzzvideo
 @@||i*.gmx.com/image
 @@||i*.imagetwist.com^$image,domain=imagetwist.com
-@@||i*.mangapanda.com^$image
 @@||i.cdn.turner.com/ads/adfuel/ais/*/tbs-ais.min.js$domain=tbs.com
 @@||i.cdn.turner.com/ads/adfuel/ais/tcm-ais.js$domain=tcm.com
 @@||i.doodcdn.co/ads/ad.js
@@ -4218,7 +4217,6 @@
 @@||kilimall.co.tz/sensorsdata.min.js$~third-party
 @@||kilimall.com*/js/sensorsdata.min.js$script,domain=kilimall.co.ke
 @@||kimcartoon.li^$subdocument,~third-party
-@@||kimcartoon.me/ads/fbMob.aspx
 @@||kinescope.io/embed/$stealth
 @@||kiplinger.112.2o7.net^
 @@||kisscartoon.se^$subdocument,~third-party
@@ -6054,6 +6052,7 @@
 @@||static.shorte.st/bundles/smeweb/$domain=sh.st
 @@||static.telegraph.co.uk/telegraph-advertising/tmg-gpt.min.js$domain=telegraph.co.uk
 @@||static.trbo.com/img/$domain=o2online.de
+@@||static.truex.com/js/client.js$domain=schoolcheats.net
 @@||static.vocstatic.com/voonto2/latest/voonto.js$domain=secure.abc.es
 @@||static.vocstatic.com^$script,domain=areapersonal.hoy.es
 @@||static.vocstatic.com^$script,stylesheet,domain=ideal.es
@@ -6679,9 +6678,6 @@
 @@||wargag.ru/public/js/counter.js?
 @@||wargaming.net^$stealth
 @@||watch.globaltv.com^$generichide
-@@||watchcartoononline.io/back.jpg
-@@||watchcartoononline.io/search|$popup
-@@||watchcartoononline.io/thumbs/
 @@||watchdirty.to/player/stats.php
 @@||wavse.com^$generichide
 @@||wazimo.com/engine/common/widgets/content/$domain=lastnighton.com
