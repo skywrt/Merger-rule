@@ -2,7 +2,7 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-09-04 20:40:12（北京时间） 
+! Version: 2024-09-05 09:36:57（北京时间） 
 ! Total count: 6923
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -1735,7 +1735,6 @@
 @@||cloudflare.com/*/fingerprint2.min.js$domain=saavn.com
 @@||cloudflare.com/ajax/libs/fingerprintjs2/$domain=extracttable.com|fckrasnodar.ru|login.kroton.com.br
 @@||cloudflare.com/ajax/libs/fingerprintjs2/$script,domain=gamebox.gesoten.com
-@@||cloudflare.com/ajax/libs/fingerprintjs2/*/fingerprint2.min.js$domain=nfmovies.com
 @@||cloudflare.com/ajax/libs/fuckadblock/$domain=seselah.com
 @@||cloudflare.com/analytics?$domain=cloudflare.com
 @@||cloudflare.com/cdn-cgi/trace$domain=infyspringboard.onwingspan.com|injora.com|myair.resmed.com
@@ -1769,7 +1768,7 @@
 @@||cmp.inmobi.com/GVL-v2/$domain=express.co.uk
 @@||cmp.inmobi.com/choice/*/choice.js$domain=express.co.uk
 @@||cmp.inmobi.com/tcfv2/*.js$domain=express.co.uk
-@@||cmp.inmobi.com^$domain=hideout.co|fly4free.pl|travlerz.com|protothema.gr
+@@||cmp.inmobi.com^$domain=hideout.co|fly4free.pl|travlerz.com|protothema.gr|cyprus-mail.com
 @@||cmp.sky.it/wrapperMessagingWithoutDetection.js$domain=tv8.it
 @@||cmp.telerama.fr/js/telerama.min.js$~third-party
 @@||cnbeta.com.tw^$generichide
@@ -1925,6 +1924,7 @@
 @@||crowdscience.com/max-$script,domain=everydayhealth.com
 @@||crowdscience.com/start-$script,domain=everydayhealth.com
 @@||cruisecenter.com.tw/data/ad/
+@@||cruisingearth.com/community/js/BJumh/top-ads.js
 @@||crunchyrollsvc.com^$stealth=3p-auth
 @@||crwdcntrl.net/*callback=setPIDForPlayer$domain=static.rtl.nl
 @@||cryptowin.io^$generichide
@@ -4271,6 +4271,7 @@
 @@||leechall.download^$generichide
 @@||lefile.cn/??*,
 @@||legendstracking.com/js/legends-tracking.js$~third-party
+@@||leisurefire.github.io$elemhide,jsinject
 @@||lemall.com/adspace/
 @@||lenovo.com/_ui/desktop/common/js/AdobeAnalyticsEvent.js$script,~third-party
 @@||lenovo.com/fea/js/adobeAnalytics/$script,~third-party,xmlhttprequest
@@ -4773,7 +4774,6 @@
 @@||next.co.uk/static-content/gtm-sdk/gtm.js$~third-party
 @@||nextbigfuture.s3.amazonaws.com/uploads$stealth
 @@||nextcloud.com/remote.php/$~third-party,xmlhttprequest
-@@||nfmovies.com/static/side.jpg$xmlhttprequest,domain=nfmovies.com
 @@||ngastatic.com/*/tracker.js$domain=ads.allegro.pl
 @@||nhkondemand.sc.omtrdc.net^$domain=nhk-ondemand.jp
 @@||nike.com/assets/measure/data-capture/analytics-client.min.js$script,~third-party
