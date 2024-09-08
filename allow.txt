@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-09-08 09:43:08（北京时间） 
-! Total count: 6894
+! Version: 2024-09-08 20:36:37（北京时间） 
+! Total count: 6893
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -317,7 +317,6 @@
 @@||1plus1.video/tvguide/embed/*?autoplay=$stealth
 @@||1plus1.video/video/embed/$stealth,~script,~xmlhttprequest,~other
 @@||1trackapp.com/static/tracking/$script,stylesheet,~third-party
-@@||1trackapp.com^$stealth,xmlhttprequest,domain=1track.ru
 @@||2018x.bid/adview.js
 @@||210.40.130.91^*/ad.css?$stylesheet
 @@||230book.com/images/bqg.js$domain=230book.net
@@ -3547,7 +3546,6 @@
 @@||hdslb.com^$stealth,domain=bilibili.com
 @@||hdvid.tv/js/jquery.cookie.js
 @@||hdvid.tv/js/jquery.min.js
-@@||hdvid.tv/player*/jwplayer.html5.js
 @@||hdvid.tv/player*/jwplayer.js
 @@||hdvid.tv/player*/lightsout.js
 @@||hdzog.com/assets/$domain=m.hdzog.com
@@ -3973,6 +3971,7 @@
 @@||imgadult.com/upload/$domain=imgadult.com
 @@||imgdrive.net/anex/alt2.js
 @@||imgtaxi.com/img-*.html
+@@||imgtn.bdimg.com^$stealth
 @@||imgur.com/min/px.js$~third-party
 @@||imgwallet.com/advertisement.js
 @@||imobiliare.ro/js/gtm.js$script,~third-party
@@ -4490,6 +4489,7 @@
 @@||media.org.hk^*/ads_
 @@||media.richrelevance.com/rrserver/$domain=askul.co.jp
 @@||media.sailthru.com^$image,domain=link.ted.com
+@@||media.salemwebnetwork.com/adverts/advertisement.js$domain=biblestudytools.com
 @@||media.sosh.fr/includes/wtbase.js
 @@||media.sosh.fr/includes/wtinit.js
 @@||media.studybreakmedia.com/doubleclick/ads2.js
@@ -4609,7 +4609,6 @@
 @@||mobinovels.com^$generichide
 @@||moea.gov.tw/EgisWeb/Scripts/google-analytics.js
 @@||moegirl.org.cn^$generichide
-@@||moeni.net^$stealth=webrtc
 @@||mojedatovaschranka.cz^$stealth=dpi
 @@||momovod.com/js/momo/adsbygoogle.js
 @@||monetate.net/img/$domain=consumerreports.org
