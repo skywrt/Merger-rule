@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-09-09 20:40:25（北京时间） 
-! Total count: 6887
+! Version: 2024-09-10 09:38:23（北京时间） 
+! Total count: 6895
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@&ad_type=$domain=ultimate-guitar.com
@@ -128,6 +128,7 @@
 @@/dh-anti-adblocker/public/js/adex.js
 @@/dh-anti-adblocker/public/js/prebid-ads.js
 @@/dh-new-anti-adblocker-lite/public/js/prebid-ads.js
+@@/embed/*$stealth=referrer,subdocument,domain=dizifilmgo.com
 @@/embed/comments^$removeparam,~third-party,domain=clickhole.com|lifehacker.com|splinternews.com|avclub.com|deadspin.com|gizmodo.com|jalopnik.com|jezebel.com|kotaku.com|qz.com|theinventory.com|theonion.com|theroot.com|thetakeout.com
 @@/fingerprint.$domain=abchina.com
 @@/fingerprint2.js$domain=fangcloud.com|fx678.com|gxpf.cn|hnair.com|pop-fashion.com
@@ -1302,6 +1303,7 @@
 @@||cd.connatix.com/connatix.playspace.js$domain=inc.com
 @@||cd.connatix.com/connatix.playspace.js$domain=loot.tv
 @@||cdc.gov/jscript/metrics/adobe/launch/$script,~third-party
+@@||cdn*.*.pw/*p_*.jpg$stealth=referrer,domain=vidload.lol
 @@||cdn*.anicdn.net/appsd*.mp4$stealth=referrer
 @@||cdn*.anyclip.com^$domain=content.dictionary.com
 @@||cdn*.jianshu.io^$stealth
@@ -3799,6 +3801,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=news.tvb.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=news4jax.com|gmg-wjxt-prod.cdn.arcpublishing.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nova.cz
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nowplayer.now.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nowtv.com.tr
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=noz.de
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nrl.com
@@ -4206,6 +4209,7 @@
 @@||kotaku.com/embed/comments$removeparam
 @@||kotaku.com/x-kinja-static/assets/new-client/adManager.$~third-party
 @@||kotaku.com/x-kinja-static/assets/new-client/adManager~video-html5-playlist~videoHtml5.*.js$domain=kotaku.com
+@@||koura-cdn.live/watch$stealth=referrer
 @@||koyi.pub/wp-content/plugins/fuzqing-ad-plus/assets/js/*.js
 @@||kozkutak.hu/getdata.php?v*=pageview$~third-party
 @@||kqzyfj.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
@@ -4356,6 +4360,7 @@
 @@||lookcam.com/fuckadblock.js
 @@||looker.com/api/internal/$~third-party
 @@||lootup.me/assets/js/ads-prebid.js
+@@||lordserials.cx^$stealth=3p-cookie
 @@||lotto-bw.de^$jsinject
 @@||lp.longtailvideo.com/5/yourlytics/yourlytics-1.js$domain=indiedb.com|indieroyale.com|moddb.com
 @@||lp.sophos.com/email-preferences-
@@ -6038,6 +6043,7 @@
 @@||storage.googleapis.com/adtags/kicker/QMAX_kicker.de.js$domain=kicker.de
 @@||storage.googleapis.com/aisw-assets/fanpage/adblock/advert*_.json$domain=staige.tv
 @@||storage.googleapis.com/prebid/qm_prebid.js$domain=kicker.de
+@@||storage.googleapis.com/prebid/qm_prebid8.js$domain=kicker.de
 @@||storage.yandex.net/rdisk/$stealth
 @@||store-web.dynamics.com^$stealth
 @@||store.mktpl.minecraft-services.net/api/$stealth
@@ -6561,6 +6567,7 @@
 @@||videotron.com/sites/default/files/google_tag/google_tag/primary/google_tag.script.js$domain=videotron.com
 @@||vidible.tv^*/ComScore.StreamSense.js
 @@||vidible.tv^*/ComScore.Viewability.js
+@@||vidload.lol/iframe/$stealth=referrer
 @@||vidmoly.to/embed-$stealth
 @@||vidoza.net/embed-*.html$subdocument
 @@||vidoza.net/js/pop.js
@@ -6601,6 +6608,7 @@
 @@||vsh.visilabs.net/Visilabs.js^$domain=boyner.com.tr
 @@||vsh.visilabs.net/Visilabs.js^$domain=kapsamaharitasi.turktelekom.com.tr
 @@||vsh.visilabs.net/Visilabs.min.js$domain=paribucineverse.com
+@@||vsys.hes-goals.io/frame.php$stealth=referrer,subdocument
 @@||vulture.com/decor/javascript/magnify_stats.js
 @@||vvic.com/monetize/ads/index/
 @@||w3spy.org/etc/geo.php?
