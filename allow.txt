@@ -2,7 +2,7 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-10-01 20:43:08（北京时间） 
+! Version: 2024-10-02 09:41:49（北京时间） 
 ! Total count: 6575
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -2838,6 +2838,7 @@
 @@||googleoptimize.com/optimize.js$domain=inquirer.com
 @@||googleoptimize.com/optimize.js$domain=lcwaikiki.com
 @@||googleoptimize.com/optimize.js$domain=leukerecepten.nl
+@@||googleoptimize.com/optimize.js$domain=lodgecastiron.com
 @@||googleoptimize.com/optimize.js$domain=mirrormedia.mg
 @@||googleoptimize.com/optimize.js$domain=revv.co.in
 @@||googleoptimize.com/optimize.js$domain=tehnomanija.rs
@@ -3241,7 +3242,6 @@
 @@||googletagmanager.com/gtm.js$domain=wowma.jp
 @@||googletagmanager.com/gtm.js$domain=wpb.shueisha.co.jp
 @@||googletagmanager.com/gtm.js$domain=wutangclan.net
-@@||googletagmanager.com/gtm.js$domain=www.nicovideo.jp
 @@||googletagmanager.com/gtm.js$domain=www3.nissan.co.jp
 @@||googletagmanager.com/gtm.js$domain=x-kom.pl|al.to
 @@||googletagmanager.com/gtm.js$domain=xn--80adinvscgek9d.xn--p1ai
@@ -5647,7 +5647,7 @@
 @@||st.pussyspace.net/style/03/img/speed-dials.png|
 @@||st.pussyspace.net/style/03/img/x-sprite.png|
 @@||st.pussyspace.net/style/10/img/logo.png|
-@@||st.top100.ru/top100/top100.js$domain=rambler.ru|m.gazeta.ru
+@@||st.top100.ru/top100/top100.js$domain=rambler.ru|m.gazeta.ru|motor.ru
 @@||st.tubecup.org/releted_hdzog/json.php?page=$domain=m.hdzog.com
 @@||st.wetteronline.de/dr/*/css/p_*.css
 @@||stackblitz.com^$generichide
