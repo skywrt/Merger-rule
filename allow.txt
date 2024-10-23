@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-10-22 20:42:02（北京时间） 
-! Total count: 7078
+! Version: 2024-10-23 09:42:08（北京时间） 
+! Total count: 7077
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
@@ -636,6 +636,7 @@
 @@||ads.viralize.tv^|$domain=automoto.it|moto.it
 @@||ads.vk.com^$popup
 @@||ads2.filescreed.buzz^$xmlhttprequest,domain=techcyan.com
+@@||ads3.xumo.com^$domain=2vnews.com
 @@||adsafeprotected.com/iasPET.$script,domain=independent.co.uk|reuters.com|wjs.com
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=gamingbible.co.uk|ladbible.com|reuters.com|wjs.com
 @@||adsales.snidigital.com/*/ads-config.min.js$script
@@ -1120,7 +1121,6 @@
 @@||banma.com/statics/js/??
 @@||banner-hiroba.com/wp-content/uploads/$image,~third-party
 @@||banner.infoey.com/adbanner.png$domain=phineypet.com
-@@||banner.yt^$image,domain=socialblade.com
 @@||banners.s1.citilink.ru^$image,domain=citilink.ru
 @@||barax.de/cache/images/logo-*x*-
 @@||barclays.touchclarity.com^$domain=barclaycard.co.uk
@@ -5323,7 +5323,6 @@
 @@||popeater.com/traffic/?$script,domain=popeater.com
 @@||popin.cc/popin_discovery/recommend?$~third-party
 @@||porn.com^$generichide
-@@||pornbraze.com^$generichide
 @@||pornhub.*/*?*&ajax=$xmlhttprequest
 @@||pornhub.*/*?ajax=*&$xmlhttprequest
 @@||pornhub.*/signup
