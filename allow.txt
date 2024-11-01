@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2024-11-01 09:50:31（北京时间） 
-! Total count: 7194
+! Version: 2024-11-01 20:40:20（北京时间） 
+! Total count: 7190
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
@@ -590,7 +590,6 @@
 @@||adocean.pl/ad.xml$domain=imasdk.googleapis.com,badfilter
 @@||adoi.cn^$generichide
 @@||adpop.me^$domain=adpop.me
-@@||adroll.com/edaa^$domain=youronlinechoices.com
 @@||ads-api.twitter.com/*/accounts/$domain=analytics.twitter.com
 @@||ads-api.twitter.com^$domain=ads.twitter.com|analytics.twitter.com
 @@||ads-interfaces.sc-cdn.net^$domain=ads.snapchat.com
@@ -827,7 +826,6 @@
 @@||answers.microsoft.com/*/completesignin
 @@||answers.microsoft.com/*/site/startsignin
 @@||anthem.com/includes/foresee/foresee-trigger.js
-@@||anti-virus4u.com/v/
 @@||anyhentai.com/*.mp4$stealth=referrer
 @@||anyknew.com^$generichide
 @@||anymind360.com/js/*/ats.js$domain=automaton-media.com
@@ -2145,6 +2143,7 @@
 @@||dijilopedi.com/wp-content/uploads/$image,~third-party
 @@||directline.botframework.com^$stealth
 @@||directline.com/touchclarity/$script
+@@||disco-api.com^$stealth
 @@||discord.com^$generichide
 @@||discordapp.com/banners/$image
 @@||discoveryplus.in/*/ads/banner_ad.js
@@ -2195,8 +2194,6 @@
 @@||docs.google.com/*/viewdata$~third-party
 @@||docs.google.com^$generichide
 @@||docs.telemetry.mozilla.org^$domain=docs.telemetry.mozilla.org
-@@||doda.jp/brand/ad/img/icon_play.png
-@@||doda.jp/cmn_web/img/brand/ad/ad_text_
 @@||dodo.ac/np/images/$image,domain=nookipedia.com
 @@||dogus-ads-cdn.dygdigital.com/daion/daion-videojs-hlsjs-*.min.js
 @@||dogus-ads-cdn.dygdigital.com/live-broadcast-player/v1/bundle.js$domain=startv.com.tr
@@ -2233,6 +2230,7 @@
 @@||dpm.zebestof.com/*/tag.js$domain=commentcamarche.net
 @@||dqzsteel.com/Website/Image/guanggao/
 @@||dragontea.ink^$generichide
+@@||dreamdth.com/*/ads.js
 @@||dreamdth.com/community/js/*.js
 @@||drive.google.com^$generichide
 @@||drivemoe.com/-ads-banner.js
@@ -3995,7 +3993,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wsls.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=xxxdan.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=yad.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=yepi.com|veedi.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ynet.co.il
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=zee5.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=zeebiz.com
@@ -4022,7 +4019,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=cbssports.com
 @@||imasdk.googleapis.com/js/sdkloader/loader.js$domain=einthusan.ca|einthusan.tv|einthusan.com
 @@||imasdk.googleapis.com/js/sdkloader/outstream.js$domain=wanted5games.com
-@@||imasdk.googleapis.com/js/sdkloader/vpaid_adapter.js$domain=vod.tvp.pl
 @@||imasdk.googleapis.com/native/core*/native_bridge__*.js$domain=2mdn.net
 @@||imasdk.googleapis.com/native/core/$app=com.dailymail.online
 @@||imasdk.googleapis.com/native/core/*/native_bridge_$app=com.goldtouch.ynet
@@ -5021,6 +5017,7 @@
 @@||offgamers.com/checkout/buyNow/$document,xmlhttprequest
 @@||officeapps.live.com/*.aspx$stealth
 @@||officeworks.com.au^*/site-tracker.js
+@@||oglaszamy24.pl/*js-css/reklamy/bannery/*/adv.js
 @@||ohmanhua.com/js/*.js
 @@||oiihk.com^$generichide
 @@||oisd.nl^$generichide
@@ -5560,6 +5557,7 @@
 @@||raenonx.cc^$generichide
 @@||raiffeisen.at^*/Logger.js
 @@||rakuten-bank.co.jp/rb/ams/img/ad/$~third-party
+@@||ramnode.com/images/
 @@||randomhouse.com/book/css/certona.css
 @@||rapidgrab.pl^$generichide
 @@||rapidrar.com/js/fuckadblock.js
@@ -5597,7 +5595,6 @@
 @@||recs.richrelevance.com/rrserver/p13n_generated.js$domain=bergfreunde.de
 @@||recs.richrelevance.com/rrserver/p13n_generated.js$domain=drogaraia.com.br
 @@||redactor.creatium.io^$document
-@@||redbox.com/images/ads/pixel.png
 @@||redbull.com/gtm.js$~third-party
 @@||reddit.com^$generichide
 @@||reddit.com^$generichide,badfilter
@@ -5826,6 +5823,7 @@
 @@||securepubads.g.doubleclick.net/gampad/ads$domain=softonic.com
 @@||securepubads.g.doubleclick.net/gampad/ads$domain=wtf.nl
 @@||securepubads.g.doubleclick.net/gampad/ads?$domain=bloomberg.com
+@@||securepubads.g.doubleclick.net/gampad/ads?$domain=purepeople.com
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1$domain=15min.lt
 @@||securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1$domain=thedailybeast.com
 @@||securepubads.g.doubleclick.net/gampad/ads?pvsid=$domain=portmiamiwebcam.com
@@ -6086,7 +6084,6 @@
 @@||spanishdict.com^$generichide
 @@||spark.co.nz/content/*/utag.sync.js$domain=skinny.co.nz
 @@||speedcurve.com/js/lux.js$script,domain=tv8.it
-@@||speedtest.net/api/api.php
 @@||speedtest.net/api/js/user-settings|$xmlhttprequest
 @@||speedtest.net/javascript/ads.js
 @@||speedtestcustom.com^$subdocument,stealth
@@ -6105,7 +6102,6 @@
 @@||sportnews.to/*?ref=$stealth=referrer,domain=sportshub.to
 @@||sportnews.to^$generichide
 @@||sportsgrid.com/decor/javascript/magnify_stats.js
-@@||sportshub.to/frames$subdocument,stealth=referrer
 @@||spot.im/api/tracker/spot/$domain=russian.rt.com
 @@||spxl.socy.es^$script,xmlhttprequest,domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
 @@||sravni-labs.ru^$stealth=dpi
@@ -6117,6 +6113,7 @@
 @@||src.litix.io/videojs/*/videojs-mux.js$domain=nasa.gov
 @@||srv.clickfuse.com/showads/showad.js$domain=aha-music.com
 @@||srv.tunefindforfans.com/showads/track/srvclk.php?
+@@||ss.phncdn.com^$script,domain=redtube.com|redtube.net
 @@||ssl-images-amazon.com^*/satelliteLib-$script,domain=audible.com
 @@||ssl.geoplugin.net/javascript.gp$domain=forfun.ist
 @@||ssl.geoplugin.net/javascript.gp$domain=imalentstore.com
@@ -6580,7 +6577,6 @@
 @@||torrindex.net/images/*.gif$domain=thepiratebay.org
 @@||torrindex.net/images/*.jpg$domain=thepiratebay.org
 @@||torrindex.net^$script,stylesheet,domain=thepiratebay.org
-@@||tortuga.wtf^$stealth=referrer
 @@||totheglory.im/pic/ttg_logo
 @@||townwork.net/js/AppMeasurement.js$~third-party
 @@||toy-people.com^$generichide
@@ -6795,6 +6791,7 @@
 @@||v.fwmrm.net/ad/g/*Nelonen$script
 @@||v.fwmrm.net/ad/g/1$domain=tv3sport.dk,important
 @@||v.fwmrm.net/ad/g/1?$domain=channel4.com
+@@||v.fwmrm.net/ad/g/1?$domain=funimation.com
 @@||v.fwmrm.net/ad/g/1?$domain=play.tv3.lt
 @@||v.fwmrm.net/ad/g/1?$domain=ruutu.fi
 @@||v.fwmrm.net/ad/g/1?*mtv_desktop$xmlhttprequest
@@ -6860,7 +6857,6 @@
 @@||vipstatic.com/img/share/blank.png
 @@||viptools.es/assets/ads.js
 @@||virpe.cc/includes/js/adver.js
-@@||virtualearth.net^$stealth,domain=bing.com
 @@||virtualearth.net^*/LoggingService.svc/Log?$script,domain=bing.com
 @@||visa.com^*/vendor/unica.js
 @@||visiblemeasures.com/crossdomain.xml$domain=espn.go.com|live.indiatimes.com
