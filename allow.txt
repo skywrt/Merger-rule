@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-01-05 20:39:04（北京时间） 
-! Total count: 7201
+! Version: 2025-01-06 09:47:13（北京时间） 
+! Total count: 7202
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
@@ -4056,6 +4056,7 @@
 @@||imasdk.googleapis.com^$app=com.banglalink.toffee
 @@||imasdk.googleapis.com^$app=com.cbs.app
 @@||imasdk.googleapis.com^$app=com.dubox.drive
+@@||imasdk.googleapis.com^$app=com.espn.score_center
 @@||imasdk.googleapis.com^$app=com.foxnews.android
 @@||imasdk.googleapis.com^$app=com.graymatrix.did
 @@||imasdk.googleapis.com^$app=com.july.cricinfo
