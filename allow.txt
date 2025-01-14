@@ -2,7 +2,7 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-01-13 20:44:31（北京时间） 
+! Version: 2025-01-14 09:38:34（北京时间） 
 ! Total count: 7188
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -240,6 +240,7 @@
 @@://10.1.1.$generichide
 @@://127.0.0.1$generichide
 @@://192.168.$generichide
+@@://analytics.google.com/analytics/$domain=analytics.google.com
 @@://googleadservices.com^|
 @@://localhost/$generichide
 @@://localhost:$generichide
@@ -3032,7 +3033,6 @@
 @@||google.com/adsense/domains/caf.js$domain=wotaku.moe
 @@||google.com/adsense/search/ads.js$domain=news.biglobe.ne.jp
 @@||google.com/afs/ads?q=*adsafe$domain=wanted.de
-@@||google.com/analytics/web/$document
 @@||google.com/cse/cse.js$domain=m.hdzog.com
 @@||google.com/images/integrations/$image,~third-party
 @@||google.com/js/gweb/analytics/$domain=google.com
