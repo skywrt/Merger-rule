@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-01-19 09:46:11（北京时间） 
-! Total count: 7224
+! Version: 2025-01-19 20:36:41（北京时间） 
+! Total count: 7231
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=vidoza.co|vidoza.net
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
@@ -442,6 +442,7 @@
 @@||accaii.com^$domain=kyuusai2nd.net
 @@||account.adobe.com/newrelic.js$~third-party
 @@||account.mail.ru^$stealth
+@@||account.mcid.mynavi.jp^$stealth=referrer
 @@||account.microsoft.com/auth/$stealth
 @@||accounts.google.com/gsi/$stealth
 @@||accounts.google.com^$generichide
@@ -465,6 +466,7 @@
 @@||acs.m.taobao.com^
 @@||actiris.be/urchin.js
 @@||ad-cdn.bilgin.pro/app/ad-*.min.js$domain=medyafaresi.com
+@@||ad-delivery.net/px.gif?$domain=explorecams.com
 @@||ad-emea.doubleclick.net/clk
 @@||ad-ipd.sxp.smartclip.net/select$domain=tele5.de
 @@||ad-ipd.sxp.smartclip.net/select^$domain=n-tv.de
@@ -663,7 +665,6 @@
 @@||affyun.com^$generichide
 @@||afisha.ru/proxy/videonetworkproxy.ashx?$xmlhttprequest
 @@||aflac.com/js/wt_capi.js
-@@||ag.sytes.net/admgr.js$domain=infinityscans.xyz|infinityscans.net|infinityscans.org
 @@||ah-me.com^$generichide
 @@||ahcdn.com/key=$stealth
 @@||ahcdn.com^$media
@@ -810,6 +811,7 @@
 @@||animego.org^$stealth=ip
 @@||anisearch.*^$generichide
 @@||anitube.vip/playerricas.php$stealth=referrer
+@@||aniview.com/api/adserver/spt?$domain=sportbible.com
 @@||annhe.net^$generichide
 @@||annuaire.118000.fr/js/xtcore.js
 @@||anonymousemail.me/*.js$~third-party
@@ -938,6 +940,7 @@
 @@||api.mapbox.com/*?secure&access_token=$stealth
 @@||api.mapbox.com/geocoding/$stealth
 @@||api.mapbox.com^$stealth,domain=gpx.studio
+@@||api.mapbox.com^$stealth,domain=tunein.com
 @@||api.mi-img.com^$stealth=referrer
 @@||api.mindbox.ru/scripts/v1/tracker.js$domain=xcom-shop.ru
 @@||api.mixpanel.com/engage/?data=$xmlhttprequest,domain=deezer.com
@@ -1997,7 +2000,6 @@
 @@||crackle.com/vendor/adex.js
 @@||crazygames.com/prebid.js$script,~third-party
 @@||crazygames.com^$content
-@@||crbmpurga.ru/files/files/ads/$image
 @@||creaders.net^$generichide
 @@||create.jd.com/ad/
 @@||creditas.cz/cb/public/assets/SmartTag-$script,~third-party
@@ -2160,7 +2162,6 @@
 @@||dijilopedi.com/wp-content/uploads/$image,~third-party
 @@||directline.botframework.com^$stealth
 @@||directline.com/touchclarity/$script
-@@||directly.com/chat?cfgId=$stealth
 @@||discord.com^$generichide
 @@||discordapp.com/banners/$image
 @@||discoveryplus.in/*/ads/banner_ad.js
@@ -2434,6 +2435,7 @@
 @@||facebook.com/*/dialog/oauth$stealth
 @@||facebook.com/ads/profile/$~third-party,xmlhttprequest
 @@||facebook.com/adsmanager^
+@@||facebook.com/bluebar/modern_settings_menu^$stealth
 @@||facebook.com/connect/xd_arbiter.php$jsinject,elemhide
 @@||facebook.com/dialog/oauth$document
 @@||facebook.com/login.php$stealth
@@ -4037,6 +4039,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vidyome.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vizita.si
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=voicetv.co.th
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vvvvid.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wetteronline.de
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wetv.vip
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wuxiaworld.com
@@ -4600,6 +4603,7 @@
 @@||m.dcinside.com/movie/$stealth,app=com.dcinside.app.android|com.dcinside.app
 @@||m.dcinside.com^$stealth=dpi
 @@||m.ddyueshu.cc/*common
+@@||m.haberler.com/static/advertisement/ads_ima.js$domain=m.haberler.com
 @@||m.haberturk.com/adscbg/mdet.js
 @@||m.media-amazon.com/images/*$domain=amazon.*,stealth
 @@||m.muensterschezeitung.de/var/storage/images^
@@ -4805,6 +4809,7 @@
 @@||minyu-net.com/parts/ad/banner/$image,~third-party
 @@||mistore.jp/content/dam/isetan_mitsukoshi/advertise/$~third-party
 @@||mitsubishiclub.cz^$generichide
+@@||miuiflash.com^$generichide
 @@||mixdrop.ps/e/$subdocument,stealth=referrer
 @@||mixpanel.com/site_media/js/api/mixpanel.js$domain=blog.cloudflare.com
 @@||mixpanel.com/track/?data=$xmlhttprequest,domain=change.org|kickstarter.com|thefrisky.com
@@ -4852,6 +4857,7 @@
 @@||moneysave.info^$generichide
 @@||mongoosemetrics.com/jsfiles/js-correlation/mm-rules.min.js$domain=subaru.com
 @@||monnsutogatya.com^$elemhide
+@@||monova.*/fonts/
 @@||mooc-image.nosdn.127.net^$stealth
 @@||mootoon.co.kr^$removeparam=cuid
 @@||mopar.com/moparsvc/mopar-analytics-state$~third-party
@@ -5119,6 +5125,7 @@
 @@||online.mps-gba.de/praeludium/$script,domain=auto-motor-und-sport.de|caravaning.de|motorradonline.de
 @@||online.rshb.ru/rshb-mbfl/lib/snowplow/
 @@||online.rshb.ru/rshb-mbfl/plugins/
+@@||online.tivo.com^$elemhide,jsinject
 @@||online.unionpay.com/ads/$script
 @@||onlinebanking.usbank.com/TUX/public/libs/adobe/appmeasurement.js$script,~third-party
 @@||onlinemschool.com/script/ads.js
@@ -5150,7 +5157,6 @@
 @@||orange.fr/medias/toolkit/js/Wtinit.js
 @@||orientaldaily.on.cc/js/oncc-ad.js
 @@||oriflame.ru^$cookie=SC_ANALYTICS_GLOBAL_COOKIE
-@@||origin-ads.exosrv.com/ad99uip8i.php
 @@||oss.dns.aliyun.com.dalvhe.com/image/$stealth=referrer,image,domain=4ksj.com
 @@||osym.gov.tr^$stealth=dpi
 @@||ots.webtrends-optimize.com/$xmlhttprequest,domain=tvlicensing.co.uk
@@ -5404,7 +5410,6 @@
 @@||player.starlight.digital^$stealth
 @@||player.vgtrk.com/js/stat.js?
 @@||player.vimeo.com/video^$stealth
-@@||player.vimeo.com^$domain=hexlet.io,stealth
 @@||player.ynet.co.il/*/flowplayer.ads.*.ynet.js$domain=ynet.co.il
 @@||players.brightcove.net/*/index.html?videoId=$domain=amp.usatoday.com
 @@||players.fichub.com/plugins/adobe/$domain=24kitchen.pt
@@ -5469,7 +5474,6 @@
 @@||prd.jwpltx.com/*/jwplayer$domain=embed.watchanimesub.net
 @@||prebid-asia.creativecdn.com/bidder/prebid/bids$domain=atozmath.com
 @@||pricematrix.nltg.com/*/markup/$xmlhttprequest,elemhide,jsinject,extension
-@@||primevideo.com^$stealth
 @@||primis.tech^$domain=sportsmole.co.uk
 @@||privat24.privatbank.ua^
 @@||privatbank.ua/content/*/fp2.min.js$~third-party
@@ -5482,7 +5486,6 @@
 @@||profile.microsoft.com/RegSysProfileCenter/$stealth
 @@||progress.org.uk/wp-content/plugins/adsanity-adblock-detection/public/js/ads.js$~third-party
 @@||promiflash.de/static/js/pf-web-*.js$domain=promiflash.de
-@@||promo.awempire.com/live_feeds/script_basic_livefeed.php?$domain=sexcamdb.com
 @@||promods.net/*.js$~third-party
 @@||proquest.com/modules.gz/snowplow/snowplow-
 @@||proton.me^$cookie
@@ -5661,6 +5664,7 @@
 @@||repubblica.it/pw/pw.js?deskurl=$domain=gelocal.it|ilsecoloxix.it|lastampa.it
 @@||republicbharat.com/_app/immutable/assets/FloatAd.*.css$domain=republicbharat.com
 @@||republicbharat.com/_app/immutable/chunks/FloatAd.*.js$domain=republicbharat.com
+@@||request-global.czilladx.com/serve/popunder.php$domain=faucetcrypto.net
 @@||res-x.com^*/Resonance.aspx?
 @@||res.aidegelin.cn/dom2/js/app.js$domain=69xx03608.xyz
 @@||res.aidegelin.cn/dom2/js/com.js$domain=69xx03608.xyz
@@ -5671,6 +5675,7 @@
 @@||responder.wt-safetag.com/resp/api/get/$script,domain=myhermes.de
 @@||rest.edit.site/geoip-service/geoip$domain=systemshouse.com
 @@||retailmenot.com/__wsm.gif$ping,~third-party,xmlhttprequest
+@@||retweetpicker.com^$generichide
 @@||reutersmedia.net/resources^
 @@||reutersmedia.net/resources_v*/js/rcom-scroll-tracker.js$domain=reuters.com
 @@||revdownload.com/*.php$generichide
@@ -6042,6 +6047,7 @@
 @@||siteseal.certerassl.com/validate/dynamic$stealth=referrer
 @@||sjsmitaa.org/bin/showads.
 @@||skmedix.pl/*/*.js$~third-party
+@@||skyscanner.co.kr/*/xhr/assets/js/bundle$stealth=useragent
 @@||slack.com^$generichide
 @@||slashdot.org/story^
 @@||slashlook.com/_resource/js/_js_ads.min.js
@@ -7187,6 +7193,7 @@
 @@||youporn.com/embed/$subdocument
 @@||youtube.com/$stealth,app=MicrosoftEdgeCP.exe
 @@||youtube.com/get_video_info?$xmlhttprequest,domain=music.youtube.com|tv.youtube.com
+@@||youtube.com/get_video_info?*embedded$~third-party,other
 @@||youtube.com/iframe_api?$stealth=referrer
 @@||youtube.com/live_chat$stealth=referrer
 @@||youtube.com/live_chat?$stealth
