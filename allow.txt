@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-02-11 20:42:00（北京时间） 
-! Total count: 7262
+! Version: 2025-02-12 09:42:00（北京时间） 
+! Total count: 7266
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -1363,6 +1363,7 @@
 @@||canarytokens.com/nest/$domain=canarytokens.com
 @@||candidate.hr-manager.net/Advertisement/PreviewAdvertisement.aspx$subdocument,~third-party
 @@||canliplayer.com/fireplayer/$stealth=referrer
+@@||canva.com^$generichide
 @@||capitolbroadcasting.blueconic.net^$image,script,xmlhttprequest,domain=wral.com
 @@||capo4play.com/capo.php?player=$stealth=referrer
 @@||captcha-api.yandex.ru^$stealth
@@ -2557,6 +2558,7 @@
 @@||franklymedia.com/*/300x150_WBNQ_TEXT.png$image,domain=wbnq.com
 @@||freebcc.org/static/ads/popunder.js
 @@||freebitco.in^$generichide
+@@||freecodecamp.org^$generichide
 @@||freedidi.com^$generichide
 @@||freegeoip.net/json/|$domain=mudwars.io
 @@||freegeoip.net/json/|$domain=userstyles.org
@@ -5380,6 +5382,7 @@
 @@||play.tv3.ee^$generichide
 @@||play.tv3.lv^$generichide
 @@||play.vidyard.com^$stealth
+@@||playcode.io^$generichide
 @@||playep.pro/log_event$~third-party,xmlhttprequest
 @@||player-feedback-v1.glomex.com/pf/|$domain=player.glomex.com
 @@||player.aniview.com/script/$script,domain=odysee.com|pogo.com
@@ -7160,6 +7163,7 @@
 @@||xvideos.com/*/?_=$document
 @@||xxxxx520.com^$generichide
 @@||xzeepb2clookuppsta001.blob.core.windows.net/comed/src/js/google-analytics.js$domain=secure1.comed.com
+@@||ya.ru/clck/redir/*data=url%3Dhttps%253A%252F%252Fpassport.yandex.ru
 @@||yabs.yandex.ru$domain=yandex.by|yandex.com.tr|yandex.kz|yandex.ru
 @@||yads.c.yimg.jp/js/yads-async.js$domain=kobe-np.co.jp|yahoo.co.jp
 @@||yandex.*/clck/jsredir?from=yandex.*%3Bsearch%2F%3Bweb%3B%3B$~third-party,~xmlhttprequest,~image,~other
