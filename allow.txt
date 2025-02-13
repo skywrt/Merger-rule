@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-02-12 20:41:44（北京时间） 
-! Total count: 7264
+! Version: 2025-02-13 09:42:43（北京时间） 
+! Total count: 7266
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -3263,6 +3263,7 @@
 @@||googletagmanager.com/gtm.js$domain=communityfibre.co.uk
 @@||googletagmanager.com/gtm.js$domain=computerhoy.com
 @@||googletagmanager.com/gtm.js$domain=coolermaster.com
+@@||googletagmanager.com/gtm.js$domain=cosmo-hairshop.de
 @@||googletagmanager.com/gtm.js$domain=cotizadorsalud.mapfre.com.mx
 @@||googletagmanager.com/gtm.js$domain=cuisineactuelle.fr
 @@||googletagmanager.com/gtm.js$domain=cuk.pl
@@ -4178,6 +4179,7 @@
 @@||imwx.com/jsRollup?$script,domain=weather.com
 @@||imydl.com^$generichide
 @@||in.api.glance.inmobi.com^$app=com.samsung.android.keyguardmgsupdator
+@@||in.treasuredata.com/js/*?api_key$script,domain=retty.me
 @@||in.treasuredata.com/js/v*/event/fluentd_website/anchor_clicks_$domain=docs.fluentd.org
 @@||inapps.appsflyer.com^$app=se.prisjakt.pricespy
 @@||inazuma.co/campaign/js/heatmap.js$domain=monopoly.mcdonalds.co.uk
@@ -6230,6 +6232,7 @@
 @@||startup.mobile.yandex.net^$app=ru.vseapteki
 @@||stat-rock.com/player.js$domain=4shared.com
 @@||stat-rock.com/player/$domain=4shared.com|adplayer.pro
+@@||stat.okko.tv/kollector/v2/player$domain=okko.tv
 @@||stat.prsmedia.fr/tag/stat.js$domain=bienpublic.com
 @@||stat.safeway.com/b/ss/$image
 @@||stat.sports.ru/*.json$domain=sports.ru
@@ -6709,7 +6712,6 @@
 @@||trc.taboola.com^$domain=asianetnews.com
 @@||trc.taboolasyndication.com^$domain=bloomberg.com|breitbart.com|nme.com|slatev.com
 @@||treasuredata.com/sdk/*/td.min.js$domain=shiseido.co.jp
-@@||treasuredata.com^$script,domain=skincare-univ.com
 @@||trf.greatviews.de/cl?$domain=mitarbeiterangebote.de
 @@||trinitymedia.ai/player/$stealth=referrer
 @@||trip-jam.com/resources/js/adsense.js
