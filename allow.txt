@@ -2,7 +2,7 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-04-23 09:54:08（北京时间） 
+! Version: 2025-04-23 20:49:07（北京时间） 
 ! Total count: 7483
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
@@ -570,6 +570,7 @@
 @@||adikpm.github.io/repo/assets/js/prebid_hb_3293_5687.js
 @@||adjs.8591.com.tw^$script
 @@||adlink.wf^
+@@||adm.fwmrm.net^$domain=revision3.com
 @@||admin.corrata.com/console/dcconsolews/event-log?$~third-party
 @@||admin.mailchimp.com^
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
@@ -1125,6 +1126,7 @@
 @@||attach.mobile01.com/image/mod_ad/*$domain=mobile01.com
 @@||attservicesinc.tt.omtrdc.net^$domain=att.com
 @@||atwiki.jp/common/_img/spacer.gif?$image,domain=atwiki.jp
+@@||auchan.ru/pokupki/media/banners/*.jpg$~third-party
 @@||audience.io/api/$domain=campaign.aptivada.com
 @@||audience.io/api/v3/app/fetchPromo/$domain=campaign.aptivada.com
 @@||audiostream.com^$elemhide
@@ -1477,7 +1479,6 @@
 @@||cdn-gl.imrworldwide.com/novms/js/*/nlsSDK*.eu.bundle.min.js$domain=joyn.de
 @@||cdn-go.cn/aegis/aegis-sdk/latest/aegis.min.js$domain=store.lining.com
 @@||cdn-go.cn/aegis/aegis-sdk/latest/aegis.min.js$domain=yfk20.com
-@@||cdn-lfs.hf.co/repos/$stealth=3p-cache
 @@||cdn-magiclinks.trackonomics.net/client/static/v2/*_gamespot.js$domain=gamespot.com
 @@||cdn-manga.com^$image,stealth=referrer
 @@||cdn-net.com/cc.js
@@ -1821,6 +1822,7 @@
 @@||chat.d-id.com/assets/mixpanel.$~third-party
 @@||chat.openai.com^$stealth
 @@||chatgpt.com^$generichide
+@@||chaturbate.com/*embed^$domain=sweetpornlinks.com
 @@||chaturbate.com/in/$subdocument,domain=cam-sex.net
 @@||chaturbate.com/in/$subdocument,domain=cbhours.com|pussyspace.com|pussyspace.net|lemoncams.com
 @@||chatzy.com/?jsonp:$script
@@ -1958,6 +1960,7 @@
 @@||cohesionapps.com/preamp/$subdocument,xmlhttprequest,domain=frontier.com
 @@||coinadster.com^$script,stylesheet,xmlhttprequest,other,image,domain=coinadster.com
 @@||coinmarketcap.com/static/addetect/$script,~third-party
+@@||cokcok.stream/play/$stealth=referrer
 @@||colamanga.com/js/*/load.js
 @@||colamanga.com^$generichide
 @@||colatour.com.tw/webDM/*/adbanner$~third-party
@@ -2421,7 +2424,6 @@
 @@||elconfidencial.com^*/EventTracker.js
 @@||eldiario.es/static/BBTCore/images/pixel.gif?
 @@||elearning.ual.pt^$stealth=dpi
-@@||elections.ap.org/widgets/$stealth
 @@||elife-cloud.blogspot.com^$generichide
 @@||eloqua.com/include/livevalidation_standalone.compressed.js$domain=pbs.org
 @@||eloqua.com/visitor/v200/svrgp.aspx?$domain=itworld.com|juniper.net
@@ -2594,7 +2596,6 @@
 @@||firefox.com.cn/media/img/mozcn/spread/468-60-
 @@||firmwaredrive.com/templates/default/html/en/assets/js/fingerprint2.min.js
 @@||firstdirect.com^*/logging-code.js
-@@||firstonetv.net^$generichide
 @@||flag.lab.amplitude.com^$domain=watch.outsideonline.com
 @@||flashtalking.com/oba/icon/consumer-privacy-logo.png$domain=cimanow.*|freex2line.online
 @@||flickr.com/cookie_$stealth
@@ -4034,7 +4035,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.gamesplaza.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.metro.us
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.metv.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=games.miamiherald.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gameswf.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gauchazh.clicrbs.com.br
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=gbnews.com
@@ -4265,6 +4265,7 @@
 @@||imgs-2.2xstorage.com$image,stealth=referrer
 @@||imgtaxi.com/img-*.html
 @@||imgtmo.com^$stealth=referrer
+@@||imgtn.bdimg.com^$stealth
 @@||imgur.com/min/px.js$~third-party
 @@||imgwallet.com/advertisement.js
 @@||imk.neweggimages.com/webresource/scripts/plugin/inhousebiztra.js$domain=newegg.com
@@ -4623,7 +4624,6 @@
 @@||linetv.tw^*/scripts/ads.js
 @@||link.theplatform.com/*/tracker.log?
 @@||link.theplatform.com/*?affiliate=
-@@||linkconnector.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||linkneverdie.com^$generichide
 @@||linksynergy.com/minified_logic.js$xmlhttprequest
 @@||linksynergy.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
@@ -4715,7 +4715,6 @@
 @@||luluvdo.com^$stealth=useragent
 @@||luminousstreamhaven.com^$stealth=referrer,domain=edgedeliverynetwork.com
 @@||lun.com/*/Scripts/Analytics.js
-@@||luna.amazon.*/game$stealth=webrtc
 @@||luoxiadushu.com^$generichide
 @@||lustich.de.adadapter.netzathleten-media.de/API-1.0/*/naMediaAd.js$domain=lustich.de
 @@||lwadm.com/lw/pbjs?pid=$script,domain=sydostran.se
@@ -5324,6 +5323,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl$domain=ff14angler.com|logi.im
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=androidrepublic.org
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=apkmirror.com
+@@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=cleodesktop.com
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl.js$domain=doitwell.tw
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=10play.com.au
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=9sblog.com
@@ -5427,6 +5427,7 @@
 @@||parsely.com/keys/$script,domain=wmmr.com|wrif.com
 @@||partner.googleadservices.com/gpt/pubads_$domain=mlb.com
 @@||partner.googleadservices.com/gpt/pubads_$domain=video.foxnews.com|video.foxbusiness.com
+@@||partner.googleadservices.com/gpt/pubads_impl_$domain=cwtv.com
 @@||partner.googleadservices.com/gpt/pubads_impl_$domain=ukr.net
 @@||partner.market.yandex.ru^$stealth=referrer
 @@||partner1.cashback.zen.com/aff_
@@ -5586,7 +5587,6 @@
 @@||pngimg.com/distr/$image,~third-party
 @@||pngtosvg.com/wp-content/plugins/ad-inserter^
 @@||pntrac.com/b/$image,domain=extrarebates.com
-@@||poastcdn.org/ad/$image,domain=poa.st
 @@||pobeda.aero/*/check-in/$document
 @@||poedb.tw/js/adsbygoogle.js
 @@||poedb.tw^$generichide
@@ -5811,7 +5811,6 @@
 @@||reddit.com^$generichide
 @@||reddit.com^$generichide,badfilter
 @@||redditenhancementsuite.com/js/jquery.google-analytics.js
-@@||reddithelp.com/*/categories/advertising^
 @@||redfin.com/stingray/clicktracker.jsp?
 @@||redguide.top^*/ad.css?$stylesheet
 @@||redian.news^$generichide
@@ -7147,6 +7146,7 @@
 @@||vod.universalsports.com/beacon?
 @@||vodafonelimited.tt.omtrdc.net^
 @@||vplayer.ilsemedia.nl/swf/im_player.swf?
+@@||vpnsplit.com/ads/advertisement.js
 @@||vpro.nl/vpro/htmlplayer/0.3-snapshot/statcounter.js?
 @@||vscode-sync.trafficmanager.net^$stealth
 @@||vsh.visilabs.net/Visilabs.js^$domain=boyner.com.tr
