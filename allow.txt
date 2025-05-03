@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-05-03 09:53:31（北京时间） 
-! Total count: 7622
+! Version: 2025-05-03 20:43:25（北京时间） 
+! Total count: 7641
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -256,6 +256,7 @@
 @@77.88.21.122$network,app=ru.yandex.rasp
 @@77.88.21.73$network,app=ru.yandex.rasp
 @@://*.ico$domain=livenewschat.eu
+@@://*.xuk.ru^$stealth
 @@://10.0.0.$generichide
 @@://10.1.1.$generichide
 @@://127.0.0.1$generichide
@@ -504,6 +505,7 @@
 @@||acgbenzi.com//dist/images/top.png
 @@||acgdraw.com/ad$xmlhttprequest
 @@||achieves.2gis.com/*/achieves?locale=$stealth,xmlhttprequest
+@@||acid2.acidtests.org^$document
 @@||acid3.acidtests.org^$document
 @@||acornsquare.jp^$stealth=dpi
 @@||acortalink.me/s.php?$stealth=referrer
@@ -525,6 +527,7 @@
 @@||ad.8maple.ru/8ads.gif
 @@||ad.8maple.ru/bilibili.png
 @@||ad.8maple.ru/close.png
+@@||ad.a-ads.com/*?size=320x50$domain=phineypet.com
 @@||ad.abchina.com^
 @@||ad.admitad.com/*/*&ulp=
 @@||ad.admitad.com/*/?ulp=
@@ -1120,7 +1123,7 @@
 @@||assets.adobedtm.com/*-source.min.js$domain=samsung.com
 @@||assets.adobedtm.com/*/satelliteLib-*.js$domain=docs.nvidia.com
 @@||assets.adobedtm.com/*launch-*.min.js$domain=samsung.com
-@@||assets.adobedtm.com/extensions/*/AppMeasurement.min.js$domain=nbc.com|subwy.com|tatamotors.com|usanetwork.com
+@@||assets.adobedtm.com/extensions/*/AppMeasurement.min.js$domain=identity.healthsafe-id.com|nbc.com|subwy.com|tatamotors.com|usanetwork.com
 @@||assets.customer.io/assets/track.js$domain=buffer.com
 @@||assets.dfb.de/uploads/*/original_$image
 @@||assets.espn.go.com/espn360/builds/nielsen/ggce*.swf
@@ -1357,6 +1360,7 @@
 @@||blueconic.net/capitolbroadcasting.js$script,domain=wral.com
 @@||bnc.lt/a/key_live$domain=pinterest.co.kr|pinterest.com|pinterest.de|pinterest.com.au|pinterest.com.mx|pinterest.es|pinterest.jp|pinterest.it|pinterest.ca|pinterest.co.uk|pinterest.ru|pinterest.ch|pinterest.fr|pinterest.cl|pinterest.at|pinterest.pt|pinterest.nz|pinterest.dk|pinterest.se|pinterest.ie|pinterest.ph|pinterest.info
 @@||board-game.co.uk/cdn-cgi/zaraz/s.js$script,~third-party
+@@||board4all.biz^$stealth
 @@||boatwizard.com/ads_prebid.min.js$script,domain=boats.com
 @@||bokecc.com/flash/playlog?
 @@||bolha.com/clicktracker/
@@ -1502,6 +1506,7 @@
 @@||cdn*.downloadapkgames.com/?session=
 @@||cdn*.jianshu.io^$stealth
 @@||cdn*.movcdn.*^$xmlhttprequest,stealth=referrer|ip,domain=moeni.net
+@@||cdn*.pw/stream2/cdn-*/index.m3u8$stealth=ip|referrer
 @@||cdn-*.convertexperiments.com/js^$domain=xda-developers.com
 @@||cdn-aitg.widerplanet.com/js/wp_astg_$script,domain=larocheposay.co.kr
 @@||cdn-fck.tnaflix.com^$removeparam
@@ -1634,6 +1639,7 @@
 @@||cdn.georiot.com/snippet.js$domain=techadvisor.co.uk
 @@||cdn.georiot.com/snippet.js$domain=webwereld.nl
 @@||cdn.getblueshift.com/blueshift.js$script,domain=rentcafe.com
+@@||cdn.gigya.com/js/gigya.services.plugins.base.min.js$domain=muscleandfitness.com
 @@||cdn.heapanalytics.com^$script,domain=libertymutual.com
 @@||cdn.hsmedia.ru/dist/$stealth,domain=maximonline.ru|woman.ru|parents.ru|vokrugsveta.ru|psychologies.ru|ellegirl.ru|wday.ru|elle.ru|marieclaire.ru
 @@||cdn.inside-handy.de/ih/top/
@@ -1908,6 +1914,7 @@
 @@||civilservicejobs.service.gov.uk^$stealth=dpi
 @@||cizgifilmlerizle.com/getvid?$stealth
 @@||cl-eu4.k5a.io/*.js$domain=itavisen.no
+@@||claimbits.net/static/js/noadblock.js
 @@||clarity.ms/tag/$domain=phileweb.com
 @@||clarity.ms/tag/$script,domain=phileweb.com
 @@||classic.comunio.de/clubImg.phtml/$image,~third-party
@@ -2036,6 +2043,7 @@
 @@||collector.wawlabs.com/mmsearch.js$domain=mediamarkt.com.tr
 @@||collegeboard.org/webanalytics/
 @@||collusion.com/static/newrelic.js$script,~third-party
+@@||comcast.net^$stealth
 @@||comcastresidentialservices.tt.omtrdc.net/m2/comcastresidentialservices^$domain=xfinity.com
 @@||comci.kr:4081^$stealth=dpi
 @@||comeresaprensasl.tt.omtrdc.net/rest/v*/delivery$domain=elcomercio.es|eldiariomontanes.es|elcorreo.com|lasprovincias.es|hoy.es|ideal.es
@@ -2145,6 +2153,7 @@
 @@||crowdscience.com/max-$script,domain=everydayhealth.com
 @@||crowdscience.com/start-$script,domain=everydayhealth.com
 @@||cruisecenter.com.tw/data/ad/
+@@||crunchyrollsvc.com^$stealth=3p-auth
 @@||crwdcntrl.net/*callback=setPIDForPlayer$domain=static.rtl.nl
 @@||cryptowin.io^$generichide
 @@||crystalmark.info/wp-content/uploads/sites/$image,~third-party
@@ -2380,6 +2389,7 @@
 @@||down.cc/down/js/ad.js
 @@||download.adguard.com^
 @@||download.amd.com/js/analytics/analyticscore.js
+@@||download.com/ad-
 @@||download.megaup.net/*.js$~third-party
 @@||download.mokeedev.com^$genericblock,generichide
 @@||downloader.disk.yandex.$stealth
@@ -2467,6 +2477,7 @@
 @@||eden.org.tw^*/ad_banner/
 @@||edge-*.gcdn.app/st/$stealth=referrer,domain=anilife.*
 @@||edge.microsoft.com/translate/auth
+@@||edge.mycdn.live^$stealth,domain=futebolplayhd.com
 @@||edge.permutive.app/*-web.js$domain=eldo.lu
 @@||edge1.certona.net/*/scripts/resonance.js$domain=canadiantire.ca
 @@||edgesuite.net/crossdomain.xml$domain=sbs.com.au
@@ -4031,6 +4042,7 @@
 @@||id.sky.de^$domain=wowtv.de,stealth=referrer
 @@||id.skyeng.ru^$stealth
 @@||id.spectrum.net^$stealth=referrer
+@@||id.tmtm.ru/login/
 @@||id.vk.com/auth$jsinject
 @@||id.zaloapp.com^$stealth
 @@||identity.mparticle.com/v*/identify$domain=cwseed.com
@@ -4210,6 +4222,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.capital.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.deejay.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.gazzetta.it
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.lastampa.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.onnetwork.tv
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.udn.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.ufreegames.com
@@ -5282,6 +5295,7 @@
 @@||o2.de/resource/js/tracking/ntpagetag.js
 @@||oa.tr.line.me^$document
 @@||oasjs.kataweb.it/adsetup*.js$domain=huffingtonpost.it
+@@||oasjs.kataweb.it/adsetup*.js$domain=video.lastampa.it
 @@||oasjs.kataweb.it/adsetup.real.js$domain=video.capital.it
 @@||oasjs.kataweb.it/adsetup.real.js$domain=video.deejay.it
 @@||oasjs.kataweb.it/adsetup.real.js$domain=video.repubblica.it
@@ -5711,6 +5725,7 @@
 @@||pornhub.*/*?*&ajax=$xmlhttprequest
 @@||pornhub.*/*?ajax=*&$xmlhttprequest
 @@||pornhub.*/signup
+@@||pornohype.cc/*/|$media,stealth
 @@||porntrex.com/*/?mode=async&action=js_stats&rand=$image,domain=porntrex.com
 @@||pornxp.com^$stealth=ip
 @@||portal-portm.meituan.com/horn$removeparam=utm_medium,xmlhttprequest,domain=meishi.meituan.com
@@ -6585,6 +6600,7 @@
 @@||static.doubleclick.net/instream/ad_status.js$domain=youtube.com
 @@||static.doubleclick.net/instream/ad_status.js$script,domain=ignboards.com
 @@||static.doubleclick.net^$app=com.google.android.apps.cultural
+@@||static.editor.naver.net/static/$stealth
 @@||static.ex.co/pb-play/production/*/playbuzz-viewer-play.es5.js
 @@||static.ex.co/pb-story/production/*/story-viewer.js
 @@||static.ex.co/pb-story/quiz/production/*-viewer-svg.js
@@ -7081,6 +7097,7 @@
 @@||tvb.com^*/videojs.ads.
 @@||tvbanywherena.com^$generichide
 @@||tvcatchup.com^$generichide
+@@||tvcdn365.ru/*.php$stealth=referrer
 @@||tvcom-static.ssl.cdn.cra.cz/*/videojs.ga.js$script,domain=tvcom.cz
 @@||tvfreak.cz/*/pubfig.min.js
 @@||tvid.in/api/mediainfo/*.json?$stealth=referrer
@@ -7268,6 +7285,7 @@
 @@||vjs.zencdn.net/*/video-js.css
 @@||vk.com/*.php?__query=$document
 @@||vk.com/vkpay$stealth
+@@||vk.payservice.io^$stealth
 @@||vlist.se/advertisement.js
 @@||vlscppe.microsoft.com/fp/tags.js$domain=microsoft.com
 @@||vlscppe.microsoft.com/fp/tags.js$stealth
@@ -7289,6 +7307,7 @@
 @@||vudeo.io/embed-$stealth
 @@||vulture.com/decor/javascript/magnify_stats.js
 @@||vvic.com/monetize/ads/index/
+@@||w2g.tv/rooms/$stealth
 @@||w3spy.org/etc/geo.php?
 @@||w88.espn.com/id?$domain=espn.com
 @@||w88.go.com/id?$domain=espn.com
