@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-05-17 09:55:31（北京时间） 
-! Total count: 8324
+! Version: 2025-05-17 20:44:01（北京时间） 
+! Total count: 8337
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|bhugolinfo.com|bhugolinfo.com|cxissuegk.com|gknutshell.com|godstoryinfo.com|laweducationinfo.com|makeincomeinfo.com|rsfinanceinfo.com|rsgames.xyz|savemoneyinfo.com|vichitrainfo.com|workproductivityinfo.com|worldaffairinfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -915,6 +915,7 @@
 @@||ams.cdn.arkadiumhosted.com/advertisement/video/stable/video-ads.js$domain=play.dictionary.com
 @@||ams.cdn.arkadiumhosted.com/assets/*/advertisements.js
 @@||ams.cdn.arkadiumhosted.com/assets/*/display-ads-f.js
+@@||amsarkadium-a.akamaihd.net/assets/*/arena/heap/advertisements.js$domain=nydailynews.com
 @@||an.yandex.ru^$app=com.badmanners.murglar
 @@||analogplanet.com^$elemhide
 @@||analysys.cn^$domain=analysys.cn
@@ -1196,6 +1197,7 @@
 @@||app.sendgrid.com$document
 @@||app.sendgrid.com^$elemhide,jsinject
 @@||app.tirelocator.ca/static/scripts/google-analytics.js
+@@||app.veggly.net/plugins/cordova-plugin-admobpro/www/AdMob.js$script,~third-party
 @@||app2.putgate.org/static/*.html$xmlhttprequest,stealth=referrer
 @@||appapi.inspsearchapi.com^$domain=search.pch.com
 @@||appcdn01.xyz/vast.js
@@ -1382,6 +1384,7 @@
 @@||bankrespublika.az^$stealth=dpi
 @@||banma.com/statics/js/??
 @@||banner-hiroba.com/wp-content/uploads/$image,~third-party
+@@||banner.infoey.com/adbanner.png$domain=phineypet.com
 @@||banners.s1.citilink.ru^$image,domain=citilink.ru
 @@||barax.de/cache/images/logo-*x*-
 @@||barclays.touchclarity.com^$domain=barclaycard.co.uk
@@ -1544,6 +1547,7 @@
 @@||browserscope.org/user/beacon/*?callback=$script,domain=jsperf.com
 @@||brutalmania.io/ads.js
 @@||bs.serving-sys.com/crossdomain.xml$domain=rte.ie
+@@||bscfsdf.azzureedge.xyz/scripts/*.m3u8$stealth=referrer
 @@||bt*.t-ru.org^$stealth=useragent
 @@||bt.com^*/touchclarity/homepage/omtr_tc.js
 @@||bt.dk/build/prebid-ads-advertisement_adbanner.*.js
@@ -2219,6 +2223,7 @@
 @@||cnzz.com/z_stat.php?id=$domain=fapiao.bangnimang.net
 @@||cocomanga.com/js/ad*/*.js
 @@||cocomanga.com/js/ad_/$image
+@@||code.adsales.snidigital.com/conf/ads-config.js^$domain=foodnetwork.com
 @@||code.etracker.com/t.js?et=$script,domain=apotheken-umschau.de|compo-hobby.de|kaguma.com|krombacher.de
 @@||code.jquery.com/*.min.js$domain=audioz.download
 @@||codepen.io^$generichide
@@ -4348,6 +4353,7 @@
 @@||i*-tb.isnssdk.com^$app=com.ss.android.article.topbuzzvideo
 @@||i*.gmx.com/image
 @@||i*.imagetwist.com^$image,domain=imagetwist.com
+@@||i-funbox.com/images/
 @@||i-sdk.mediation.unity3d.com^$app=jp.step_official
 @@||i.cdn.turner.com/ads/adfuel/$domain=bleacherreport.com
 @@||i.cdn.turner.com/ads/adfuel/ais/*/tbs-ais.min.js$domain=tbs.com
@@ -4932,6 +4938,7 @@
 @@||js.monitor.azure.com^$app=com.microsoft.office.officehubrow
 @@||js.revsci.net/gateway/gw.js?$domain=t-online.de
 @@||js.sentry-cdn.com^$script,domain=app.homebinder.com|book.dmm.com|etsy.com|interacty.me|jobs.ch|pizzahut.com.au
+@@||js.tv.itc.cn/gg.seed.js
 @@||js.vpro.nl/vpro/*/statcounter.js?
 @@||jsc.idealmedia.io/*/onedio.com.*.js$domain=onedio.com
 @@||jsdelivr.net/combine/npm/$domain=ulifestyle.com.hk
@@ -5166,6 +5173,7 @@
 @@||lobi.co/1/track/event/
 @@||local.adguard.org^
 @@||log.mmstat.com/eg.js$domain=youku.tv
+@@||log.mmstat.com/eg.js^$script
 @@||log000.goo.ne.jp/gcgw.js$domain=nttxstore.jp
 @@||log000.goo.ne.jp/js/VLTraceDMD.js$domain=news.goo.ne.jp
 @@||logcg.content-delivery.top/wp-content/plugins/bwp-minify/min/?f=
@@ -5912,6 +5920,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=apkmirror.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=apkmirror.com,stealth=referrer
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=arahdrive.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=arkadium.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=as-selection.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=axilesoft.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bilinovel.com
@@ -7268,6 +7277,7 @@
 @@||sumologic.com^$domain=sumologic.com
 @@||sundaysky.com/sundaysky.js?$domain=lenovo.com
 @@||sundaysky.com^*/default/sundaysky.js$domain=lenovo.com
+@@||sundaysportclassifieds.com/ads/$image,~third-party
 @@||suning.cn/project/msIndex/js/??
 @@||supercloudsms.com/js/ad
 @@||superpsx.com^$generichide
@@ -7400,6 +7410,7 @@
 @@||tataunistore.tt.omtrdc.net/rest/v1/mbox?client=tataunistore$xmlhttprequest,domain=tatacliq.com
 @@||tawk.to^$stealth=referrer
 @@||taximaxim.com/assets/*/fingerprint2.min.js
+@@||tb.mgtv.com/sdk/*/ad-sdk.js^$script
 @@||tbcdn.cn^*/click_track.js
 @@||tbs.com/ajax/$stealth=ip,domain=tbs.com
 @@||tbs.com/api/*/resolve$stealth=ip,domain=tbs.com
@@ -7762,6 +7773,7 @@
 @@||unbiasedsenseevent.com/embed/$stealth=referrer
 @@||unian.net/player/$stealth=referrer|ip
 @@||unimedsorocaba.coop.br^$stealth=dpi
+@@||union.video.qq.com/fcgi-bin/$script,domain=qq.com
 @@||uniqlo.com^$jsinject,content
 @@||unique-tutorials.info^$generichide
 @@||unpkg.com/@adobe/magento-storefront-event-collector@$domain=osprey.com
@@ -7901,6 +7913,7 @@
 @@||vikistream.com:*/hls/*.m3u8$stealth=referrer
 @@||vipi.tv/ads.js
 @@||vipstatic.com/img/share/blank.png
+@@||viptools.es/assets/ads.js
 @@||virginplus.ca^$stealth=dpi
 @@||virpe.cc/includes/js/adver.js
 @@||virtualearth.net^$stealth=searchqueries|referrer,domain=bing.com
