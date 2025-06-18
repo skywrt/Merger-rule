@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-06-18 10:01:58（北京时间） 
-! Total count: 7871
+! Version: 2025-06-18 20:52:34（北京时间） 
+! Total count: 7872
 @@$cookie=__gads,domain=rseducationinfo.com|rsinsuranceinfo.com|rsadnetworkinfo.com|rsfinanceinfo.com|rshostinginfo.com|rssoftwareinfo.com|armypowerinfo.com|artoffocas.com|godstoryinfo.com|laweducationinfo.com|rsfinanceinfo.com|rsgames.xyz|vichitrainfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -1734,6 +1734,7 @@
 @@||cdn.mxpnl.com/libs/mixpanel-2-latest.min.js$domain=twe.no
 @@||cdn.nlark.com^$image,stealth=referrer,domain=yuque.com
 @@||cdn.ometria.com/tags/*.js$domain=holtrenfrew.com
+@@||cdn.optimizely.com/datafiles/*.json$domain=alaskaair.com
 @@||cdn.optimizely.com/datafiles/*.json$domain=hm.com
 @@||cdn.optimizely.com/datafiles/*.json$domain=pizzahut.co.uk
 @@||cdn.optimizely.com/datafiles/*.json$domain=shop.mango.com
