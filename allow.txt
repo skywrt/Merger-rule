@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-07-02 20:52:20（北京时间） 
-! Total count: 7830
+! Version: 2025-07-03 10:03:36（北京时间） 
+! Total count: 7831
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$generichide,domain=vidoza.co|vidoza.net
@@ -5677,6 +5677,7 @@
 @@||pay.yandex.ru/web/sdk/$stealth=referrer
 @@||payload.cargocollective.com^$image,~third-party
 @@||payments.braintree-api.com^$stealth=3p-auth
+@@||paypal.com.first-party-js.datadome.co^$domain=paypal.com
 @@||paypal.com/xoplatform/logger/api/logger$domain=play.leagueofkingdoms.com
 @@||paypal.com^$app=com.bandcamp.android
 @@||paypalobjects.com/*/pageView.js$script,domain=paypal.com
