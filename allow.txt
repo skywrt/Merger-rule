@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-08-18 20:55:20（北京时间） 
-! Total count: 7763
+! Version: 2025-08-19 09:58:11（北京时间） 
+! Total count: 7764
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
@@ -4083,7 +4083,7 @@
 @@||id.skyeng.ru^$stealth=useragent
 @@||id.spectrum.net^$stealth=referrer
 @@||identity.mparticle.com/v*/identify$domain=cwseed.com
-@@||identity.mparticle.com/v*/identify$domain=nbc.com
+@@||identity.mparticle.com/v*/identify$domain=nbc.com|amcplus.com
 @@||identity.mparticle.com/v1/identify$domain=cwtv.com
 @@||identity.mparticle.com^$xmlhttprequest
 @@||identitytoolkit.googleapis.com^$stealth=referrer
@@ -4395,6 +4395,7 @@
 @@||img.forumfree.net^$stealth=referrer
 @@||img.informer.com/images/mac_banner_$domain=informer.com
 @@||img.kilimall.com/*/js/sensorsdata.min.js$domain=kilimall.co.ke
+@@||img.logo.dev^$image,third-party
 @@||img.mangahasu.se^$image,stealth=referrer
 @@||img.mxomo.com^$image,stealth=referrer
 @@||img.noobzone.ru^$stealth=referrer
@@ -4619,7 +4620,7 @@
 @@||jsrdn.com/s/$script,domain=distro.tv
 @@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=cwseed.com
 @@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=cwtv.com
-@@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=nbc.com
+@@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=nbc.com|amcplus.com
 @@||jssdkcdns.mparticle.com/js/v*/*/mparticle.js$domain=weather.com
 @@||jswenhui.com^*/ad/
 @@||juduo.cc^$generichide
@@ -4852,7 +4853,6 @@
 @@||logly.co.jp/recommend/$image,domain=benesse.ne.jp|sponichi.co.jp
 @@||logly.co.jp/recommend/$image,domain=sponichi.co.jp
 @@||logo.clearbit.com^$image,domain=securitytrails.com
-@@||logo.clearbit.com^$image,third-party
 @@||logowanie.play.pl^$stealth
 @@||logs1242.xiti.com/go.url
 @@||loki.delve.office.com/api/$stealth=3p-auth
@@ -5733,6 +5733,7 @@
 @@||player.smotrim.ru/js/piwik.js
 @@||player.smotrim.ru/js/piwik.js$~third-party
 @@||player.smotrim.ru^$stealth=ip
+@@||player.sonyliv.com/assets/web/*/lib/admanager/*/spnadmanager.js$domain=sonyliv.com
 @@||player.starlight.digital^$stealth=referrer
 @@||player.vgtrk.com/js/stat.js?
 @@||player.vimeo.com/video^$stealth=referrer
