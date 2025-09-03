@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-09-03 09:46:16（北京时间） 
-! Total count: 7792
+! Version: 2025-09-03 20:48:23（北京时间） 
+! Total count: 7796
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
@@ -375,6 +375,7 @@
 @@||40017.cn/cn/min/???/
 @@||423down.com^$generichide
 @@||4399sj.com^*/adview_pic_
+@@||4cdn.org/adv/$image,xmlhttprequest,domain=4channel.org
 @@||4cdn.org/js/catalog.min.*.js$domain=4chan.org
 @@||4cdn.org/js/core.min.*.js$domain=4chan.org
 @@||4cdn.org/js/extension.min.*.js$domain=4chan.org
@@ -885,6 +886,7 @@
 @@||animego.me^$~script,~stylesheet,~xmlhttprequest,~image,stealth=ip
 @@||animego.org^$stealth=ip
 @@||anisearch.*^$generichide
+@@||anitasrecipes.com/Content/Images/Recipes/$image,~third-party
 @@||anitube.vip/playerricas.php$stealth=referrer
 @@||aniview.com/api/$script,xmlhttprequest,domain=gamingbible.co.uk|ladbible.com|stirr.com
 @@||anizmstream*.com/cdn/down/$stealth=referrer,domain=anizmplayer.com|anizm.net
@@ -1494,6 +1496,7 @@
 @@||careermap.co.uk/careers/js/google-analytics.js
 @@||carefood.kz/upload/$image
 @@||carexpert.com.tw/wp-content/plugins/like-box-pro/includes/javascript/front_end_js.js
+@@||cargocollective.com/designs/$document
 @@||carrefourpl.snrpage.com^$removeparam=utm_source
 @@||carsales.com.au/afx_prid/$domain=carsales.com.au
 @@||carsensor.net/usedcar/modules/clicklog_top_lp_revo.php$xmlhttprequest
@@ -1515,7 +1518,6 @@
 @@||cdc-api.account.sap.com^$stealth=referrer
 @@||cdc.gov/jscript/metrics/adobe/launch/$script,~third-party
 @@||cdek.ru^$stealth=useragent
-@@||cdn*-player.com^$stealth=referrer
 @@||cdn*.anyclip.com^$domain=content.dictionary.com
 @@||cdn*.jianshu.io^$stealth=referrer
 @@||cdn*.movcdn.*^$xmlhttprequest,stealth=referrer|ip,domain=moeni.net
@@ -2199,6 +2201,7 @@
 @@||cstaticdun.126.net^
 @@||cstnet.cn/r/cms/cstnet/zh_CN/ad/index/
 @@||csub.edu/static/js/google-analytics.js
+@@||ct.ddc.venmo.com.fpc.datadome.co^$domain=id.venmo.com
 @@||ctrip.com/Customer-Market-Proxy/AdCallProxyV2.$~third-party
 @@||ctv.ca/players/mediaplayer/*/comscorebeacon.js
 @@||cults3d.com/packs/js/quantcast-$~third-party
@@ -2558,6 +2561,7 @@
 @@||embed.new.video^$stealth=referrer|ip
 @@||embed.redditmedia.com/widgets/platform.js$domain=gamerant.com
 @@||embed.wcostream.com/inc/embed/*.js$domain=embed.wcostream.com
+@@||embed.wcostream.com^$generichide
 @@||embed.wcostream.com^$subdocument,stealth=referrer
 @@||embeddedanalytics.com/updateeakpi.html$domain=brocardi.it
 @@||emea.api.flow.microsoft.com/providers/Microsoft.ProcessSimple/environments/$domain=make.powerautomate.com,stealth=referrer
@@ -4539,6 +4543,7 @@
 @@||javedit.com/d/js/acmsd/thea0.
 @@||javhdonline.com^$generichide
 @@||javpost.net/ads.php
+@@||jawcloud.co/embed$stealth=referrer
 @@||jbprogramnotes.com^$generichide
 @@||jccsmart.com^$stealth
 @@||jcrew.com^$stealth=useragent
@@ -6963,7 +6968,6 @@
 @@||techobras.com^$stealth=referrer
 @@||techonthenet.com/javascript/advert-min.js
 @@||teenvogue.com/js/eventTracker.js
-@@||tehnotone.com^$generichide
 @@||telegram.hr^$content
 @@||telegraph.co.uk/template/ver1-0/js/webtrends/live/wtid.js
 @@||telemetry.stytch.com/submit$domain=play.pixels.xyz
@@ -7296,7 +7300,6 @@
 @@||ups.xplosion.de/ctx?event_id=$domain=tz.de
 @@||upstream.to/js/dnsads.js
 @@||uptodate.com^$stealth=dpi
-@@||upvtt.com/uploads^$third-party
 @@||upxin.net/advertisement.js
 @@||upxin.net^$generichide
 @@||urbanmilwaukee.com/wp-content/themes/*/js/prebid-ads.js
@@ -7748,6 +7751,7 @@
 @@||youporn.com/embed/$subdocument
 @@||yourcinema.tv^$stealth=referrer
 @@||youtube.com/$stealth=useragent,app=MicrosoftEdgeCP.exe
+@@||youtube.com/get_video_info*&el=editpage
 @@||youtube.com/get_video_info?$xmlhttprequest,domain=music.youtube.com|tv.youtube.com
 @@||youtube.com/iframe_api?$stealth=referrer
 @@||youtube.com/live_chat$stealth=referrer
