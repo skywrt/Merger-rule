@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-09-06 20:41:01（北京时间） 
-! Total count: 7796
+! Version: 2025-09-07 09:55:25（北京时间） 
+! Total count: 7797
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
@@ -673,6 +673,7 @@
 @@||ads.helisimmer.com/www/admin/assets/images/login-welcome.gif$domain=helisimmer.com
 @@||ads.imprezzer.com/js/$script,domain=mgronline.com
 @@||ads.julephosting.de/podcasts/$domain=open.spotify.com
+@@||ads.julephosting.de/podcasts/$domain=otz.de
 @@||ads.kbmax.com^$domain=adspipe.com
 @@||ads.korri.fr/index.js$domain=dogefaucet.com
 @@||ads.lingxing.com^$~third-party
