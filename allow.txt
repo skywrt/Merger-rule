@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-09-07 20:41:50（北京时间） 
-! Total count: 7796
+! Version: 2025-09-08 09:55:09（北京时间） 
+! Total count: 7797
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
@@ -2187,6 +2187,7 @@
 @@||creditas.cz/cb/public/assets/SmartTag-$script,~third-party
 @@||crimemapping.com/cdn/*/analytics/eventtracking.js$~third-party
 @@||criteo.com/delivery/$domain=canadiantire.ca
+@@||criteo.com/delivery/retailmedia$domain=plazavea.com.pe
 @@||criteo.net/js/ld/publishertag.js$domain=novayagazeta.ru
 @@||crowdscience.com/max-$script,domain=everydayhealth.com
 @@||crowdscience.com/start-$script,domain=everydayhealth.com
