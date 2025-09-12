@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-09-11 20:47:08（北京时间） 
-! Total count: 7810
+! Version: 2025-09-12 09:45:47（北京时间） 
+! Total count: 7812
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
@@ -480,6 +480,7 @@
 @@||aboluowang.com^$generichide
 @@||about-australia.com/*/clickheat.js
 @@||about.smartnews.com/ja/wp-content/assets/img/advertisers/ad_$~third-party
+@@||abstream.to/embed-$stealth=referrer
 @@||abt.nike.com^$domain=nike.com
 @@||abt.s3.yandex.net/expjs/latest/exp.js$script,domain=some.porn
 @@||ac*.namu.la^$domain=arca.live,media,image,stealth=referrer
@@ -5635,6 +5636,7 @@
 @@||passiontimes.hk^*-ad.php?
 @@||passport.baidu.com^$stealth=referrer
 @@||passport.csdn.net/login^$stealth=referrer
+@@||passport.jlcpcb.com^$removeparam=from
 @@||passport.yandex.ru^$stealth=3p-cookie
 @@||pastebin.com/etc/geo.php?
 @@||patreonusercontent.com/*.gif?token-$image,domain=patreon.com
