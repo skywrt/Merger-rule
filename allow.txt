@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-09-13 09:41:33（北京时间） 
-! Total count: 7810
+! Version: 2025-09-13 20:41:24（北京时间） 
+! Total count: 7807
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
@@ -1031,6 +1031,7 @@
 @@||api.ok.ru/fb.do?application_key=*_advertisement.user_id
 @@||api.olx.$app=com.app.tokobagus.betterb
 @@||api.onedrive.com^$stealth=3p-auth
+@@||api.os.fressnapf.com^$stealth=3p-auth,domain=fressnapf.de
 @@||api.ott.kinopoisk.ru^$stealth=ip|useragent
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||api.performfeeds.com^$stealth=referrer
@@ -1072,7 +1073,6 @@
 @@||app-sjf.marketo.com^$domain=live.altium.com
 @@||app.adjust.world^$app=com.spotify.music
 @@||app.clarity.so^$~third-party
-@@||app.focusmate.com^$stealth=webrtc
 @@||app.hubspot.com/api/ads/$~third-party
 @@||app.humanornot.ai^$stealth=referrer
 @@||app.message.sonicwall.com^
@@ -1227,7 +1227,6 @@
 @@||b97.yahoo.co.jp^$app=jp.co.alc.eow
 @@||babynombres.com^$stealth=referrer
 @@||bachhoaxanh.com^$stealth=dpi
-@@||backerkit.com/backer/survey$stealth=referrer
 @@||backpacker.com^$stealth=dpi
 @@||bagehd.com/iplookup.
 @@||bahn.de/*/*/suche$stealth=referrer
@@ -2532,7 +2531,6 @@
 @@||edgesuite.net^*/frontend_webtrekk.js$domain=goertz.de
 @@||editor.wix.com/_api/wix-laboratory-server/laboratory/conductAllInScope?scope=add-panel-data$domain=editor.wix.com
 @@||edmondpoon.com^$generichide
-@@||edmontonsun.com/*/flyertown_module.js$domain=edmontonsun.com
 @@||edu.cn^*/ad.css?$stylesheet
 @@||eduscho.at/*/exactag_clientside.js
 @@||edx.org^$stealth=referrer
@@ -4568,7 +4566,6 @@
 @@||jetzt.de^$generichide
 @@||jetztspielen.de^*/EventTracker.js
 @@||jfimv2.xyz/images$domain=klto9.com,stealth=referrer
-@@||jfimv2.xyz^$domain=klz9.com,stealth=referrer
 @@||jianshu.com/asimov/ab_test/info
 @@||jiav000.com^$generichide
 @@||jiayuan.com^*/pv.js
@@ -5583,7 +5580,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=duelmeta.com|linetv.tw|liout.com|moneysave.info|raenonx.cc|zxmee.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=ewrc-results.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=falpus.com|fooak.com|upfiles-urls.com|upfiles.app|upfion.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=pigeonburger.xyz
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?$domain=production-api.androidacy.com,stealth=referrer
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=iconmonstr.com,xmlhttprequest
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=noor-book.com
@@ -6495,6 +6491,7 @@
 @@||smallseotools.com^$generichide
 @@||smallseotools.com^$generichide,badfilter
 @@||smartadserver.com/ac?$domain=bildderfrau.de
+@@||smartadserver.com/call/pubx/*/M/$domain=vbox7.com
 @@||smartadserver.com/genericpost$domain=filmweb.pl
 @@||smartclip.net/?plc=$domain=energy.de
 @@||smartclip.net/ads?type=$domain=energy.de
