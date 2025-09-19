@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-09-19 09:50:40（北京时间） 
-! Total count: 7803
+! Version: 2025-09-19 20:48:45（北京时间） 
+! Total count: 7801
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
@@ -1019,6 +1019,7 @@
 @@||api.lab.amplitude.com^$domain=watch.outsideonline.com
 @@||api.leanplum.com^$app=com.dolap.android
 @@||api.leanplum.com^$app=com.thetrainline
+@@||api.mapbox.com/*/mapbox.mapbox-terrain-*,mapbox.mapbox-streets-*^$stealth=referrer
 @@||api.mapbox.com/*/mapbox.satellite/$stealth=referrer
 @@||api.mapbox.com/*?secure&access_token=$stealth
 @@||api.mapbox.com/*access_token=$stealth=referrer
@@ -1027,7 +1028,6 @@
 @@||api.mi-img.com^$stealth=referrer
 @@||api.mindbox.ru/scripts/v1/tracker.js$domain=xcom-shop.ru
 @@||api.minecraftservices.com^$stealth=3p-auth
-@@||api.moeni.net^$xmlhttprequest,stealth=referrer|ip
 @@||api.ok.ru/fb.do?application_key=*_advertisement.user_id
 @@||api.olx.$app=com.app.tokobagus.betterb
 @@||api.onedrive.com^$stealth=3p-auth
@@ -2678,7 +2678,6 @@
 @@||fastssh.com/dfp.min.js
 @@||faucetcrypto.com^$generichide
 @@||fbcdn.net^$stealth=referrer
-@@||fc2stream.tv/t/$stealth=referrer
 @@||fccbrea.org^*/swfaddress.js
 @@||fcportables.com/wp-content/uploads/ad-inserter^
 @@||fdi.fiduciarydecisions.com/a/lib/gtag/gtag.js$script,~third-party
@@ -4687,6 +4686,7 @@
 @@||kifir2.kir.hu^$stealth=dpi
 @@||kilimall.co.tz/sensorsdata.min.js$~third-party
 @@||kilimall.com*/js/sensorsdata.min.js$script,domain=kilimall.co.ke
+@@||kincho.co.jp/cm/img/bnr_ad_$image,~third-party
 @@||kinescope.io/embed/$stealth=referrer
 @@||kingofdown.com^$generichide
 @@||kingofshrink.com^$generichide
@@ -5038,7 +5038,6 @@
 @@||mediamarkt.de/*/shop^
 @@||mediaplex.com$domain=cnet.com
 @@||mediaplex.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
-@@||mediaset.es/*mtweb$stealth=referrer,domain=mitele.es
 @@||mediav.com/js/feed_ts.js$domain=china.com|mini.yyrtv.com
 @@||mediav.com/js/interactive_plugin.js$domain=v.360kan.com
 @@||mediav.com/js/reward_video_pc.min.js$domain=baiten.cn
@@ -6302,7 +6301,6 @@
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=musixmatch.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=news.tvb.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=sinarharian.com.my
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=softonic.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=ukr.net
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=wunderground.com
 @@||securepubads.g.doubleclick.net/pagead/managed/js/gpt/$domain=fifetoday.co.uk
@@ -6418,6 +6416,7 @@
 @@||shemale6.com/player/stats.php$domain=shemale6.com
 @@||shenlongruanjian.com/website/js/fingerprint2.min.js
 @@||shijue.me/advertise/getList?
+@@||shikoku-np.co.jp/img/ad/$~third-party
 @@||shinden.pl^$generichide
 @@||shine.cn/showadcode2.asp?posid=68&
 @@||shink.in$generichide
@@ -7339,7 +7338,6 @@
 @@||v.fwmrm.net/ad/g/1?*mtv_desktop$xmlhttprequest
 @@||v.fwmrm.net/ad/g/1?csid=vcbs_cbsnews_*_web_vod&*&host=https%3A%2F%2Fwww.cbsnews.com&$domain=imasdk.googleapis.com
 @@||v.fwmrm.net/ad/p/1?$domain=cc.com|channel5.com|cmt.com|eonline.com|foodnetwork.com|nbcnews.com|ncaa.com|player.theplatform.com|simpsonsworld.com|today.com
-@@||v.fwmrm.net/ad/p/1?$domain=pdk.video.snidigital.com
 @@||v.fwmrm.net/crossdomain.xml$xmlhttprequest
 @@||v.me/personal/assets/ntpagetag-$script
 @@||v.shoosh.co^$media,stealth=referrer
