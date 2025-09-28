@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-09-28 09:58:41（北京时间） 
-! Total count: 7817
+! Version: 2025-09-28 20:43:13（北京时间） 
+! Total count: 7809
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
@@ -515,6 +515,7 @@
 @@||acortalink.me/s.php?$stealth=referrer
 @@||acs.m.taobao.com^
 @@||actiris.be/urchin.js
+@@||ad-api-v01.uliza.jp^$script,xmlhttprequest,domain=golfnetwork.co.jp|tv-asahi.co.jp
 @@||ad-cdn.bilgin.pro/app/ad-*.min.js$domain=medyafaresi.com
 @@||ad-delivery.net/px.gif$domain=bildderfrau.de,xmlhttprequest
 @@||ad-delivery.net/px.gif?$domain=explorecams.com
@@ -1328,7 +1329,6 @@
 @@||bhc.co.kr^$stealth=dpi
 @@||bhg.com/web/js-min/common/js/dwr/RemoteTargetingService.js
 @@||bid.g.doubleclick.net/dbm/vast$xmlhttprequest,domain=safeframe.googlesyndication.com
-@@||bigad.me^$domain=bigad.me
 @@||bigbtc.win/js/ads-prebid.js
 @@||bigfishaudio.com/banners/$image,~third-party
 @@||biggestplayer.cachefly.net/ad300.html
@@ -2552,7 +2552,6 @@
 @@||einthusan.tv^$generichide
 @@||eircomphonebook.ie/js/wt_capi.js?
 @@||ekamus.info^$generichide
-@@||elahmad.com/ads/fc.php
 @@||elconfidencial.com^*/AnalyticsEvent.js
 @@||elconfidencial.com^*/EventTracker.js
 @@||eldiario.es/static/BBTCore/images/pixel.gif?
@@ -4310,7 +4309,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wsls.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=xxxdan.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=yad.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=yallo.tv
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=yandexcdn.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ynet.co.il
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=zee5.com
@@ -4897,7 +4895,6 @@
 @@||lr-ingest.io/LogRocket.min.js$domain=smartcare.com
 @@||lsi.com^*/google-analytics.js
 @@||lso.ca^$stealth=dpi
-@@||lswcdn.net^$stealth=referrer
 @@||lulustream.com^$popup,domain=luluvdo.com
 @@||luluvdo.com^$stealth=useragent
 @@||luminousstreamhaven.com^$stealth=referrer,domain=edgedeliverynetwork.com
@@ -5025,7 +5022,6 @@
 @@||media.bnd.com/mistats/finalizestats.js
 @@||media.bnd.com/mistats/micb.js
 @@||media.bnd.com/mistats/products/escenic_s_code.js
-@@||media.fastclick.net/iab^$domain=youronlinechoices.com
 @@||media.foundit.*/trex/public/theme_3/dist/js/userTracking.js$script,~third-party
 @@||media.ft.com/j/optimost-$domain=ft.com
 @@||media.jd.com/static/*/ad
@@ -5504,8 +5500,6 @@
 @@||ott.yandex.ru^$stealth=ip|useragent
 @@||outbrain.com/outbrain.js$domain=cnn.com
 @@||outbrainimg.com^$third-party,domain=computerbild.de|fitbook.de|metal-hammer.de|rollingstone.de|stylebook.de
-@@||outkick.com/wp-content/plugins/advanced-ads-pro/assets/js/
-@@||outkick.com/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js
 @@||outlook.live.com^$cookie=OParams
 @@||outlookindia.com$generichide
 @@||outsideonline.com^$stealth=dpi
@@ -6484,7 +6478,6 @@
 @@||site-banner.hange.jp/adshow?$domain=animallabo.hange.jp
 @@||siteanalytics.compete.com^$~third-party
 @@||siteapps.com^$script,domain=netcombo.com.br
-@@||siva-my.jsstatic.com/_ads/_static/$domain=jobstreet.com.my
 @@||sjsmitaa.org/bin/showads.
 @@||skiplinks.xyz/skipad.webp$domain=skiplinks.xyz|lewdsteam.com|adultcomixxx.com
 @@||skmedix.pl/*/*.js$~third-party
@@ -6500,7 +6493,6 @@
 @@||slike.indiatimes.com/feed^$domain=tvid.in
 @@||slit.cn/source/plugin/unadblock/*.js
 @@||sltrib.com/pb/resources/scripts/utils/ads/ads.js
-@@||smallseotools.com^$generichide
 @@||smallseotools.com^$generichide,badfilter
 @@||smartadserver.com/ac?$domain=bildderfrau.de
 @@||smartadserver.com/call/pubx/*/M/$domain=vbox7.com
