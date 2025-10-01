@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-10-01 10:00:23（北京时间） 
-! Total count: 7809
+! Version: 2025-10-01 20:51:38（北京时间） 
+! Total count: 7811
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
@@ -134,7 +134,6 @@
 @@/cdn-cgi/pe/bag2?*skimlinks.js$domain=droid-life.com
 @@/cdn-cgi/pe/bag2?*static.getclicky.com%2Fjs$domain=amazingpics.net
 @@/cdn-cgi/pe/bag2?*yieldbot.intent.js$domain=droid-life.com
-@@/cdn/hls/*/master.txt$stealth=referrer,domain=diziyo.*|dzyco.*
 @@/cgi-bin/counter_module?action=list_models$subdocument,~third-party
 @@/check.php?callback=$script,domain=ytmp3.cc
 @@/chunks.m3u8$stealth=referrer
@@ -584,6 +583,7 @@
 @@||adcdn.pingan.com^
 @@||adconsole.ch/api/ws-businessclick/*/data.json$domain=finanzen.ch
 @@||addicted-sports.com/piwik/piwik.js
+@@||addicted.es^*/ad728-$image,~third-party
 @@||addon.dismall.com/resource/*/ad
 @@||addons.opera.com/extensions/download/$stealth
 @@||addons.opera.com^$stealth=useragent
@@ -1364,7 +1364,6 @@
 @@||bjjhq.com/HttpCombiner.ashx?$script,~third-party
 @@||blackcircles.ca^$script,~third-party
 @@||blackmod.net^$generichide
-@@||bleepingcomputer.com/download/ads-spy/
 @@||blob.core.windows.net/bge/src/js/google-analytics.js$domain=secure2.bge.com
 @@||blocket.se/annonser^
 @@||blocket.se^*/xtcore.js
@@ -2162,6 +2161,7 @@
 @@||core.airbridge.io^$app=kr.co.deep_eye.rounz_android
 @@||coremetrics.com*/eluminate.js
 @@||coremetrics.com/eluminate.js
+@@||cosmos.azure.com^$stealth=referrer
 @@||costco.com.tw/_ui/shared/js/analyticsmediator.js
 @@||costco.com.tw/jsps/website/zh/images/location/AD
 @@||cot.priceminister.com/res/static/*/xtcore.js
@@ -2614,6 +2614,7 @@
 @@||esprit.de^*/webtrekk.js
 @@||esprit.de^*/webtrekk_conf.js
 @@||essentiallysports.com^$stealth=dpi
+@@||estore.sonymobile.com/*-epp/?refid=$third-party,stealth=referrer
 @@||et.novelgames.com/ads.js?adTagUrl=
 @@||et.twyn.com/yocoptstate$domain=youronlinechoices.com
 @@||etalonline.by^$stealth=dpi
@@ -2745,6 +2746,7 @@
 @@||flormar.webinstats.com^$domain=flormar.com.tr
 @@||fltaradio.com/js/ads.js
 @@||flyert.com/plug/socialShare/js/social-share.
+@@||flying-lines.com/banners/$image,~third-party
 @@||flyordie.com/games/online/iframeafg*.html
 @@||fnggcdn.com/items/$stealth=referrer
 @@||focus.ti.com^*/metrics-min.js
@@ -4808,7 +4810,6 @@
 @@||linksynergy.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@||linkvertise.com^$generichide
 @@||linuxize.com/detroitchicago/dayton.js
-@@||listing-search-wonen.funda.io^$domain=funda.nl,stealth=referrer
 @@||litv.tv/ads/ads.js
 @@||litvp.com/checkStatus/$domain=emturbovid.com
 @@||litvp.com/creatDownload$domain=emturbovid.com
@@ -5047,8 +5048,8 @@
 @@||mediaite.com/decor/javascript/magnify_stats.js$domain=videos.mediaite.com
 @@||mediamarkt.com.tr^$genericblock
 @@||mediamarkt.de/*/shop^
-@@||mediaplex.com$domain=cnet.com
 @@||mediaplex.com^$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
+@@||mediaset.es/*mtweb$stealth=referrer,domain=mitele.es
 @@||mediav.com/js/feed_ts.js$domain=china.com|mini.yyrtv.com
 @@||mediav.com/js/interactive_plugin.js$domain=v.360kan.com
 @@||mediav.com/js/reward_video_pc.min.js$domain=baiten.cn
@@ -7387,6 +7388,7 @@
 @@||video.repubblica.it^*/nielsen.js
 @@||video.snidigital.com/*/AdManager.swf$domain=video.snidigital.com
 @@||video.weibocdn.com^$stealth=referrer
+@@||videobuster.de/js/video-js/nuevo.min.js$domain=videobuster.de
 @@||videoplaza.tv/resources/
 @@||videos.nbcolympics.com/beacon?$domain=nbcolympics.com
 @@||videosvc.ezoic.com/play?videoID=$domain=humix.com
@@ -7428,6 +7430,7 @@
 @@||vk.com/*.php?__query=$document
 @@||vk.com/vkpay$stealth
 @@||vkcdn5.com^$stealth=referrer,image,media
+@@||vkprime.com/embed-*.html$stealth=referrer
 @@||vlist.se/advertisement.js
 @@||vlm-ads.aimatch.com/vlm/jserver/$domain=titulky.com
 @@||vlscppe.microsoft.com/fp/tags.js$domain=microsoft.com
@@ -7578,7 +7581,6 @@
 @@||wordpress.org/stats/plugin/$domain=wordpress.org
 @@||wordpress.org/wp-slimstat/assets/banner-$image,~third-party
 @@||work.ink^$generichide
-@@||workers.dev/*%3D%3D.$xmlhttprequest,stealth=referrer
 @@||workers.dev/*.jpeg$stealth=referrer
 @@||workers.dev/*.m3u8$stealth=referrer
 @@||worldgravity.com^$script,domain=hotstar.com
