@@ -2,8 +2,8 @@
 ! Title: Merger-rule
 ! Homepage: https://github.com/skywrt/Merger-rule
 ! Expires: 12 Hours
-! Version: 2025-10-07 09:48:16（北京时间） 
-! Total count: 7817
+! Version: 2025-10-07 20:50:40（北京时间） 
+! Total count: 7815
 @@$cookie=__gads,domain=godstoryinfo.com|laweducationinfo.com|rsgames.xyz|vichitrainfo.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@$subdocument,xmlhttprequest,stealth=referrer,domain=pichive.online
@@ -446,7 +446,6 @@
 @@||99ybcc.com^$generichide
 @@||9anime.nl/ajax/
 @@||9anime.nl/assets^
-@@||9anime.nl/watch/$stealth=referrer
 @@||9anime.vip/ajax/
 @@||9cache.com^$stealth=referrer,domain=9gag.com
 @@||9sblog.com^$generichide
@@ -713,7 +712,6 @@
 @@||ads.viralize.tv/display/$domain=automoto.it|moto.it
 @@||ads.viralize.tv/player/$domain=automoto.it|moto.it
 @@||ads.viralize.tv/t-bid-opportunity/$domain=automoto.it|moto.it
-@@||ads.viralize.tv^|$domain=automoto.it|moto.it
 @@||ads.vk.com^$popup
 @@||adsafeprotected.com/iasPET.$script,domain=independent.co.uk|reuters.com|wjs.com
 @@||adsafeprotected.com/vans-adapter-google-ima.js$script,domain=gamingbible.co.uk|ladbible.com|reuters.com|wjs.com
@@ -1115,6 +1113,7 @@
 @@||archive.org/includes/analytics.js
 @@||archive.org/services/$image,~third-party,xmlhttprequest
 @@||arkadiumhosted.com/API/$generichide
+@@||arnhemland-safaris.com/images/made/$image,~third-party
 @@||arstechnica.com/information-technology/2019/07/data-slurped-from-4-million-browsers-still-available-via-google-analytics/
 @@||arstechnica.com/services/incr.php?*=interactions.adblock-annoy.click$xmlhttprequest
 @@||arstechnica.com^$generichide,badfilter
@@ -1565,7 +1564,6 @@
 @@||cdn.adspirit.de/banner/_default/160x600.jpg$domain=streetdir.com|roaddir.com
 @@||cdn.adspirit.de/banner/_default/300x250.jpg$domain=streetdir.com|roaddir.com
 @@||cdn.adspirit.de/banner/_default/468x60.jpg$domain=streetdir.com|roaddir.com
-@@||cdn.adspirit.de/banner/_default/728x90.jpg$domain=streetdir.com|roaddir.com
 @@||cdn.adspirit.de^$domain=cdn.adspirit.de
 @@||cdn.adswizz.com/adswizz/js/SynchroClient*.js$domain=lounge.fm
 @@||cdn.advertserve.com^$domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
@@ -2511,7 +2509,6 @@
 @@||e.zg-api.com/*/analytics.js$domain=zillow.com
 @@||e.zg-api.com/a/z/js/*/analytics.js$domain=zillow.com
 @@||e9china.net^$generichide
-@@||eapi.pcloud.com/getpublinkdownload$stealth=referrer
 @@||eapteka.ru/*/personal/$stealth=ip
 @@||easternbank.com/sites/easternbank/files/google_tag/eastern_bank/google_tag.script.js$script,~third-party
 @@||easy-firmware.com/templates/default/html/*/assets/js/fingerprint2.min.js$script,~third-party
@@ -4945,6 +4942,7 @@
 @@||manoramamax.com/videojs/videojs-contrib-ads.min.js$domain=manoramamax.com
 @@||maol.meb.gov.tr^$stealth=dpi
 @@||mapandroute.de/MapAPI-$stealth=referrer,domain=dastelefonbuch.de
+@@||mapapi.cloud.huawei.com/mapjs/v*/api/$stealth=referrer,domain=petalmaps.com
 @@||mapquest.com^$generichide
 @@||mapquestapi.com/logger/$domain=hertz.com
 @@||maps.2gis.com^$stealth=referrer
@@ -5555,7 +5553,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=keralatelecom.info
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=key-hub.eu
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kitguru.net
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=litecoinfaucet.info
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mealcold.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mobile-tracker-free.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=okdebrid.com
@@ -6538,6 +6535,7 @@
 @@||sohu.com/integration-api/mix/region/*&refer=http
 @@||sohu.com/play/videonew.do?*/share_play.
 @@||sohu.com/upload/static/share/share_play.html
+@@||soisk-me.pl/modules/*/js/advertisement.js
 @@||solr.sas.com/query/$xmlhttprequest,domain=jmp.com
 @@||solve-all-problems.info/googleads.js
 @@||som.aeroplan.com/b/ss/
@@ -6798,6 +6796,7 @@
 @@||storage.googleapis.com/aisw-assets/fanpage/adblock/advert*_.json$domain=staige.tv
 @@||storage.googleapis.com/prebid/qm_prebid.js$domain=kicker.de
 @@||storage.googleapis.com/prebid/qm_prebid8.js$domain=kicker.de
+@@||storage.googleapis.com/vkcdnservice.appspot.com/script$domain=yandexcdn.com
 @@||storage.waitst.com^$stealth=referrer,image,domain=mangakakalot.gg
 @@||storage.yandex.net/rdisk/$stealth=referrer
 @@||store-web.dynamics.com^$stealth=3p-auth
@@ -7336,7 +7335,6 @@
 @@||uwants.com/include/*/swfaddress.js
 @@||uwufufu.com/_nuxt/mixpanel.$~third-party
 @@||v.ddys.*.mp4$stealth=referrer
-@@||v.fwmrm.net/?$xmlhttprequest
 @@||v.fwmrm.net/ad/*&resp=vast2$app=com.crunchyroll.crunchyroid
 @@||v.fwmrm.net/ad/g/*$domain=nhl.com|dtmts.com
 @@||v.fwmrm.net/ad/g/*Nelonen$script
